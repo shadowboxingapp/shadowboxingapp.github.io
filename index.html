@@ -1,11 +1,14 @@
+---
+layout: default
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>
-        Shadow Boxing App | iOS at home HIIT boxing training & workouts
+        {{ site.title }}
     </title>
-    <meta name="description" content="">
+    <meta name="description" content="{{ site.description }}">
     <meta content='user-scalable=no, width=device-width, initial-scale=1.0' name='viewport'>
     <meta name="google-site-verification" content="x2EpQdOMz-k9fP8hak9I3COaXhnQ4jNLp2GU4GYQ8jM" />
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700;900&family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
@@ -13,204 +16,8 @@
 
     <link rel="shortcut icon" href="/assets/favicon.png">
     <style type="text/css">
-      /* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-.clearfix:after {
-	content: ".";
-	display: block;
-	clear: both;
-	visibility: hidden;
-	line-height: 0;
-	height: 0;
-}
- 
-.clearfix {
-	display: inline-block;
-}
- 
-html[xmlns] .clearfix {
-	display: block;
-}
- 
-* html .clearfix {
-	height: 1%;
-}
-
-      body{
-  border-top: 5px solid #121212;
-  font-family: 'Mulish', sans-serif;
-}
-
-#hero {
-  background-image: url(/assets/punch.jpeg);
-  height: 600px;
-  width: 100%;
-  background-size: cover;
-  color: #FBFBFB;
-}
-
-h1 {
-  text-transform: uppercase;
-  font-size: 50px;
-  font-weight: bold;
-  max-width: 500px;
-  text-shadow: 1px 1px #222;
-}
-
-.hero-container {
-  max-width: 700px;
-  margin: auto;
-  padding: 170px 20px 40px 20px;
-
-}
-
-.hero-container  p {
-    margin-top: 20px;
-    font-size: 20px;
-    max-width: 500px;
-    text-shadow: 2px 1px #222;
-    line-height: 25px;
-  }
-
-
-
-.features {
-  font-size: 20px;
-  padding: 60px 20px;
-}
-
-.features h2 {
-  text-transform: uppercase;
-  color: #4B4C4D;
-  font-size: 25px;
-  padding: 0px 0px 40px 0px;
-}
-.features p {
-  margin-bottom: 20px;
-}
-.wrapper {
-  max-width: 800px;
-  margin: auto;
-}
-
-strong {
-  font-weight: bold;
-}
-
-ul {
-  margin-left: 20px;
-}
-li {
- padding: 10px 0px;
- list-style: square;
-}
-
-.dark {
-  background-color: #18191A;
-  color: #FBFBFB;
-}
-
-.dark strong {
-  color: #fab219;
-}
-
-.dark h2 {
-  color: #4B4C4D;
-}
-
-.light {
-  background-color: #FBFBFB;
-  color: #18191A;
-}
-
-.light strong {
-  color: #2DE3B6;
-}
-
-.light h2 {
-  color: #a2a4a6;
-}
-
-#footer {
-  background-color: #18191A;
-  color: #a2a4a6;
-  padding: 80px 0px 100px 0px;
-  text-align: center;
-}
-
-#footer a {
-  display: inline-block;
-  margin-top: 20px;
-}
-
-
-.get-app {
-  margin-top: 20px;
-  background-color: #2DE3B6;
-  border: 1px solid #25cfa4;
-  color: #FBFBFB;
-  padding: 13px 60px 15px 60px;
-  display: inline-block;
-  text-decoration: none;
-  font-size: 16px;
-  border-radius: 5px;
-  transition: 0.2s;
-
-}
-
-.get-app:hover {
-  background-color: #25cfa4;
-  transition: 0.5s;
-}
-
-
+      {% include reset.css %}
+      {% include website.css %}
     </style>
   </head>
 
@@ -312,4 +119,3 @@ li {
 
   </body>
 </html>
-
