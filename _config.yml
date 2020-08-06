@@ -1,0 +1,19 @@
+permalink: /:categories/:year/:month/:day/:title/
+
+exclude: [".rvmrc", "README.md", "Rakefile", "/bin"]
+
+markdown: kramdown
+
+title : Shadow Boxing App | iOS at home HIIT boxing training & workouts
+
+production_url : https://shadowboxingapp.com
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      blog: true
+      category: blog
+      featured: false
+      layout: post
