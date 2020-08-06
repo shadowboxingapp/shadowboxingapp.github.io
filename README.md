@@ -1,3 +1,0 @@
-# shadowboxing
-
-readme
