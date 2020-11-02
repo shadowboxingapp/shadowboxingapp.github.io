@@ -50,19 +50,19 @@ layout: default
       </div>
 
       <div class="row screenshots">
-        <div class="col-md">
+        <div class="col">
           <h2>Pick from many workouts</h2>
           <p>from HIIT to freestyle<p>
           <img src="assets/web_screenshot_1.png" />
         </div>
 
-        <div class="col-md">
+        <div class="col">
           <h2>Follow audio cues</h2>
           <p>just like doing virtual pad work<p>
           <img src="assets/web_screenshot_2.png" />
         </div>
 
-        <div class="col-md">
+        <div class="col">
           <h2>Entirely customizable</h2>
           <p>set the exercises, the intensity...</p>
           <img src="assets/web_screenshot_3.png" />
@@ -81,7 +81,7 @@ layout: default
 
       <div class="row">
         {% for exercise in site.data.exercises %}
-            <div class= "col-4">
+            <div class= "col-md-4 col-sm-6 col-lg-3">
               <div class="mode">
                 <h3>
                   <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon"/>
@@ -103,19 +103,19 @@ layout: default
 
     <div class="container-fluid dark">
       <div class="row screenshots">
-        <div class="col-md">
+        <div class="col">
           <h2>Mirror mode</h2>
           <p>record yourself boxing & improve<p>
           <img src="assets/web_screenshot_4.png" />
         </div>
 
-        <div class="col-md">
+        <div class="col">
           <h2>Free round timer</h2>
           <p>efficient and without ads<p>
           <img src="assets/web_screenshot_5.png" />
         </div>
 
-        <div class="col-md">
+        <div class="col">
           <h2>Statistics</h2>
           <p>track trainings, stay motivated</p>
           <img src="assets/web_screenshot_6.png" />
@@ -134,8 +134,8 @@ layout: default
 
       <div class="row">
         {% for preset in site.data.presets %}
-            <div class= "col-6">
-              <div class="preset" style="background: url('/assets/presets/{{preset.code}}.png');background-size:cover;">
+            <div class= "col-md-4 col-sm-6 col-lg-3">
+              <div class="preset" style="background: url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
                 <h3>
                   {{ preset.title }}
                 </h3>
