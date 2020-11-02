@@ -11,89 +11,139 @@ layout: default
     <meta name="description" content="{{ site.description }}">
     <meta content='user-scalable=no, width=device-width, initial-scale=1.0' name='viewport'>
     <meta name="google-site-verification" content="x2EpQdOMz-k9fP8hak9I3COaXhnQ4jNLp2GU4GYQ8jM" />
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700;900&family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
 
 
     <link rel="shortcut icon" href="/assets/favicon.png">
     <style type="text/css">
       {% include reset.css %}
+      {% include bootstrap-grid.min.css %}
       {% include website.css %}
     </style>
   </head>
 
   <body>
 
-    <div id="hero">
-      <div class="hero-container" >
-      <h1>
-        Improve your boxing, stay in shape
-      </h1>
-      <p>
-        Get the app that will generate shadow boxing exercises fitting your preference to train at home, the gym or outside.
-        Improve your technique, increase your stamina and have fun!
-      </p>
+    <div id="main" class="container-fluid">
 
-      <a class="get-app" href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-        Get the app
-      </a>
+      <div class="row">
+        <div class="col">
+          <h1>SHADOW BOXING APP</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <p id="subtitle">Practice boxing anywhere without gear.</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col download">
+          <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
+            <img src="/assets/download.svg" alt="app store download" />
+          </a>
+        </div>
+      </div>
+
+      <div class="row screenshots">
+        <div class="col-md">
+          <h2>Pick from many workouts</h2>
+          <p>from HIIT to freestyle<p>
+          <img src="assets/web_screenshot_1.png" />
+        </div>
+
+        <div class="col-md">
+          <h2>Follow audio cues</h2>
+          <p>just like doing virtual pad work<p>
+          <img src="assets/web_screenshot_2.png" />
+        </div>
+
+        <div class="col-md">
+          <h2>Entirely customizable</h2>
+          <p>set the exercises, the intensity...</p>
+          <img src="assets/web_screenshot_3.png" />
+        </div>
       </div>
     </div>
 
-    <div class="features dark">
-      <div class="wrapper">
-        <h2>Shadow Boxing Training</h2>
-        <p>
-        Follow training sessions that will be different every time, such as:
-        </p>
-        <ul>
-          <li><strong>HIIT</strong>, a very high intensity workout to get the most of your time</li>
-          <li><strong>Slow pace</strong> for those getting back in shape</li>
-          <li><strong>Free form</strong> for a few rounds with a coach giving you audio directions</li>
-          <li><strong>Insanity</strong> to go non stop for 25 minutes through intense exercises</li>
-        </ul>
+    <div class="container light">
+      <div class="row">
+        <div class="col">
+          <h2 class="follow">
+            Follow along many different boxing exercises
+          </h2>
+        </div>
+      </div>
+
+      <div class="row">
+        {% for exercise in site.data.exercises %}
+            <div class= "col-4">
+              <div class="mode">
+                <h3>
+                  <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon"/>
+                  {{ exercise.title }}
+                </h3>
+                {{ exercise.description }}
+              </div>
+            </div>
+        {% endfor %}
+      </div>
+      <div class="row">
+        <div class="col download">
+          <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
+            <img src="/assets/download.svg" alt="app store download" />
+          </a>
+        </div>
       </div>
     </div>
 
-    <div class="features light">
-      <div class="wrapper">
-        <h2>Various modes</h2>
-        <p>
-          Focus on one mode, or mix them for a fully customized training session.
-        </p>
-        <ul>
-          <li><strong>Pad Work</strong> will give you simple combos and freestyle combos to execute</li>
-          <li><strong>Freestyle</strong> lets you do your own thing with optional directions</li>
-          <li><strong>Repetition</strong> gives you one combo to practice for an entire round</li>
-          <li><strong>Jump rope</strong> lets you practice your boxer skip and is a great way to boost your cardio</li>
-        </ul>
+    <div class="container-fluid dark">
+      <div class="row screenshots">
+        <div class="col-md">
+          <h2>Mirror mode</h2>
+          <p>record yourself boxing & improve<p>
+          <img src="assets/web_screenshot_4.png" />
+        </div>
 
+        <div class="col-md">
+          <h2>Free round timer</h2>
+          <p>efficient and without ads<p>
+          <img src="assets/web_screenshot_5.png" />
+        </div>
+
+        <div class="col-md">
+          <h2>Statistics</h2>
+          <p>track trainings, stay motivated</p>
+          <img src="assets/web_screenshot_6.png" />
+        </div>
       </div>
     </div>
 
-    <div class="features dark">
-      <div class="wrapper">
-        <h2>Infinitely generated & customizable trainings</h2>
-        <p>
-          Every training is generated on the spot, so you will never have
-        </p>
-        <ul>
-          <li><strong>Modes</strong>, pick what kind of exercice you want to do</li>
-          <li><strong>Round count</strong> as well as length</li>
-          <li><strong>Active recovery</strong>, so you can either stop and rest of keep going non stop</li>
-          <li><strong>Intensity</strong>: do you want to go hard or keep it easy? </li>
-        </ul>
-        <a class="get-app" href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-          Start shadow boxing
-        </a>
+    <div class="container light">
+      <div class="row">
+        <div class="col">
+          <h2 class="follow">
+            Pick from interesting workouts
+          </h2>
+        </div>
       </div>
-    </div>
 
-    <div class="features light">
-      <div class="wrapper">
-        <h2>Statistics on your progress</h2>
-        <p>
-        See how you are improving over time with <strong>stats</strong> about your previous trainings.
-        </p>
+      <div class="row">
+        {% for preset in site.data.presets %}
+            <div class= "col-6">
+              <div class="preset" style="background: url('/assets/presets/{{preset.code}}.png');background-size:cover;">
+                <h3>
+                  {{ preset.title }}
+                </h3>
+                <p> {{ preset.description }}</p>
+              </div>
+            </div>
+        {% endfor %}
+        <div class="col download">
+          <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
+            <img src="/assets/download.svg" alt="app store download" />
+          </a>
+        </div>
       </div>
     </div>
 

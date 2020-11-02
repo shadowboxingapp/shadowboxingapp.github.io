@@ -1,0 +1,57 @@
+- title: "Freestyle"
+  code: "freestyle"
+  description: "lets you do your own thing with an audio coach giving you directions"
+
+- title: "Pad Work"
+  code: "callouts"
+  description: "will give you simple combos to execute when called out by the app."
+
+- title: "Push-ups"
+  code: "pushUps"
+  description: "is a simple but effective exercise to build strength."
+
+- title: "Jump Rope"
+  code: "jumpRope"
+  description: "lets you practice your boxer skip and is a great way to boost your cardio."
+
+- title: "Repetitions"
+  code: "repetitions"
+  description: "gives you one combo to practice for an entire round."
+
+
+- title: "Punching Bag"
+  code: "punchingBag"
+  description: "alternates non-stop fast punches and powerful combos to build explosiveness."
+
+- title: "Active recovery"
+  code: "activeRecovery"
+  description: "allows you to slow down while throwing simple punches with defensive movements."
+
+- title: "Rest"
+  code: "rest"
+  description: "is what it sounds like... you actually get to rest!"
+
+- title: "Dodge"
+  code: "dodge"
+  description: "focuses on reaction speed, slipping and countering with simple punches."
+
+
+- title: "Tutorial"
+  code: "tutorial"
+  description: "to learn about the app and boxing. It's accessible via the workout tab."
+
+- title: "Round timer"
+  code: "timer"
+  description: "is a simple way to keep track of your sparring sessions. It's accessible in the app's tabs."
+
+- title: "Squats"
+  code: "squats"
+  description: "are a great way to strenghten your lower body and build explosiveness."
+
+- title: "Defense"
+  code: "defense"
+  description: "exercises focus on combinations including defensive movements."
+
+- title: "... and more"
+  code: "repetitions"
+  description: "We are adding new exercises and workout regularly"

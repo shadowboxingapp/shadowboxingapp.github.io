@@ -1,40 +1,65 @@
 body{
-  border-top: 5px solid #121212;
-  font-family: 'Mulish', sans-serif;
-}
-
-#hero {
-  background-image: url(/assets/punch.jpeg);
-  height: 600px;
-  width: 100%;
-  background-size: cover;
-  color: #FBFBFB;
+  border-top: 5px solid #fab219;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', 'Arial', sans-serif;
 }
 
 h1 {
   text-transform: uppercase;
   font-size: 50px;
   font-weight: bold;
-  max-width: 500px;
   text-shadow: 1px 1px #222;
+  text-align: center;
 }
 
-.hero-container {
-  max-width: 700px;
-  margin: auto;
-  padding: 170px 20px 40px 20px;
-
+#main {
+  background-color: #121212;
+  width: 100%;
+  background-size: cover;
+  color: #FBFBFB;
+  padding: 120px 20px 60px 20px;
+  text-align: center;
 }
 
-.hero-container  p {
-    margin-top: 20px;
-    font-size: 20px;
-    max-width: 500px;
-    text-shadow: 2px 1px #222;
-    line-height: 25px;
-  }
+#main #subtitle {
+  margin-top: 20px;
+  font-size: 20px;
+  text-shadow: 2px 1px #222;
+  line-height: 25px;
+}
 
 
+.download {
+  text-align: center;
+}
+.download a {
+  margin: 30px 20px 20px 20px;
+  display: inline-block;
+}
+.download a img {
+  width: 180px;
+}
+
+.screenshots {
+  margin: 20px;
+  text-align: center;
+}
+
+.screenshots img {
+  width: 240px;
+}
+
+.screenshots h2 {
+  color: #fab219;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 40px 20px 10px 20px;
+}
+.screenshots p {
+  color: #a2a4a6;
+  font-size: 14px;
+  padding-bottom: 20px;
+}
 
 .features {
   font-size: 20px;
@@ -69,28 +94,11 @@ li {
 
 .dark {
   background-color: #18191A;
-  color: #FBFBFB;
-}
-
-.dark strong {
-  color: #fab219;
-}
-
-.dark h2 {
-  color: #4B4C4D;
 }
 
 .light {
   background-color: #FBFBFB;
   color: #18191A;
-}
-
-.light strong {
-  color: #2DE3B6;
-}
-
-.light h2 {
-  color: #a2a4a6;
 }
 
 #footer {
@@ -108,20 +116,72 @@ li {
 
 .get-app {
   margin-top: 20px;
-  background-color: #2DE3B6;
-  border: 1px solid #25cfa4;
+  background-color: #fab219;
+  border: 1px solid #d19411;
   color: #FBFBFB;
   padding: 13px 60px 15px 60px;
   display: inline-block;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 18px;
   border-radius: 5px;
   transition: 0.2s;
-
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 2px #d19411;
 }
 
 .get-app:hover {
-  background-color: #25cfa4;
+  color: #fff;
   transition: 0.5s;
+  text-shadow: none;
 }
+
+.mode_icon {
+  width: 30px;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+.mode {
+  padding: 10px 10px 15px 10px;
+  text-align: center;
+  border: 1px solid #dadada;
+  margin: 10px;
+}
+.mode h3 {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.follow {
+  text-align: center;
+  font-size: 30px;
+  color: #f5a600;
+  padding: 30px 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 0px 0px 2px #fab219;
+}
+
+.preset {
+  color: #fff;
+  text-align: center;
+  padding: 80px 10px;
+  margin: 20px;
+}
+
+.preset p {
+  font-size: 14px;
+  line-height: 20px;
+  text-shadow: 0px 0px 2px #000;
+}
+
+.preset h3 {
+  color: #fab219;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 10px;
+  text-shadow: 0px 0px 2px #000;
+}
+
 
