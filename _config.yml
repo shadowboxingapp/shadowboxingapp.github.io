@@ -2,7 +2,7 @@ exclude: [".rvmrc", "README.md", "Rakefile", "/bin"]
 
 markdown: kramdown
 
-title : Shadow Boxing App | training & HIIT workouts for iOS
-description: Train and improve your boxing skills from anywhere.
+title : Shadow Boxing App | Boxing training at home for iOS
+description:  Improve your boxing skills from anywhere with this app that calls out punches.
 
 production_url : http://shadowboxingapp.com

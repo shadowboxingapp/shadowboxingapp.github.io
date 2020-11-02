@@ -56,13 +56,13 @@ h1 {
 .screenshots h2 {
   color: #fab219;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: bold;
-  padding: 40px 20px 10px 20px;
+  padding: 40px 10px 10px 10px;
 }
 .screenshots p {
   color: #a2a4a6;
-  font-size: 14px;
+  font-size: 16px;
   padding-bottom: 20px;
 }
 
