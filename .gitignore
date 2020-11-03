@@ -1,2 +1,4 @@
 *.swp
 .swo
+.jekyll-cache/Jekyll
+.Ulysses-Group.plist
