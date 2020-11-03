@@ -14,10 +14,6 @@
   description: "Simple shadow boxing session with combos, defense and more."
   code: "basic"
 
-- title: "CUSTOM WORKOUT"
-  description: "Define all the components of your training"
-  code: "custom_workout"
-
 - title: "REPETITIONS"
   description: "Practice a single combo for the entire duration of a round"
   code: "repetitions"
@@ -53,10 +49,6 @@
 - title: "PUNCHING BAG"
   description: "Work on the bag with various exercises & some freestyle"
   code: "punching_bag_mix"
-
-- title: "ALL EXERCISES"
-  description: "Intense training where you go through tons of different exercises"
-  code: "all_of_it"
 
 - title: "PUSHUPS"
   description: "Quickly alternate between freestyle and pushups"

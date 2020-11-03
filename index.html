@@ -1,175 +1,135 @@
 ---
 layout: default
 ---
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>
-        {{ site.title }}
-    </title>
-    <meta name="description" content="{{ site.description }}">
-    <meta content='user-scalable=no, width=device-width, initial-scale=1.0' name='viewport'>
-    <meta name="google-site-verification" content="x2EpQdOMz-k9fP8hak9I3COaXhnQ4jNLp2GU4GYQ8jM" />
 
-    <meta content='app-id=1510911574' name='apple-itunes-app'>
+<div class="container-fluid dark">
+  <div class="row">
+    <div class="col">
+      <h1 class="home_title">
+        <img src='assets/iconFull.jpg' class='icon' />
+        Shadow Boxing App
+      </h1>
+    </div>
+  </div>
 
-    <link rel="shortcut icon" href="/assets/favicon.png">
-    <style type="text/css">
-      {% include reset.css %}
-      {% include bootstrap-grid.min.css %}
-      {% include website.css %}
-    </style>
-  </head>
+  <div class="row">
+    <div class="col">
+      <p id="subtitle">Practice boxing anywhere without gear.</p>
+    </div>
+  </div>
 
-  <body>
+  {% include getapp.html %}
+  {% include screenshots1.html %}
+</div>
 
-    <div id="main" class="container-fluid">
+<div class="container-fluid light">
+  <div class="row">
+    <div class="col">
+      <h2 class="follow">
+        Follow along many different boxing exercises
+      </h2>
+    </div>
+  </div>
 
-      <div class="row">
-        <div class="col">
-          <h1>
-            <img src='assets/iconFull.jpg' class='icon' />
-            Shadow Boxing App
-          </h1>
+  <div class="row">
+    {% for exercise in site.data.exercises %}
+        <div class= "col-md-4 col-sm-6 col-lg-3">
+          <div class="mode">
+            <h3>
+              <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon"/>
+              {{ exercise.title }}
+            </h3>
+            {{ exercise.description }}
+          </div>
         </div>
-      </div>
+    {% endfor %}
+  </div>
+  <div class="row">
+    <div class="col download">
+      <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
+        <img src="/assets/download.svg" alt="app store download" />
+      </a>
+    </div>
+  </div>
+</div>
 
-      <div class="row">
-        <div class="col">
-          <p id="subtitle">Practice boxing anywhere without gear.</p>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col download">
-          <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-            <img src="/assets/download.svg" alt="app store download" />
-          </a>
-        </div>
-      </div>
-
-      <div class="row screenshots">
-        <div class="col">
-          <h2>Pick from many workouts</h2>
-          <p>from HIIT to freestyle<p>
-          <img src="assets/web_screenshot_1.png" />
-        </div>
-
-        <div class="col">
-          <h2>Follow audio cues</h2>
-          <p>just like doing virtual pad work<p>
-          <img src="assets/web_screenshot_2.png" />
-        </div>
-
-        <div class="col">
-          <h2>Entirely customizable</h2>
-          <p>set the exercises, the intensity...</p>
-          <img src="assets/web_screenshot_3.png" />
-        </div>
-      </div>
+<div class="container-fluid dark">
+  <div class="row screenshots">
+    <div class="col">
+      <h2>Mirror mode</h2>
+      <p>record yourself boxing & improve<p>
+      <img src="assets/web_screenshot_4.png" />
     </div>
 
-    <div class="container light">
-      <div class="row">
-        <div class="col">
-          <h2 class="follow">
-            Follow along many different boxing exercises
-          </h2>
-        </div>
-      </div>
-
-      <div class="row">
-        {% for exercise in site.data.exercises %}
-            <div class= "col-md-4 col-sm-6 col-lg-3">
-              <div class="mode">
-                <h3>
-                  <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon"/>
-                  {{ exercise.title }}
-                </h3>
-                {{ exercise.description }}
-              </div>
-            </div>
-        {% endfor %}
-      </div>
-      <div class="row">
-        <div class="col download">
-          <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-            <img src="/assets/download.svg" alt="app store download" />
-          </a>
-        </div>
-      </div>
+    <div class="col">
+      <h2>Free round timer</h2>
+      <p>efficient and without ads<p>
+      <img src="assets/web_screenshot_5.png" />
     </div>
 
-    <div class="container-fluid dark">
-      <div class="row screenshots">
-        <div class="col">
-          <h2>Mirror mode</h2>
-          <p>record yourself boxing & improve<p>
-          <img src="assets/web_screenshot_4.png" />
-        </div>
-
-        <div class="col">
-          <h2>Free round timer</h2>
-          <p>efficient and without ads<p>
-          <img src="assets/web_screenshot_5.png" />
-        </div>
-
-        <div class="col">
-          <h2>Statistics</h2>
-          <p>track trainings, stay motivated</p>
-          <img src="assets/web_screenshot_6.png" />
-        </div>
-      </div>
+    <div class="col">
+      <h2>Statistics</h2>
+      <p>track trainings, stay motivated</p>
+      <img src="assets/web_screenshot_6.png" />
     </div>
+  </div>
+</div>
 
-    <div class="container light">
-      <div class="row">
-        <div class="col">
-          <h2 class="follow">
-            Pick from interesting workouts
-          </h2>
-        </div>
-      </div>
-
-      <div class="row">
-        {% for preset in site.data.presets %}
-            <div class= "col-md-4 col-sm-6 col-lg-3">
-              <div class="preset" style="background: url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
-                <h3>
-                  {{ preset.title }}
-                </h3>
-                <p> {{ preset.description }}</p>
-              </div>
-            </div>
-        {% endfor %}
-        <div class="col-md-4 col-sm-6 col-lg-3 download">
-          <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-            <img src="/assets/download.svg" alt="app store download" />
-          </a>
-        </div>
-      </div>
+<div class="container-fluid light">
+  <div class="row">
+    <div class="col">
+      <h2 class="follow">
+        Pick from interesting boxing workouts
+      </h2>
     </div>
+  </div>
 
-    <div id="footer">
-      <div class="wrapper">
-        &copy; 2020 Shadow Boxing workout
-        <br />
-        <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-          <img src="/assets/download.svg" alt="app store download" />
-        </a>
-      </div>
+  <div class="row">
+    {% for preset in site.data.presets %}
+        <div class= "col-md-4 col-sm-6 col-lg-3">
+          <div class="preset" style="background: url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
+            <h3>
+              {{ preset.title }}
+            </h3>
+            <p> {{ preset.description }}</p>
+          </div>
+        </div>
+    {% endfor %}
+    <div class="col-md-4 col-sm-6 col-lg-3 download">
+      <br/>
+      <br/>
+      Download this shadow boxing training app for iPhone
+      <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
+        <img src="/assets/download.svg" alt="app store download" />
+      </a>
+      <br/>
+      <br/>
+      <br/>
     </div>
+  </div>
+</div>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171713933-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-171713933-1');
-    </script>
-
-  </body>
-</html>
+<div class="container-fluid dark from_the_blog">
+  <div class="row">
+    <div class="col">
+      <h2 class="blog_title">
+        From the blog
+      </h2>
+    </div>
+  </div>
+  {% for post in site.posts %}
+    <div class="row ">
+      <div class= "col-md-4 col-sm-6 col-lg-3 blog_post_home">
+            <h3>
+              <a href="{{ BASE_PATH }}{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+            <p>
+              {{ post.description }}
+            </p>
+          </div>
+        </div>
+    </div>
+  {% endfor %}
+</div>

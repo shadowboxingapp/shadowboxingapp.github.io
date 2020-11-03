@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="container header">
+  <a href="/">Shadow Boxing Workout App</a>
+  |
+  <a href="/">Blog</a>
+  |
+  <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">Download</a>
+</div>
+
+<div class="post dark">
+  <div class="container-fluid post_header">
+      <h1>{{ page.title }}</h1>
+  </div>
+  <div class="container dark">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        {{ content }}
+        {% include getapp.html %}
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid dark">
+  {% include screenshots1.html %}
+  {% include getapp.html %}
+</div>
+

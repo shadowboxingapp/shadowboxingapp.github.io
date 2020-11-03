@@ -1,8 +1,13 @@
 exclude: [".rvmrc", "README.md", "Rakefile", "/bin"]
 
+permalink: /:title/
+
 markdown: kramdown
 
 title : Shadow Boxing App | Boxing training at home for iOS
-description:  Improve your boxing skills from anywhere with this app that calls out punches.
+description:  Improve your boxing skills from anywhere with this app for iPhone that calls out punches and more.
 
 production_url : http://shadowboxingapp.com
+
+collection:
+  - posts

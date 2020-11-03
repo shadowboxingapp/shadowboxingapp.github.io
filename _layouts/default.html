@@ -1,5 +1,61 @@
 ---
 layout: compress
 ---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+        {{ site.title }}
+    </title>
+    <meta name="description" content="{{ site.description }}">
+    <meta content='user-scalable=no, width=device-width, initial-scale=1.0' name='viewport'>
+    <meta name="google-site-verification" content="x2EpQdOMz-k9fP8hak9I3COaXhnQ4jNLp2GU4GYQ8jM" />
 
-{{content}}
+    <meta content='app-id=1510911574' name='apple-itunes-app'>
+
+    <link rel="shortcut icon" href="/assets/favicon.png">
+    <style type="text/css">
+      {% include reset.css %}
+      {% include bootstrap-grid.min.css %}
+      {% include website.css %}
+    </style>
+  </head>
+
+  <body>
+
+    <div id="main">
+      {{content}}
+    </div>
+
+    <div id="footer">
+      <div class="wrapper">
+        &copy; 2020 Shadow Boxing workout -
+        <a href="https://www.notion.so/Privacy-Policy-851e7966216e4163be908db502123708">Privacy Policy</a>
+        |
+        <a href="https://www.notion.so/Terms-of-Service-0082eb52e51d4013ad615dc90f89faef">Terms of Services</a>
+        <br />
+        <a href="https://twitter.com/shadowboxingapp">Twitter</a>
+        |
+        <a href="https://www.youtube.com/channel/UCH4ijqgkws8HWR_wxJWLaKw">Youtube</a>
+        |
+        <a href="https://www.instagram.com/shadowboxingapp/">Instagram</a>
+        <br />
+        <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
+          <img src="/assets/download.svg" alt="app store download" />
+        </a>
+      </div>
+    </div>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171713933-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-171713933-1');
+    </script>
+
+  </body>
+</html>
