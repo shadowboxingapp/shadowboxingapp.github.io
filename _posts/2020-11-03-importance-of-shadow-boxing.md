@@ -2,6 +2,7 @@
 title: "The importance of Shadow Boxing"
 imageCode: "freestyle"
 description: "Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits."
+contextualAd: "With this boxing workout app, be more focused in your training. The app will call out punches and give you guidance while you box."
 layout: post
 ---
 
@@ -28,6 +29,8 @@ No one can perform critical tasks with ease unless one has a strong muscle memor
 A shadow boxing workout is the best way to develop muscle memory as it allows you to repeat a task over and over again, once the muscle memory is developed; you can unleash your moves in the ring while charging at your opponent. You can develop your skills, and move freely in the ring. 
 
 If you use [a shadow boxing app on your phone][1], you can follow along the various exercises and react when the app calls for a specific punch, making it second nature in the long run.
+
+{% include appad.html %}
 
 ## Develops the form
 
