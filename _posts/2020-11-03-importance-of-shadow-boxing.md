@@ -1,7 +1,7 @@
 ---
 title: "The importance of Shadow Boxing"
 imageCode: "freestyle"
-description: "Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits. Let’s talk about some less known benefits."
+description: "Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits."
 layout: post
 ---
 

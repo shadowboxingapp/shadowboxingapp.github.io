@@ -269,11 +269,16 @@ li {
   padding-bottom: 20px;
   line-height: 30px;
   font-size: 25px;
+  font-weight: bold;
 }
 
-.blog_post_home a {
+.blog_post_home h3 a{
   color: #fff;
 }
+
 .from_the_blog {
-  padding-bottom: 20px;
+  padding-bottom: 60px;
+}
+.read_more {
+  color: #f5a600;
 }
