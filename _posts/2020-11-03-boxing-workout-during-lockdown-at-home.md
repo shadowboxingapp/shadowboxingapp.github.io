@@ -34,9 +34,11 @@ Staying fit and working on technique is vitally important and remaining motivate
 
 One option to stay active is to train with an application. For instance you can use the [Shadow Boxing Workout][2] app in your daily boxing routine.
 
-This app will give you exercises to complete like virtual pad work (calling out punches), dodge drills or punching bag training. On top of this, it will let you follow your progress and statistics to stay motivated even if you are stuck at home.
+This app will give you exercises to complete like virtual pad work (calling out punches), dodge drills or punching bag training. You can also share videos of your training online to keep in touch with other boxers.
 
-You can also share videos of your training online to keep in touch with other boxers.
+<div style='text-align: center'><img src='/assets/screenshot_practice_rotated.png' style='width: 80%;margin: 10px 0px 30px 0px;' alt='Box at home with an app, record yourself'/></div>
+
+On top of all this, the app will let you follow your progress and statistics to stay motivated even if you are stuck at home.
 
 [1]:	/importance-of-shadow-boxing/
 [2]:	/
