@@ -49,5 +49,7 @@ Hence, a shadow boxing workout beneficially helps you as it is not only a warm-u
 
 If you want to try shadow boxing, you can start with [a shadow boxing app][2] like the one we are building. You can start for free and discover all the exercises available.
 
+{% include getapp.html %}
+
 [1]:	/
 [2]:	/

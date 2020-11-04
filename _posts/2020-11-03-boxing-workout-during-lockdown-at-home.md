@@ -1,6 +1,6 @@
 ---
 title: "Boxing training during lockdown"
-imageCode: "easy_pace"
+imageCode: "easy\_pace"
 description: "Lockdown has affected many activities that people often took for granted, especially fitness and exercise. No sport has been exempted from the impacts, including boxing. Staying focused and motivated is a key battle in the fight game, where one missed step or slight lapse in concentration can result in a knockout loss or even worse - serious injury."
 contextualAd: "Follow boxing workouts and stay motivated by tracking your progress with this iPhone app."
 includeScreenshots: "yes"
@@ -40,6 +40,8 @@ This app will give you exercises to complete like virtual pad work (calling out 
 <div style='text-align: center'><img src='/assets/screenshot_practice_rotated.png' style='width: 80%;margin: 10px 0px 30px 0px;' alt='Box at home with an app, record yourself'/></div>
 
 On top of all this, the app will let you follow your progress and statistics to stay motivated even if you are stuck at home.
+
+{% include getapp.html %}
 
 [1]:	/importance-of-shadow-boxing/
 [2]:	/
