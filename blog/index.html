@@ -4,22 +4,26 @@ layout: default
 <div class="container-fluid dark">
   <h1 class="home_title">Shadow boxing blog</h1>
 </div>
-<div class="container dark blog_articles">
-    {% for post in site.posts %}
-      <div class="row blog_post_index">
-        <div class="col-3">
-          <img src="/assets/presets/{{post.imageCode}}-min.png" alt='{{post.title}}' />
+<div class="container-fluid dark blog_articles">
+    <div class="row blog_post_index">
+      {% for post in site.posts %}
+        <div class="col-md-6 col-12 blog_post_index_item">
+          <div class="row">
+            <div class="col-4">
+              <img src="/assets/presets/{{post.imageCode}}-min.png" alt='{{post.title}}' />
+            </div>
+            <div class="col">
+              <h2>
+                <a href="{{ BASE_PATH }}{{ post.url }}">
+                  {{ post.title }}
+                </a>
+              </h2>
+              <p>
+                {{ post.description }}
+              </p>
+            </div>
+          </div>
         </div>
-        <div class="col">
-          <h2>
-            <a href="{{ BASE_PATH }}{{ post.url }}">
-              → {{ post.title }}
-            </a>
-          </h2>
-          <p>
-            {{ post.description }}
-          </p>
-        </div>
-      </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
 </div>
