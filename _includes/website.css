@@ -318,4 +318,40 @@ li {
 }
 
 
+.app_icon {
+  width: 100%;
+  border-radius: 10px;
+  margin: 10px auto 30px auto;
+  border: 1px solid #666;
+}
+.app_screenshots {
+  width: 100%;
+}
+.pros {
+  font-weight: bold;
+  color: #00d600;
+}
+.cons {
+  color: #d60000;
+}
+.best_apps ul{
+  padding-bottom: 20px;
+}
+.best_apps {
+  padding-bottom: 60px;
+}
 
+.best_apps h2 a {
+  color: #fff !important;
+}
+
+.app_point_header {
+  font-weight: bold;
+  text-align: left;
+  font-size: 18px;
+}
+.best_apps ul li{
+  text-align: left;
+  list-style-type: none;
+  font-size: 18px;
+}

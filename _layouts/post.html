@@ -11,15 +11,16 @@ layout: default
       <div class="col-md-2"></div>
       <div class="col-md-8">
         {{ content }}
-        {% include getapp.html %}
       </div>
       <div class="col-md-2"></div>
     </div>
   </div>
 </div>
 
-<div class="container-fluid dark">
-  {% include screenshots1.html %}
-  {% include getapp.html %}
-</div>
+{% if page.includeScreenshots == "yes" %}
+  <div class="container-fluid dark">
+    {% include screenshots1.html %}
+    {% include getapp.html %}
+  </div>
+{% endif %}
 

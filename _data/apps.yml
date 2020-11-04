@@ -1,0 +1,53 @@
+mayweather:
+  title: "Mayweather Boxing"
+  description: "The application, the effect of which you will feel immediately on yourself! That’s because it was developed by top experts in fitness and boxing.cation, the effect of which you will feel immediately on yourself! That’s because it was developed by top experts in fitness and boxing."
+  link: "https://apps.apple.com/app/mayweather-boxing-fitness/id1308367986"
+  pros:
+    - "Great visuals"
+    - "The expertise of Floyd Mayweather"
+  cons:
+    - "Very expensive"
+    - "Sometime not technical enough"
+
+timerplus:
+  title: "Timer Plus"
+  link: "https://apps.apple.com/app/timer-plus-workouts-timer/id1279716547"
+  description: "It's important to have the right timer when training, and this one is a great option with clear visual and additional features. It works well for HIIT or Tabata workouts"
+  pros:
+    - "Huge display you can see from afar"
+    - "Compatible with Tabata & HIIT"
+  cons:
+    - "Small bug where the timer stops for no reason"
+
+crossrope:
+  title: "Crossrope"
+  link: "https://apps.apple.com/app/crossrope/id996680141"
+  description: "While this is not exactly a boxing app, this is the best jump rope app out there. It gives a lot of different exercises that will complement perfectly your boxing training."
+  pros:
+    - "Lots of different trainings"
+    - "Beautiful and simple design"
+    - "Nice videos to accompany you during training"
+  cons:
+    - "Not focused on boxing"
+
+sbw:
+  title: "Shadow Boxing Workout"
+  description: "The perfect app to train at home, with a lot of different exercises to pick from, from pad work to dodging drills. It also works well with an heavy bag if you have one."
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  pros:
+    - "Many different exercises"
+    - "Customizable"
+    - "Free round timer included"
+    - "Compatible with a punching bag"
+  cons:
+    - "Not enough bodyweight exercise options"
+
+likeaboxer:
+  title: "Train like a boxer"
+  link: "https://apps.apple.com/us/app/train-like-a-boxer/id1499803442"
+  description: "Various dynamic exercises for boxers to get in shape. You'll sweat a lot using this app, and they provide different challenges to stay motivated"
+  pros:
+    - "Good for conditioning"
+  cons:
+    - "Not enough boxing technique"
+    - "No real boxing exercises"

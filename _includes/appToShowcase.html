@@ -1,0 +1,43 @@
+{% assign app = site.data.apps[include.file] %}
+
+<div class="container best_apps">
+  <div class="row">
+    <h2>
+      <a href="{{app.link}}">{{ app.title }}</a>
+    </h2>
+  </div>
+
+  <div class="row">
+
+    <div class="col-2">
+      <img src="/assets/apps/icons/{{include.file}}.png" class="app_icon" alt="Boxing app {{app.title}}"/>
+      <br />
+    </div>
+
+    <div class="col-10 ">
+      <p>{{ app.description }}</p>
+      <p>
+        <a href="{{app.link}}">Download it here</a>
+      </p>
+      <br>
+      <div class="pros app_point_header">Pros</div>
+      <ul>
+        {% for item in app.pros %}
+          <li><span class="pros">✔</span> {{item}}</li>
+        {% endfor %}
+      </ul>
+
+      <div class="cons app_point_header">Cons</div>
+      <ul>
+        {% for item in app.cons %}
+          <li><span class="cons">✖</span> {{item}}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+      <img src="/assets/apps/screenshots/{{include.file}}.png" class="app_screenshots" alt="Screenshots of {{app.title}}"/>
+  </div>
+</div>
+
