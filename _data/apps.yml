@@ -92,3 +92,35 @@ hiittimer:
   cons:
     - Invasive ads in the free version
     - Expensive pro version
+
+sbw_jump:
+  title: "Shadow Boxing Workout"
+  description: "This app has a lot of various boxing exercises, and one of them is jump rope. It integrates perfectly with the other ones, and this way you can alternate between skipping rope and throwing hard punches."
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  pros:
+    - Integrates jumping rope with boxing exercises
+    - Simple and effective
+  cons:
+    - Could use more varied jump rope exercises
+
+jrworkout:
+  link: "https://apps.apple.com/us/app/jump-rope-workout/id384406895"
+  title: "Jump rope workout"
+  description: "Interesting take on the jump rope exercises with an app that counts your jumps. It doesn't always work perfectly, and the design is a bit outdated but it's worth checking"
+  pros:
+    - Counts jumps
+  cons:
+    - Design a bit outdated
+    - Intrusive ads
+    - Not focused on boxing
+
+nike:
+  link: "https://apps.apple.com/us/app/nike-training-club/id301521403"
+  title: "Nike Training Club"
+  description: "This app by Nike is not focused on boxing but provides many exercises, including jump rope to improve your body, which helps with your fighting."
+  pros:
+    - Many in depth workouts
+    - Works for people of all levels
+    - Various content, including some about nutrition
+  cons:
+    - No real boxing exercises
