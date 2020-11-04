@@ -14,3 +14,4 @@ layout: post
 {% include appToShowcase.html file="crossrope" %}
 {% include appToShowcase.html file="sbw" %}
 {% include appToShowcase.html file="likeaboxer" %}
+{% include appToShowcase.html file="nike" %}
