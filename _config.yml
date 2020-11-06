@@ -4,7 +4,7 @@ permalink: /:title/
 
 markdown: kramdown
 
-production_url : http://shadowboxingapp.com
+production_url : https://shadowboxingapp.com
 
 collection:
   - posts
