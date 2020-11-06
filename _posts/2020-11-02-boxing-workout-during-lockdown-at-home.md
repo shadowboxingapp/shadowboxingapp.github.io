@@ -1,7 +1,7 @@
 ---
 title: "Boxing training during lockdown"
 imageCode: "easy_pace"
-description: "Lockdown has affected many activities that people often took for granted, especially fitness and exercise. No sport has been exempted from the impacts, including boxing. Staying focused and motivated is a key battle in the fight game, where one missed step or slight lapse in concentration can result in a knockout loss or even worse - serious injury."
+description: "Lockdown has affected many activities that people often took for granted, especially fitness and exercise. No sport has been exempted from the impacts, including boxing. Staying focused and motivated is key, so let's talk about this."
 contextualAd: "Follow boxing workouts and stay motivated by tracking your progress with this iPhone app."
 includeScreenshots: "yes"
 layout: post
