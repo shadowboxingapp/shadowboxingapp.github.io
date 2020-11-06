@@ -18,9 +18,14 @@ layout: compress
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
 
-    <meta name="twitter:image" content="https://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
+    {% if page.imageLink %}
+      <meta name="twitter:image" content="https://shadowboxingapp.com/assets/previews/{{page.imageLink}}" />
+      <meta property="og:image" content="https://shadowboxingapp.com/assets/previews/{{page.imageLink}}" />
+    {% else %}
+      <meta name="twitter:image" content="https://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
+      <meta property="og:image" content="https://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
+    {% endif %}
 
-    <meta property="og:image" content="https://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.description }}" />
 

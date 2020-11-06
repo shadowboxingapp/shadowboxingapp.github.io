@@ -4,6 +4,7 @@ imageCode: "insanity"
 description: "There are many boxing apps for mobile phones available, either to get your news or train at home. We've built a selection of the best we found for the end of 2020 so you can keep on exercising during lockdown."
 layout: post
 category: mobile apps about boxing
+imageLink: top_boxing.png
 ---
 
 {{ page.description }}
