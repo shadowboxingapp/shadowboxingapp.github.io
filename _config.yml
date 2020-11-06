@@ -4,9 +4,6 @@ permalink: /:title/
 
 markdown: kramdown
 
-title : Shadow Boxing App | Training at home for iOS | Heavy Bag & more
-description:  Improve your boxing skills from anywhere with this app for iPhone that calls out punches, give guidance during freestyle and works perfectly with a punching bag.
-
 production_url : http://shadowboxingapp.com
 
 collection:

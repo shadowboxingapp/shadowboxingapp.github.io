@@ -1,6 +1,6 @@
 ---
 title: "Punching bag benefits for boxing, fitness and more"
-imageCode: "punching\_bag"
+imageCode: "punching_bag"
 description: "Many a times, fighters want to train their punching skills, but have no one to train against. Even if there are people around, punching them could have serious repercussions! So let's talk about punching bag work, and how important it is."
 contextualAd: "Download this boxing app for iOS to help you train on the punching bag. It will give you techniques to executes during exercises made for the punching bag."
 includeScreenshots: "yes"
@@ -8,7 +8,7 @@ layout: post
 category: punching bag
 ---
 
-Many a times, fighters want to train their punching skills, but have no one to train against. Even if there are people around, punching them could have serious repercussions! So punching bags are considered valuable, if a fighter wants to train in solitude [at home][1] or at the gym. 
+Many a times, fighters want to train their punching skills, but have no one to train against. Even if there are people around, punching them could have serious repercussions! So punching bags are considered valuable, if a fighter wants to train in solitude [at home][1] or at the gym.
 
 {% include preview.html %}
 
@@ -47,7 +47,7 @@ The rhythmic movement, for defense and offense coupled with the added task of pu
 
 ## Refining Skills
 
-### Timing  
+### Timing
 
 Just like [pad work][3], bags help develop timing, which is critical for every successful boxer. All the of a boxer’s attributes are all useless without good timing.
 
@@ -55,7 +55,7 @@ Just like [pad work][3], bags help develop timing, which is critical for every s
 
 A punching bag allows boxers to practice their form, whilst also getting used to making contact. The bag is the benchmark boxing training aid and one can tell a lot about a fighter from how they use the bag, so it is a good diagnostic tool.
 
-The beginner learns to punch properly on these bags. The fluidity of the punches, and essential body movement increases with practice. This, then helps in keeping everything tight while remaining relaxed, but poised to react. The form can be practiced without worrying about the quality of contact made. 
+The beginner learns to punch properly on these bags. The fluidity of the punches, and essential body movement increases with practice. This, then helps in keeping everything tight while remaining relaxed, but poised to react. The form can be practiced without worrying about the quality of contact made.
 
 The rookies also discover how to coordinate the movement of their feet with the intensity of their attack. Just as importantly, boxers also learn how to protect their body against injuries.
 

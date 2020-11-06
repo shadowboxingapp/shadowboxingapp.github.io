@@ -6,11 +6,20 @@ layout: compress
   <head>
     <meta charset="utf-8">
     <title>
-        {{ site.title }}
+        {{ page.title }} | Shadow Boxing App
     </title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ page.description }}">
     <meta content='user-scalable=no, width=device-width, initial-scale=1.0' name='viewport'>
     <meta name="google-site-verification" content="x2EpQdOMz-k9fP8hak9I3COaXhnQ4jNLp2GU4GYQ8jM" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@shadowboxingapp">
+    <meta name="twitter:creator" content="@shadowboxingapp">
+    <meta name="twitter:title" content="{{ page.title }} | Shadow Boxing App">
+    <meta name="twitter:description" content="{{ page.description }}">
+
+    <meta name="twitter:image" content="http://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
+    <meta name="image" property="og:image" content="http://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
 
     <meta content='app-id=1510911574' name='apple-itunes-app'>
     <link rel="apple-touch-icon" href="/apple-touch-icon.jpg" />
