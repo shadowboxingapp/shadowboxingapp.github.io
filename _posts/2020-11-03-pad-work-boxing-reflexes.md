@@ -37,4 +37,4 @@ If you don't have a coach or a gym available, you can have a similar experience 
 {% include getapp.html %}
 
 [1]:	/
-[2]:	boxing-workout-during-lockdown-at-home
+[2]:	/boxing-workout-during-lockdown-at-home
