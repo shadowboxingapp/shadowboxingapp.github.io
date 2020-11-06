@@ -26,7 +26,7 @@ Fighters who blow up in weight between contests will suffer on fight night. Lett
 
 ## It's important to stay motivated
 
-It is important to stay in shape and remain motivated. Replicate the benefits of pad work, [shadow boxing][1], punch bag sessions and core fitness routines. Keep combinations sharp and on point. Maintain the muscle memory movements of jab-overhand right-left hook combinations. Stick to the regular times of activity, rest and recovery, keeping in line with gym standards.
+It is important to stay in shape and remain motivated. Replicate the benefits of [pad work][3], [shadow boxing][1], punch bag sessions and core fitness routines. Keep combinations sharp and on point. Maintain the muscle memory movements of jab-overhand right-left hook combinations. Stick to the regular times of activity, rest and recovery, keeping in line with gym standards.
 
 If a boxer stops throwing accurate, well-timed flurries, stops dodging punches, working on his/her defence or lets fitness drop to such a degree, then they will lose their edge during lockdown and beyond. 
  
@@ -46,3 +46,4 @@ On top of all this, the app will let you follow your progress and statistics to 
 
 [1]:	/importance-of-shadow-boxing/
 [2]:	/
+[3]:  /pad-work-boxing-reflexes/

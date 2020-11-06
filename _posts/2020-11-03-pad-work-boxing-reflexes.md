@@ -16,7 +16,7 @@ category: pad work
 
 In boxing and other combat sports, Pad working is needed to enhance punching power, reflexes, and hand speed. After a lot of regular training sessions with focus mitts or pads, a fighter gets a better understanding of reach and range; to land and avoid a punch.
 
-This is especially important when one is fighting an outside game. Because the outside fighting needs a great timing and accuracy to use the lead hand continuously to stay behind the jabs and then land the occasional power shots. This situation needs a great estimation of reach and range, and if it is implemented wisely it not only helps to gain some crucial points to steal the rounds but also it brings one closer to a victory by stoppage. 
+This is especially important when one is fighting an outside game. Because the outside fighting needs a great timing and accuracy to use the lead hand continuously to stay behind the jabs and then land the occasional power shots. This situation needs a great estimation of reach and range, and if it is implemented wisely it not only helps to gain some crucial points to steal the rounds but also it brings one closer to a victory by stoppage.
 
 Furthermore, the pad work helps in improving the physique of the fighters, because it’s not only landing punches to the mitt, but it needs a proper stance, body movement, and weight shifting as well. So due to its intensity, it helps in health and wellness along with weight loss.
 

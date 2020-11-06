@@ -1,14 +1,14 @@
 ---
 title: "The importance of Shadow Boxing"
 imageCode: "freestyle"
-description: "Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits."
+description: "Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits, so let’s talk about some of these known benefits."
 contextualAd: "With this boxing workout app, be more focused in your training. The app will call out punches and give you guidance while you box."
 includeScreenshots: "yes"
 layout: post
 category: shadow boxing
 ---
 
-Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits. Let’s talk about some less known benefits.
+Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits, so let’s talk about some of these known benefits.
 
 {% include preview.html %}
 
@@ -30,7 +30,8 @@ No one can perform critical tasks with ease unless one has a strong muscle memor
 
 A shadow boxing workout is the best way to develop muscle memory as it allows you to repeat a task over and over again, once the muscle memory is developed; you can unleash your moves in the ring while charging at your opponent. You can develop your skills, and move freely in the ring. 
 
-If you use [a shadow boxing app on your phone][1], you can follow along the various exercises and react when the app calls for a specific punch, making it second nature in the long run.
+If you use [a shadow boxing app on your phone][1], you can follow along the various exercises and react when the app calls for a specific punch, making it second nature in the long run. This is pretty much like doing [pad work][3] with a boxing coach.
+
 
 {% include appad.html %}
 
@@ -40,7 +41,7 @@ You cannot build your form while competing in the ring. You have to work on your
 
 ## Keeps you fit
 
-A shadow boxing workout is a great way to burn calories. You can burn calories with jogging as well but a shadow boxing workout is a lot better as it can burn 400 calories in an hour without any risk of getting injured.
+A shadow boxing workout is a great way to burn calories. You can burn calories with jogging as well but a shadow boxing workout is a lot better as it can burn 400 calories in an hour without any risk of getting injured. This is especially important nowadays [during lockdown][4].
 
 A boxer or even a layman who does shadow boxing workout can quickly lose fat and maintain the body shape.
 
@@ -48,9 +49,12 @@ A boxer or even a layman who does shadow boxing workout can quickly lose fat and
 
 Hence, a shadow boxing workout beneficially helps you as it is not only a warm-up exercise. It can make you fitter, stronger, helps you to regain your form, makes your technique better, and a lot more. 
 
-If you want to try shadow boxing, you can start with [a shadow boxing app][2] like the one we are building. You can start for free and discover all the exercises available.
+If you want to try shadow boxing, you can start with [a shadow boxing app][2] like the one we are building. You can start for free and discover all the exercises available. You can also start with just [a simple boxing timer app][5] and do your own thing.
 
 {% include getapp.html %}
 
 [1]:	/
 [2]:	/
+[3]:  /pad-work-boxing-reflexes/
+[4]:  /boxing-workout-during-lockdown-at-home/
+[5]:  /best-round-timer-apps-boxing/
