@@ -12,6 +12,6 @@ category: timer apps
 
 {% include appToShowcase.html file="timerplus" %}
 {% include appToShowcase.html file="hiittimer" %}
-{% include appToShowcase.html file="sbw\_timer" %}
+{% include appToShowcase.html file="sbw_timer" %}
 {% include appToShowcase.html file="seconds" %}
 {% include appToShowcase.html file="intervaltimer" %}

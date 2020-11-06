@@ -11,6 +11,6 @@ category: jump rope apps
 {% include preview.html %}
 
 {% include appToShowcase.html file="crossrope" %}
-{% include appToShowcase.html file="sbw\_jump" %}
+{% include appToShowcase.html file="sbw_jump" %}
 {% include appToShowcase.html file="jrworkout" %}
 {% include appToShowcase.html file="nike" %}
