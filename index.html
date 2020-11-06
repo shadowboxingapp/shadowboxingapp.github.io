@@ -30,6 +30,17 @@ layout: default
       </h2>
     </div>
   </div>
+  <div class="row">
+    <div class="col-md-2 col-sm-1"></div>
+    <div class="col-md-8 col-sm-10">
+     <p class="subtitle_text">
+       You can pick from a lot of boxing exercises to train at home.
+       For instance you can grab your heavy bag and follow along workouts that will alternate quick 1-2s with strong and heavy punches.
+       You can also just do some freestyle with the app only giving you guidance and ideas.
+     <p>
+   </div>
+    <div class="col-md-2 col-sm-1"></div>
+  </div>
 
   <div class="row">
     {% for exercise in site.data.exercises %}
@@ -88,9 +99,9 @@ layout: default
     {% for preset in site.data.presets %}
         <div class= "col-md-4 col-sm-6 col-lg-3">
           <div class="preset" style="background: url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
-            <strong>
+            <span class='highlighted'>
               {{ preset.title }}
-            </strong>
+            </span>
             <p> {{ preset.description }}</p>
           </div>
         </div>
