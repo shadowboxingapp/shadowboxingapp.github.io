@@ -5,6 +5,7 @@ description: "During the boxing training sessions, we see how a coach is calling
 contextualAd: "Train at home with this mobile app that calls out punches just like a boxing coach would"
 layout: post
 includeScreenshots: "yes"
+category: pad work
 ---
 
 {{ page.description }}

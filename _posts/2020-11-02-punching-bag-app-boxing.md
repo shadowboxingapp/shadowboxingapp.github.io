@@ -1,10 +1,11 @@
 ---
 title: "Punching bag benefits for boxing, fitness and more"
-imageCode: "punching_bag"
+imageCode: "punching\_bag"
 description: "Many a times, fighters want to train their punching skills, but have no one to train against. Even if there are people around, punching them could have serious repercussions! So let's talk about punching bag work, and how important it is."
 contextualAd: "Download this boxing app for iOS to help you train on the punching bag. It will give you techniques to executes during exercises made for the punching bag."
 includeScreenshots: "yes"
 layout: post
+category: punching bag
 ---
 
 Many a times, fighters want to train their punching skills, but have no one to train against. Even if there are people around, punching them could have serious repercussions! So punching bags are considered valuable, if a fighter wants to train in solitude [at home][1] or at the gym. 
@@ -46,7 +47,7 @@ The rhythmic movement, for defense and offense coupled with the added task of pu
 
 ## Refining Skills
 
-### Timing   
+### Timing  
 
 Just like [pad work][3], bags help develop timing, which is critical for every successful boxer. All the of a boxer’s attributes are all useless without good timing.
 

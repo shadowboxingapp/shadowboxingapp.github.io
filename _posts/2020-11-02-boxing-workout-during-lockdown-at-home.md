@@ -5,6 +5,7 @@ description: "Lockdown has affected many activities that people often took for g
 contextualAd: "Follow boxing workouts and stay motivated by tracking your progress with this iPhone app."
 includeScreenshots: "yes"
 layout: post
+category: boxing
 ---
 
 Lockdown has affected many activities that people often took for granted, especially fitness and exercise. No sport has been exempted from the impacts, including boxing. 

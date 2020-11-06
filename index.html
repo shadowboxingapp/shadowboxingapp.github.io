@@ -6,7 +6,7 @@ layout: default
   <div class="row">
     <div class="col">
       <h1 class="home_title">
-        <img src='assets/iconFull.jpg' class='icon' />
+        <img src='assets/iconFull.jpg' class='icon' alt='Shadow boxing workout app for iOS'/>
         Shadow Boxing App
       </h1>
     </div>
@@ -35,10 +35,10 @@ layout: default
     {% for exercise in site.data.exercises %}
         <div class= "col-md-4 col-sm-6 col-lg-3">
           <div class="mode">
-            <h3>
-              <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon"/>
+            <strong>
+              <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon" alt='Boxing exercises: {{exercise.title}}' />
               {{ exercise.title }}
-            </h3>
+            </strong>
             {{ exercise.description }}
           </div>
         </div>
@@ -47,7 +47,7 @@ layout: default
   <div class="row">
     <div class="col download">
       <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-        <img src="/assets/download.svg" alt="app store download" />
+        <img src="/assets/download.svg" alt="Get this shadow boxing app" />
       </a>
     </div>
   </div>
@@ -58,19 +58,19 @@ layout: default
     <div class="col">
       <h2>Mirror mode</h2>
       <p>record yourself boxing & improve<p>
-      <img src="assets/web_screenshot_4.png" />
+      <img src="assets/web_screenshot_4.png" alt='Record yourself boxing' />
     </div>
 
     <div class="col">
       <h2>Free round timer</h2>
       <p>efficient and without ads<p>
-      <img src="assets/web_screenshot_5.png" />
+      <img src="assets/web_screenshot_5.png" alt='Free boxing round timer without ads' />
     </div>
 
     <div class="col">
       <h2>Statistics</h2>
       <p>track trainings, stay motivated</p>
-      <img src="assets/web_screenshot_6.png" />
+      <img src="assets/web_screenshot_6.png" alt='Track your statistics with this boxing app' />
     </div>
   </div>
 </div>
@@ -88,9 +88,9 @@ layout: default
     {% for preset in site.data.presets %}
         <div class= "col-md-4 col-sm-6 col-lg-3">
           <div class="preset" style="background: url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
-            <h3>
+            <strong>
               {{ preset.title }}
-            </h3>
+            </strong>
             <p> {{ preset.description }}</p>
           </div>
         </div>
@@ -101,7 +101,7 @@ layout: default
       Download this shadow boxing training app for iPhone
       <br />
       <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-        <img src="/assets/download.svg" alt="app store download" />
+        <img src="/assets/download.svg" alt="Download boxing app on the app store" />
       </a>
       <br/>
       <br/>
@@ -132,7 +132,7 @@ layout: default
           </p>
           <p>
             <br />
-            <a class="read_more" href="{{ BASE_PATH }}{{ post.url }}">→ Read more about this</a>
+            <a class="read_more" href="{{ BASE_PATH }}{{ post.url }}">→ Read more about {{post.category}}</a>
           </p>
       </div>
     {% endfor %}
