@@ -44,7 +44,7 @@ In order to get started, you can start watching youtube videos on the topic or d
 
 Try it out for free and let us know what you think!
 
-{% include getApp.html %}
+{% include getapp.html %}
 
 
 
