@@ -6,7 +6,6 @@ contextualAd: "Try out the app today and start training at home, without equipme
 layout: post
 category: the 1.14 version
 includeScreenshots: "yes"
-
 ---
 
 This week in version 1.14 of the [Shadow Boxing app](/), we built a new exercice and gave you a simple way to create your own boxing workout. As some more countries enter into lockdown again, [it's important to stay active](/boxing-workout-during-lockdown-at-home/) so we hope that this update will make you want to train!
@@ -24,7 +23,7 @@ However even if the focus is on movement, you will also be countering with simpl
 
 <div style='text-align: center'><img src='/assets/blog/dodge_counter.png' style='width: 200px;margin: 10px 0px 30px 0px;' alt='Boxing workout: counters'/></div>
 
-So overall let's just say that you won't throw a lot of punches but you will move around a lot! 
+So overall let's just say that you won't throw a lot of punches but you will move around a lot!
 
 ## Build your boxing training at home
 

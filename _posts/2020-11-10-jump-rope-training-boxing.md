@@ -6,16 +6,15 @@ contextualAd: "Train at home with this boxing app that includes jump rope drills
 includeScreenshots: "yes"
 layout: post
 category: jump rope
-
 ---
 
-When it comes to fitness training, there are few better ways to get in shape than with an intense boxing workout. Hill runs, sweat-inducing pad workouts, heavy sparring sessions and speed ball work can all help a boxer keep in shape. But for balance and workout purposes the jump rope is an excellent tool in itself. 
+When it comes to fitness training, there are few better ways to get in shape than with an intense boxing workout. Hill runs, sweat-inducing pad workouts, heavy sparring sessions and speed ball work can all help a boxer keep in shape. But for balance and workout purposes the jump rope is an excellent tool in itself.
 
 {% include preview.html %}
 
 ## Impressive displays of jump rope skills
 
-If skipping with a jump rope is good enough for some of the top boxers in the sport then it’s good enough for the general fitness enthusiast and pro boxer alike. Generational icon Floyd Mayweather Jr included an epic jump rope routine as part of his legendary workout sessions. 
+If skipping with a jump rope is good enough for some of the top boxers in the sport then it’s good enough for the general fitness enthusiast and pro boxer alike. Generational icon Floyd Mayweather Jr included an epic jump rope routine as part of his legendary workout sessions.
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Z5m1O5niSr0?start=35" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-bottom:30px;"></iframe>
 
