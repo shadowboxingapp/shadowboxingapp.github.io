@@ -34,7 +34,7 @@ We've also added a new way to create a workout available in the Quick Start menu
 
 Like what you see ? Don't hesitate to try out this boxing workout app for free.
 
-{% include getApp.html %}
+{% include getapp.html %}
 
 
 
