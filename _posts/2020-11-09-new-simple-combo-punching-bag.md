@@ -27,7 +27,7 @@ Once you are getting used to it, the app will mix it up again and make the combo
 
 {% include appad.html %}
 
-## New workouts
+## New Workouts
 
 We've also added a few workouts.
 
@@ -37,11 +37,11 @@ We've also added a few workouts.
 
     <div style='text-align: center'><img src='/assets/blog/screenshot_blog_simple.png' style='width: 300px;margin: 10px 0px 30px 0px;' alt='Boxing pad work app'/></div>
 
-## Recording yourself
+## Recording Yourself
 
 You can now record yourself in portrait mode, which is better when working on the [punching bag](/punching-bag-app-boxing/). This is also great if you want to share your [shadow boxing workouts](/importance-of-shadow-boxing/) on Instagram.
 
-## Better help menus
+## Better Help Menus
 
 Some people were struggling to figure out how to use the app. To assist them and help them learn boxing, we've added a few more ways to get help in the app.
 
