@@ -1,6 +1,6 @@
 ---
 title: "Jump rope training in boxing"
-imageCode: "jumprope"
+imageCode: "other_jumprope"
 description: "When it comes to fitness training, there are few better ways to get in shape than with an intense boxing workout. Hill runs, sweat-inducing pad workouts, heavy sparring sessions and speed ball work can all help a boxer keep in shape. But for balance and workout purposes the jump rope is an excellent tool in itself. "
 contextualAd: "Train at home with this boxing app that includes jump rope drills among many other exercises."
 includeScreenshots: "yes"
@@ -33,13 +33,19 @@ The shoulders, arms and legs all benefit from a jump rope exercise. Boxers use i
 
 ## Getting started with jump rope
 
+### Guidelines
+
 Keeping a simple, natural rhythm is a good starting point, with nothing too strenuous. Once you become proficient at skipping then alternating the rope, jumping up at the knees and crossing the rope around the body can be learned skills, but ones that take hours of practice and a solid base of core fitness.
 
 Many boxers jump rope in line with the traditional boxing match rules of three minutes of action, paused by a one minute rest period, over a hypothetical 12 rounds. Getting into a nice relaxed rhythm is a good starting point. Incorporating a shuffle will not only help tone leg muscles but also improve footwork which is a key tenet of any top boxer.
 
+### Jumping rope with an app
 
+In order to get started, you can start watching youtube videos on the topic or download an app. There are a lot available out there, as you can see in this [top jumprope apps for iOS](/best-jumprope-apps-boxing/) list, but if you want to integrate jump rope into your boxing workout I can recommend the [Shadow Boxing App](/) we're building. Not only it will give you jump rope exercises, but you'll also be able to train with [virtual pad work](/pad-work-boxing-reflexes/) or [guided freestyle shadow boxing](/importance-of-shadow-boxing/).
 
+Try it out for free and let us know what you think!
 
+{% include getApp.html %}
 
 
 

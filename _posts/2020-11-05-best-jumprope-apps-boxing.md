@@ -7,7 +7,9 @@ category: jump rope apps
 imageLink: top_jumprope.png
 ---
 
-{{ page.description }}
+Doing some jump rope is the perfect exercise for any boxer [as explained in this article](/jump-rope-training-boxing/). It raises the heart rate quickly and is a great cardio workout.
+
+Today we are looking at a few of the apps that can provide you with jump rope exercises to add to your boxing training.
 
 {% include preview.html %}
 
