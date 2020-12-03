@@ -16,7 +16,7 @@ Shadow boxing is generally known as a warm-up exercise but it is a lot more than
 
 Maintaining your balance in the ring is one of the most integral parts of a fight. When you miss a punch, you can lose your balance, and your opponent can take advantage of it by landing heavy leather and put you to sleep on the canvas. 
 
-Shadow boxing helps you a lot in gaining balance by practicing with and without weights. You can make your striking better, and excel in your footwork which will helps you a lot in maintaining your balance. 
+Shadow boxing helps you a lot in gaining balance by practicing with and without weights. You can make your striking better, and [excel in your footwork](/importance-of-shadow-boxing/) which will helps you a lot in maintaining your balance. 
 
 ## Improve your technique
 
