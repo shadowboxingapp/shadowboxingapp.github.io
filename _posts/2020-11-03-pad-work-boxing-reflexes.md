@@ -32,7 +32,9 @@ During these mitt sessions and the pad works, a coach not only offers his mitts 
 
 Long story short, pad work is where a fighter learn how to land different combinations during a real fight, and how to protect themselves from the counter attacks and then land their own vicious punches to bring damage while staying behind the jabs.
 
-If you don't have a coach or a gym available, you can have a similar experience to pad work with our [Shadow Boxing Workout app][1]. It will call out punches among other exercises. It's a great way to stay in shape while practicing boxing, [even if you are stuck at home][2], so feel free to give it a try!
+If you don't have a coach or a gym available, you can have a similar experience to pad work with our [Shadow Boxing Workout app][1]. It will call out punches among other exercises. You can either follow our premade trainings our customize everything, [including the combos called out](/build-custom-combos-boxing-app/)!
+
+It's a great way to stay in shape while practicing boxing, [even if you are stuck at home][2], so feel free to give it a try!
 
 {% include getapp.html %}
 

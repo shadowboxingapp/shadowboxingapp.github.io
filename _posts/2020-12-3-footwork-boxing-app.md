@@ -23,7 +23,7 @@ Legendary heavyweight champion Wladimir Klitschko would reportedly move around t
 
 Another Ukrainian, Vasyl Lomachenko, is referred to as “The Matrix” such is his supreme footwork. This is mostly down to the fact that his father Anatoly sent Vasyl to dance lessons when he was younger to improve his footwork, speed and agility.
 
-[Shadowboxing](/importance-of-shadow-boxing/) is a great way to improve footwork. Some boxers work their moves with explosive bursts, while others relax and gather pace with a gentle rhythm. 
+[Shadowboxing](/importance-of-shadow-boxing/) is a great way to improve footwork. Some boxers work their moves with explosive bursts, while others relax and gather pace with a gentle rhythm. If you are not sure where to start, using [a boxing app with footwork exercises](/new-footwork-mode-boxing-app/) can be a good option.
 
 Shadowboxing allows the feet to pivot off in different directions, move naturally and flow. This is beneficial because in a fight situation the feet know where to move and when – and the movements come easily.
 
