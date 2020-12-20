@@ -50,6 +50,10 @@
   code: "defense"
   description: "exercises focus on combinations including defensive movements."
 
+- title: "Footwork"
+  code: "footwork"
+  description: "exercises focus on combinations including defensive movements."
+
 - title: "... and more"
   code: "repetitions"
   description: "We are adding new exercises and workout regularly"

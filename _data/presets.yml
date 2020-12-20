@@ -2,74 +2,43 @@
   description: "Box for 6 rounds of 3 minutes with a coach giving you audio directions."
   code: "freestyle"
 
-- title: "JUMPROPE"
-  description: "30 minutes workout with simple jumprope exercices"
-  code: "jumprope"
 
 - title: "20 MINUTES HIIT"
   description: "High intensity training to build explosive power & increase stamina"
   code: "20_minutes_hiit"
 
-- title: "FUNDAMENTALS"
-  description: "Simple shadow boxing session with combos, defense and more."
-  code: "basic"
-
-- title: "REPETITIONS"
-  description: "Practice a single combo for the entire duration of a round"
-  code: "repetitions"
-
-- title: "SLOW PACE"
-  description: "Slower pace training for when you are getting back in shape"
-  code: "easy_pace"
-
 - title: "VIRTUAL PAD WORK"
   description: "Simple combos to execute when called as well as some freestyle"
   code: "pad_work"
 
-- title: "7 MINUTES CHALLENGE"
-  description: "Follow commands and get your heart pumping even without much time."
-  code: "seven"
-
 - title: "INSANITY"
   description: "Warm up and get ready for 25 minutes of non-stop action"
   code: "insanity"
-
-- title: "30 MINUTES HIIT"
-  description: "Alternate explosive exercises with short dynamic resting periods"
-  code: "30_minutes_hiit"
-
-- title: "PUNCHING BAG"
-  description: "Alternate quick punches and powerful ones on your bag."
-  code: "punching_bag"
-
-- title: "QUIET TRAINING"
-  description: "For those preferring when the coach only give minimum directions"
-  code: "quiet"
 
 - title: "PUNCHING BAG"
   description: "Work on the bag with various exercises & some freestyle"
   code: "punching_bag_mix"
 
 - title: "PUSHUPS"
-  description: "Quickly alternate between freestyle and pushups"
+  description: "Quickly alternate between shadow boxing freestyle and pushups"
   code: "pushups"
 
 - title: "10 ROUNDS"
-  description: "Guided exercices and freestyle for 10 rounds of 3 minutes"
+  description: "Guided boxing exercices and freestyle for 10 rounds of 3 minutes"
   code: "10_rounds"
 
 - title: "DEFENSE"
   description: "Work on dodging incoming attacks and countering"
   code: "defense"
 
-- title: "SQUATS"
-  description: "Work on your lower body with squats and freestyle exercises"
-  code: "squats"
+- title: "7 MINUTES CHALLENGE"
+  description: "Follow commands and get your heart pumping even without much time."
+  code: "seven"
+
+- title: "JUMPROPE"
+  description: "30 minutes workout with simple jumprope exercices"
+  code: "jumprope"
 
 - title: "DODGE"
   description: "Focus on reaction speed. It's simple, just don't get hit!"
   code: "dodge"
-
-- title: "TUTORIAL"
-  description: "Learn the basis of boxing & how to use the app"
-  code: "tutorial"
