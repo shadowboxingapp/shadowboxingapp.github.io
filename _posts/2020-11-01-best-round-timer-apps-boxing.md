@@ -1,5 +1,5 @@
 ---
-title: "Top boxing round timer apps for ios"
+title: "Top boxing round timer apps for iOS"
 imageCode: "10_rounds"
 description: "During sparring or training, it's important to keep track of time and manage your energy. There are many mobile apps offering round timers, in this article we'll showcase some that can work for boxing."
 layout: post
