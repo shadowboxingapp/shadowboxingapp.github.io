@@ -124,3 +124,14 @@ nike:
     - Various content, including some about nutrition
   cons:
     - No real boxing exercises
+
+fightcamp:
+  link: "https://apps.apple.com/us/app/fightcamp-boxing-workouts/id1328562100"
+  title: "Fightcamp"
+  description: "This app provides high quality video trainings for all levels. It uses their proprieritary punch tracker hardware to keep count of how many punches you've thrown."
+  pros:
+    - High quality video
+    - Tracking punches is great to stay motivated
+    - Sleek design
+  cons:
+    - Expensive tracker to buy
