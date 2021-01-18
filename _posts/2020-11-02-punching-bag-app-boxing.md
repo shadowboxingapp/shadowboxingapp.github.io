@@ -53,7 +53,7 @@ Just like [pad work][3], bags help develop timing, which is critical for every s
 
 ### Technique
 
-A punching bag allows boxers to practice their form, whilst also getting used to making contact. The bag is the benchmark boxing training aid and one can tell a lot about a fighter from how they use the bag, so it is a good diagnostic tool.
+A punching bag allows boxers to practice their form and [combinations](/boxing-basic-combos/), whilst also getting used to making contact. The bag is the benchmark boxing training aid and one can tell a lot about a fighter from how they use the bag, so it is a good diagnostic tool.
 
 The beginner learns to punch properly on these bags. The fluidity of the punches, and essential body movement increases with practice. This, then helps in keeping everything tight while remaining relaxed, but poised to react. The form can be practiced without worrying about the quality of contact made.
 

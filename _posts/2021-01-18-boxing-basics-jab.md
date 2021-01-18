@@ -10,6 +10,8 @@ category: jabs
 
 {{ page.description }}
 
+Once you'll have mastered the jab, you'll be able to use it as a solid starting point for [all your basic boxing combinations](/boxing-basic-combos/).
+
 {% include preview.html %}
 
 ## Getting in your stance
