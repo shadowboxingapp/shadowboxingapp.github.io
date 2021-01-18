@@ -20,7 +20,7 @@ Shadow boxing helps you a lot in gaining balance by practicing with and without 
 
 ## Improve your technique
 
-Shadow boxing helps you when you are out of form. A fighter is asked to go to basics when he finds himself out of form so when you get out of form; you start working on your technique. You can work on jabs, punches, uppercuts and when you work on certain things, again and again, it becomes your habit, and your moves start looking natural. 
+Shadow boxing helps you when you are out of form. A fighter is asked to go to basics when he finds himself out of form so when you get out of form; you start working on your technique. [You can work on jabs](/boxing-basics-jab/), punches, uppercuts and when you work on certain things, again and again, it becomes your habit, and your moves start looking natural. 
 
 Shadow boxing has a blessing; it is done without any pressure, and one can freely free one’s arms and make punches, dodges, and many other things better.
 

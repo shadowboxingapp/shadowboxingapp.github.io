@@ -15,7 +15,7 @@ This week in version 1.14 of the [Shadow Boxing app](/), we built a new exercice
 
 ## Dodge Exercise
 
-We've added a new dodge mode focusing on reaction speed, slipping and ducking. The app will also try to trick you by mixing up the rythm so you don't become a robot and always keep the same pace.
+We've added a new dodge mode focusing on reaction speed, slipping and ducking as this is just as important [as the jab](/boxing-basics-jab/)! The app will also try to trick you by mixing up the rythm so you don't become a robot and always keep the same pace.
 
 <div style='text-align: center'><img src='/assets/blog/dodge_slip.png' style='width: 200px;margin: 10px 0px 30px 0px;' alt='Boxing dodge app for ios'/></div>
 
@@ -23,7 +23,7 @@ However even if the focus is on movement, you will also be countering with simpl
 
 <div style='text-align: center'><img src='/assets/blog/dodge_counter.png' style='width: 200px;margin: 10px 0px 30px 0px;' alt='Boxing workout: counters'/></div>
 
-So overall let's just say that you won't throw a lot of punches but you will move around a lot!
+So overall let's just say that you won't throw a lot of punches but you will move around a lot! 
 
 ## Build your boxing training at home
 

@@ -15,7 +15,7 @@ This week we'll be releasing the version 1.15 of our boxing app for iOS. There a
 
 ## Simple Combos
 
-In it, we're adding a brand new *simple combos* exercise for people who are still learning but want to do more than jabs and 1-2s. It starts easy and then it gets more and more complex, while always remaining reasonable.
+In it, we're adding a brand new *simple combos* exercise for people who are still learning but want to do more than [jabs](/boxing-basics-jab/) and 1-2s. It starts easy and then it gets more and more complex, while always remaining reasonable.
 
 It's a bit similar to [pad work](/pad-work-boxing-reflexes/) and you'll punch when the app calls for it.
 
