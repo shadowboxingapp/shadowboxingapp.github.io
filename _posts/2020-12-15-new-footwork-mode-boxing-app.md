@@ -17,3 +17,4 @@ This new exercise also gave  us the idea to mix [footwork](/footwork-boxing-app/
 
 {% include getapp.html %}
 
+If you want to see how it looks like, you can take a look at [this video](/boxing-footwork-app/)!
