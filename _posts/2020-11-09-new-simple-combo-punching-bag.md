@@ -31,7 +31,7 @@ Once you are getting used to it, the app will mix it up again and make the combo
 
 We've also added a few workouts.
 
-- **PUNCHING BAG REPETITION**: Repeat combos on the bag with little rest. This one is great for cardio and power.
+- **PUNCHING BAG REPETITION**: Repeat combos on the [punching bag](/heavy-bag-in-boxing/) with little rest. This one is great for cardio and power.
 - **GIVING IT A TRY**: if you're curious and want to check out what a workout looks like in 5 minutes
 - **SIMPLE COMBOS**: Train with simple combos getting progressively more difficult. This is perfect for beginners who want to have fun boxing.
 
@@ -46,5 +46,4 @@ You can now record yourself in portrait mode, which is better when working on th
 Some people were struggling to figure out how to use the app. To assist them and help them learn boxing, we've added a few more ways to get help in the app.
 
 {% include getapp.html %}
-
 

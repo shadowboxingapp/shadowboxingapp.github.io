@@ -9,7 +9,7 @@ category: punching bag exercises
 
 ---
 
-We're releasing a new way to train with your punching bag at home! You can also run this exercise without equipment and it'll work, but this was really designed to be followed on the bag.
+We're releasing a new way to train with your punching bag at home to get more out of this [very useful piece of boxing equipment](/heavy-bag-in-boxing/)! You can also run this exercise without equipment and it'll work, but this was really designed to be followed on the bag.
 
 {% include preview.html %}
 
@@ -28,3 +28,4 @@ Then it's back to non stop punches.
 We think that this exercise is really fun and intense, so we hope you'll like it too!
 
 {% include getapp.html %}
+
