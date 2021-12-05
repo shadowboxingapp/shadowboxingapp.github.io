@@ -2,7 +2,6 @@
   description: "Box for 6 rounds of 3 minutes with a coach giving you audio directions."
   code: "freestyle"
 
-
 - title: "20 MINUTES HIIT"
   description: "High intensity training to build explosive power & increase stamina"
   code: "20_minutes_hiit"
@@ -23,10 +22,6 @@
   description: "Quickly alternate between shadow boxing freestyle and pushups"
   code: "pushups"
 
-- title: "10 ROUNDS"
-  description: "Guided boxing exercices and freestyle for 10 rounds of 3 minutes"
-  code: "10_rounds"
-
 - title: "DEFENSE"
   description: "Work on dodging incoming attacks and countering"
   code: "defense"
@@ -42,3 +37,7 @@
 - title: "DODGE"
   description: "Focus on reaction speed. It's simple, just don't get hit!"
   code: "dodge"
+
+- title:	CIRCUIT TRAINING
+  description:	Quickly go through a lot of different exercises
+  code: "circuit"

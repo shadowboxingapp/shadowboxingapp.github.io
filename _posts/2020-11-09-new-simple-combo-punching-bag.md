@@ -37,6 +37,8 @@ We've also added a few workouts.
 
     <div style='text-align: center'><img src='/assets/blog/screenshot_blog_simple.png' style='width: 300px;margin: 10px 0px 30px 0px;' alt='Boxing pad work app'/></div>
 
+We're really happy to always been adding to the list of workouts available. If you want to discover what else already exists in the app, [you can take a look here](/workouts/)!
+
 ## Recording Yourself
 
 You can now record yourself in portrait mode, which is better when working on the [punching bag](/punching-bag-app-boxing/). This is also great if you want to share your [shadow boxing workouts](/importance-of-shadow-boxing/) on Instagram.

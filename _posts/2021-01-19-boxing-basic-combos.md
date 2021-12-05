@@ -56,6 +56,6 @@ Being able to put the punches together swiftly, lacking any form of robotic shot
 
 If you are to succeed as a boxer you will need to spend hours perfecting your craft and learning these various effective boxing combinations.
 
-A good way to commit these combinations to muscle memory is through exercises like pad work. If you are interested, you can use a boxing app to train at home!
+A good way to commit these combinations to muscle memory is through [exercises like pad work](/workouts/). If you are interested, you can use a boxing app to train at home!
 
 {% include getapp.html %}

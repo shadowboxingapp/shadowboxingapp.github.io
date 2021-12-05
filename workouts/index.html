@@ -1,0 +1,35 @@
+---
+layout: default
+title: Shadow Boxing Workouts | Discover boxing exercises available on the iOS app
+description: The Shadow Boxing App has many different modes and exercises to pick from. The best way to discover them is to download the app, but here is a preview!
+imageCode: "custom_workout"
+---
+
+<div class="container-fluid dark">
+  <h1 class="home_title">Available Boxing Workouts</h1>
+  <p>
+    The <a href="/">Shadow Boxing App</a> has many different modes, workouts and exercises to pick from, and we are adding new ones all the time.
+    They range from freestyle work to punching bag exercises, but also virtual pad work or footwork drills. There really is something for every type of boxer.
+    The best way to discover them is to <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">download the app</a>, but here is a preview!
+  </p>
+  {% include screenshots1.html %}
+</div>
+<div class="container-fluid dark all_workouts">
+    <div class="row">
+      {% for mode in site.data.workouts %}
+        <div class="col-6 col-md-4 workout">
+          <h2>{{ mode.title }}</h2>
+          <p>
+            {{ mode.description }}
+            {% if mode.link %}
+              <a href="{{ mode.link }}">{{ mode.link_title }}</a>
+            {% endif %}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+{% include getapp.html %}
+{% include screenshots2.html %}
+</div>
+
+

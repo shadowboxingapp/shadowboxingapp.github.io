@@ -110,6 +110,10 @@ html[xmlns] .clearfix {
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', 'Arial', sans-serif;
 }
 
+a {
+  color: #fff;
+}
+
 .icon {
   width: 45px;
   border-radius: 10px;
@@ -485,6 +489,22 @@ li {
   margin-bottom: 40px;
 }
 
+.all_workouts{
+  padding: 40px 0px;
+}
+.all_workouts .workout {
+  padding: 20px 35px;
+}
+.workout h2 {
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #fab219;
+}
+.workout p a {
+  display: block;
+  margin-top: 10px;
+}
+
     </style>
   </head>
 
@@ -557,9 +577,10 @@ li {
     <div class="col-md-2 col-sm-1"></div>
     <div class="col-md-8 col-sm-10">
      <p class="subtitle_text">
-       You can pick from a lot of boxing exercises to train at home.
+       You can pick from a lot of boxing exercises and workouts to train at home.
        For instance you can grab your heavy bag and follow along workouts that will alternate quick 1-2s with strong and heavy punches.
        You can also just do some freestyle with the app only giving you guidance and ideas.
+       If you like more guidance, you can just follow along as the app calls out punches!
      <p>
    </div>
     <div class="col-md-2 col-sm-1"></div>
@@ -729,24 +750,25 @@ li {
 
 <div class="container-fluid dark">
   <div class="row screenshots">
-    <div class="col">
-      <h2>Mirror mode</h2>
-      <p>record yourself boxing & improve<p>
-      <img src="assets/web_screenshot_4.png" alt='Record yourself boxing' />
-    </div>
-
-    <div class="col">
-      <h2>Free round timer</h2>
-      <p>efficient and without ads<p>
-      <img src="assets/web_screenshot_5.png" alt='Free boxing round timer without ads' />
-    </div>
-
-    <div class="col">
-      <h2>Statistics</h2>
-      <p>track trainings, stay motivated</p>
-      <img src="assets/web_screenshot_6.png" alt='Track your statistics with this boxing app' />
-    </div>
+  <div class="col">
+    <h2>Mirror mode</h2>
+    <p>record yourself boxing & improve<p>
+    <img src="/assets/web_screenshot_4.png" alt='Record yourself boxing' />
   </div>
+
+  <div class="col">
+    <h2>Free round timer</h2>
+    <p>efficient and without ads<p>
+    <img src="/assets/web_screenshot_5.png" alt='Free boxing round timer without ads' />
+  </div>
+
+  <div class="col">
+    <h2>Statistics</h2>
+    <p>track trainings, stay motivated</p>
+    <img src="/assets/web_screenshot_6.png" alt='Track your statistics with this boxing app' />
+  </div>
+</div>
+
 </div>
 
 <div class="container-fluid light">
@@ -815,15 +837,6 @@ li {
         </div>
     
         <div class= "col-md-4 col-sm-6 col-lg-3">
-          <div class="preset" style="background: url('/assets/presets/10_rounds-min.png');background-size:cover;">
-            <span class='highlighted'>
-              10 ROUNDS
-            </span>
-            <p> Guided boxing exercices and freestyle for 10 rounds of 3 minutes</p>
-          </div>
-        </div>
-    
-        <div class= "col-md-4 col-sm-6 col-lg-3">
           <div class="preset" style="background: url('/assets/presets/defense-min.png');background-size:cover;">
             <span class='highlighted'>
               DEFENSE
@@ -859,10 +872,19 @@ li {
           </div>
         </div>
     
+        <div class= "col-md-4 col-sm-6 col-lg-3">
+          <div class="preset" style="background: url('/assets/presets/circuit-min.png');background-size:cover;">
+            <span class='highlighted'>
+              CIRCUIT TRAINING
+            </span>
+            <p> Quickly go through a lot of different exercises</p>
+          </div>
+        </div>
+    
     <div class="col-md-4 col-sm-6 col-lg-3 download">
       <br/>
       <br/>
-      Download this shadow boxing training app for iPhone
+      See <a href="/workouts" style="color: #000; display: inline; padding: 0px; margin: 0px;">more boxing workouts</a> or try them out by downloading this shadow boxing training app for iPhone
       <br />
       <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
         <img src="/assets/download.svg" alt="Download boxing app on the app store" />
