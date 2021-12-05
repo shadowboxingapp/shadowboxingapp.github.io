@@ -11,10 +11,10 @@ imageCode: "custom_workout"
 <div class="container-fluid dark blog_articles">
     <div class="row blog_post_index">
       {% for post in site.posts %}
-        <div class="col-md-6 col-12 blog_post_index_item">
+        <div class="col-12 col-md-4 col-sm-6 blog_post_index_item">
           <div class="row">
-            <div class="col-4">
-              <img src="/assets/presets/{{post.imageCode}}-min.png" alt='{{post.title}}' />
+            <div class="col-12">
+              <img src="/assets/presets/{{post.imageCode}}-min.png" alt='Boxing article: {{post.title}}' />
             </div>
             <div class="col">
               <h2>
