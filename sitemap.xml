@@ -10,19 +10,13 @@ title : Sitemap
   </url>
 
   <url>
-    <loc>{{site.production_url}}/books/</loc>
-  </url>
-
-  <url>
-    <loc>{{site.production_url}}/hire/</loc>
+    <loc>{{site.production_url}}/</loc>
   </url>
 
   {% for post in site.posts %}
-    {% if post.blog == true %}
-      <url>
-        <loc>{{site.production_url}}{{ post.url }}</loc>
-      </url>
-    {%endif%}
+    <url>
+      <loc>{{site.production_url}}{{ post.url }}</loc>
+    </url>
   {% endfor %}
 
 </urlset>
