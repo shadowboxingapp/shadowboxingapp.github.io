@@ -54,3 +54,7 @@ Boxing, moving and even hurting Joshua at times, Usyk was the boss at the beginn
 Desperately clinging on to avoid being stopped, while trying to reserve any last shred of dignity, Anthony Joshua now claims he is eager to right the wrongs with Usyk in a contracted rematch. The fearless Ukrainian has other ideas. His shellacking of Joshua in the final 20 seconds of the contest might give an indication of how a return fight would play out. Usyk will be looking to win by knockout this time.
 
 {% include appad.html %}
+
+## Here's to 2022
+
+2022 will see its fair share of great fight, and I'm not talking about Jake Paul's! If you want to get into boxing, you could consider using an app to help you train. If that's the case, you should go take a look at our [top 5 list of best boxing app of 2022](/best-ios-boxing-apps-in-2022/)!

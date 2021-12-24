@@ -10,6 +10,8 @@ category: new year resolutions
 
 ---
 
+Update: Didn't start in 2021? [Maybe 2022 will be the right time for you](/start-boxing-in-2022/)!
+
 Now that the holidays are over, many of us are counting the cost of a period of overindulgence. While in essence there is nothing wrong with a little excess, the extra pounds add up and you may be feeling sluggish and unfit.
 
 Starting to box is one of the best ways of shifting weight and getting in to shape, no matter what the time of year. As you look to trim off any gained weight, let boxing be your New Year’s resolution.

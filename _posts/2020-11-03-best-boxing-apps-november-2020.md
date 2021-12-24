@@ -9,6 +9,8 @@ imageLink: top_boxing.png
 
 {{ page.description }}
 
+If you want to see an updated version of this list, we've written [a 2022 version accesible here](/best-ios-boxing-apps-in-2022/)!
+
 {% include preview.html %}
 
 {% include appToShowcase.html file="mayweather" %}

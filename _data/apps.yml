@@ -9,6 +9,17 @@ mayweather:
     - Very expensive
     - Sometime not technical enough
 
+mayweather_2022:
+  title: "Mayweather Boxing"
+  description: "This app relies a lot on the image of Floyd Mayweather, but it is filled with relevant exercises and workout. However you are paying a premium for the name and the app can remain surface level at times."
+  link: "https://apps.apple.com/app/mayweather-boxing-fitness/id1308367986"
+  pros:
+    - Great visuals, the app looks great
+    - The expertise of Floyd Mayweather
+  cons:
+    - Not cheap at all
+    - Could be more technical
+
 timerplus:
   title: "Timer Plus"
   link: "https://apps.apple.com/app/timer-plus-workouts-timer/id1279716547"
@@ -41,6 +52,18 @@ sbw:
     - Compatible with a punching bag
   cons:
     - Not enough bodyweight exercise options
+
+sbw_2022:
+  title: "Shadow Boxing Workout"
+  description: "This is the perfect app to train at home. It really behaves like a virtual boxing coach that will call out punches, combinations and movements to build a great workout session. It is made for boxing, so everything is tailored for this sport."
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  pros:
+    - Many different exercises that you can customize
+    - Free round timer comes with the app
+    - Compatible with a punching bag
+    - Made for boxing
+  cons:
+    - Not many tutorial videos
 
 likeaboxer:
   title: "Train like a boxer"
@@ -135,3 +158,26 @@ fightcamp:
     - Sleek design
   cons:
     - Expensive tracker to buy
+
+fightcamp_2022:
+  link: "https://apps.apple.com/us/app/fightcamp-boxing-workouts/id1328562100"
+  title: "Fightcamp"
+  description: "This app uses a proprieritary punch tracker hardware to keep track of how many punches you are throwing, which is quite fun to use. On top of this you will get to experience very good quality video workouts."
+  pros:
+    - Quality videos
+    - Good looking design
+    - Tracking punches is fun
+  cons:
+    - Expensive tracker to buy
+
+boxx:
+  link: https://apps.apple.com/us/app/boxx-workouts-fitness-plans/id1291801835
+  title: Boxx
+  description: This app is a great home training solution if you want to improve your fitness. It includes some boxing exercises, however it's clearly more aimed at the boxercise crowd than actual boxers.
+  pros:
+    - Good looking app
+    - Various fitness exercises (including Yoga & more)
+    - High quality videos
+  cons:
+    - Boxing exercises not very technical
+    - Focused on fitness and not boxing

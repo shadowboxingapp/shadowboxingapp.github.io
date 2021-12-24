@@ -10,6 +10,8 @@ imageLink: top_boxing.png
 
 {{ page.description }}
 
+If you want to see the updated version of this list, please head toward our new [top 5 boxing apps of 2022 list](/best-ios-boxing-apps-in-2022/)!
+
 {% include preview.html %}
 
 {% include appToShowcase.html file="fightcamp" %}
