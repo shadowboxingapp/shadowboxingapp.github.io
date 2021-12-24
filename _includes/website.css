@@ -277,12 +277,13 @@ li {
 .blog_post_home h3{
   padding-bottom: 20px;
   line-height: 30px;
-  font-size: 25px;
-  font-weight: bold;
+  font-size: 22px;
+  text-align: left;
 }
 
 .blog_post_home h3 a{
   color: #fff;
+  text-decoration: none;
 }
 
 .from_the_blog {
@@ -318,14 +319,15 @@ li {
   padding: 40px 0px;
 }
 .blog_post_index h2 {
-  padding-bottom: 20px;
+  padding-bottom: 15px;
+  padding-top: 10px;
   line-height: 30px;
-  font-size: 22px;
-  font-weight: bold;
+  font-size: 20px;
   text-align: left;
 }
 .blog_post_index h2 a {
   color: #f5a600;
+  text-decoration: none;
 }
 .blog_post_index img {
   width: 100%;

@@ -3,7 +3,7 @@ title: "Top 5 Best Boxing Apps in 2022"
 imageCode: "punching_bag_mix"
 description: "Training at home is bigger than ever, so here is our list of the best boxing mobile apps. While they won't be as good as a real life coach, you can accomplish much with them."
 layout: post
-category: top 5 boxing apps
+category: the best boxing app out there
 imageLink: top_boxing.png
 
 
