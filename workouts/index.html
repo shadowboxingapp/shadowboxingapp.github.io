@@ -15,10 +15,11 @@ imageCode: "custom_workout"
   {% include screenshots1.html %}
 </div>
 <div class="container-fluid dark all_workouts">
+  <h2 class="large_subtitle" style="margin-bottom: 20px">Boxing workouts available in the iOS app</h2>
     <div class="row">
       {% for mode in site.data.workouts %}
         <div class="col-6 col-md-4 workout">
-          <h2>{{ mode.title }}</h2>
+          <h3>{{ mode.title }}</h3>
           <p>
             {{ mode.description }}
             {% if mode.link %}
@@ -28,8 +29,20 @@ imageCode: "custom_workout"
         </div>
       {% endfor %}
     </div>
-{% include getapp.html %}
-{% include screenshots2.html %}
 </div>
+
+<div class="container-fluid dark all_workouts">
+  <h2 class="large_subtitle">That's a lot!</h2>
+  <p class="subtitle_blurb">
+    It might seem like a lot of available options... because it's the case! However don't worry,
+    you can take it one step at a time and learn how to use our boxing app one step at a time.
+    You can trust <a href="/reviews">our thousands of users' reviews</a> on the app store and download
+    the app today to see for yourself how it works!
+  </p>
+
+  {% include getapp.html %}
+  {% include screenshots2.html %}
+</div>
+
 
 
