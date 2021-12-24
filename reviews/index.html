@@ -1,0 +1,66 @@
+---
+layout: default
+title: Shadow Boxing Workouts | Read reviews about the app
+description: If you are on the fence about starting to use the app for boxing, you can take a look at these real user reviews!
+imageCode: "custom_workout"
+---
+
+<div class="container-fluid dark">
+  <h1 class="home_title">Reviews of the shadow boxing app</h1>
+  <p class="subtitle_blurb">
+    We know that it's hard to commit to an app when training. There are a lot of them out there, each with their specificities.
+    This is why we offer completely free trainings so you can get a sense of how the app works and if it'll fit
+    the way you want to train. Another way to get more insights is reading what people are saying about the app,
+    so keep scrolling and discover what users and publications said about the shadow boxing app!
+  </p>
+</div>
+
+<div class="container-fluid dark all_workouts">
+  <h2 class="large_subtitle"> From boxers using the app</h2>
+  <p class="subtitle_blurb">
+    If you are on the fence about starting to use the app for boxing, you can take a look at these
+    <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">real user reviews from the app store</a>.
+    We think that our best advocates are the boxers that use the app every week to train and get better.
+    Because of this, we also listen to all feedback and do our best to keep improving the app so it'll fit what
+    people actually need to stay in shape and improve their technique.
+  </p>
+    <div class="row all_workouts">
+      {% for review in site.data.reviews %}
+        <div class="col-6 col-md-4 workout">
+          <div class="stars">⭐️⭐⭐⭐⭐</div>
+          <h3>{{ review.title }}</h2>
+          <p>
+            {{ review.content }}
+          </p>
+          <p class="from">
+            From {{ review.name }}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+{% include getapp.html %}
+</div>
+
+<div class="container-fluid dark all_workouts">
+  <h2 class="large_subtitle">From the press and review sites</h2>
+  <p class="subtitle_blurb">
+    Some publications gave our app a try and gave their feedback.
+  </p>
+    <div class="row">
+      {% for review in site.data.pro_reviews %}
+        <div class="col-6 col-md-4 workout">
+          <h3>{{ review.title }}</h2>
+          <p>
+            {{ review.content }}
+          </p>
+          <p class="from">
+            <a href="{{review.link}}">{{ review.name }}</a>
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+{% include screenshots1.html %}
+{% include getapp.html %}
+</div>
+
+

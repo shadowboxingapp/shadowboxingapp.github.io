@@ -7,6 +7,10 @@ a {
   color: #fff;
 }
 
+p {
+  line-height: 20px;
+}
+
 .icon {
   width: 45px;
   border-radius: 10px;
@@ -168,7 +172,6 @@ li {
 
 .preset p {
   font-size: 14px;
-  line-height: 20px;
   text-shadow: 0px 0px 2px #000;
 }
 
@@ -269,7 +272,6 @@ li {
 }
 
 .blog_post_home p {
-  line-height: 20px;
   text-align: justify;
 }
 .blog_post_home h3{
@@ -330,7 +332,6 @@ li {
 }
 .blog_post_index p {
   text-align: left;
-  line-height: 20px;
 }
 .blog_post_index_item {
   margin-bottom: 60px;
@@ -388,7 +389,10 @@ li {
 .all_workouts .workout {
   padding: 20px 35px;
 }
-.workout h2 {
+.workout p {
+  margin-top: 10px;
+}
+.workout h2, .workout h3 {
   font-weight: bold;
   margin-bottom: 5px;
   color: #fab219;
@@ -396,4 +400,21 @@ li {
 .workout p a {
   display: block;
   margin-top: 10px;
+}
+.workout .from {
+  color: #ccc;
+  font-style: italic;
+}
+
+.subtitle_blurb {
+  padding: 20px;
+}
+
+.large_subtitle {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.stars {
+  padding: 10px;
 }
