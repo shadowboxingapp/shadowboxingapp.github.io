@@ -15,8 +15,8 @@ imageCode: "custom_workout"
   </p>
 </div>
 
-<div class="container-fluid dark all_workouts">
-  <h2 class="large_subtitle"> From boxers using the app</h2>
+<div class="container-fluid dark">
+  <h2 class="orange_header"> From boxers using the app</h2>
   <img class="content_banner" src="/assets/banner_reviews.jpg" alt="People using an iOS app for shadow boxing"/>
   <p class="subtitle_blurb">
     If you are on the fence about starting to use the app for boxing, you can take a look at these
@@ -25,9 +25,12 @@ imageCode: "custom_workout"
     Because of this, we also listen to all feedback and do our best to keep improving the app so it'll fit what
     people actually need to stay in shape and improve their technique.
   </p>
-    <div class="row all_workouts">
+</div>
+
+<div class="container-fluid dark all_workouts">
+    <div class="row">
       {% for review in site.data.reviews %}
-        <div class="col-6 col-md-4 workout">
+        <div class="col-12 col-md-4 workout">
           <div class="stars">⭐️⭐⭐⭐⭐</div>
           <h3>{{ review.title }}</h2>
           <p>
@@ -42,14 +45,17 @@ imageCode: "custom_workout"
 {% include getapp.html %}
 </div>
 
-<div class="container-fluid dark all_workouts">
-  <h2 class="large_subtitle">From the press and review sites</h2>
+<div class="container-fluid dark">
+  <h2 class="white_header">From the press and review sites</h2>
   <p class="subtitle_blurb">
     Some publications gave our app a try and gave their feedback.
   </p>
+</div>
+
+<div class="container-fluid dark all_workouts">
     <div class="row">
       {% for review in site.data.pro_reviews %}
-        <div class="col-6 col-md-4 workout">
+        <div class="col-12 col-md-4 workout">
           <h3>{{ review.title }}</h2>
           <p>
             {{ review.content }}
@@ -60,8 +66,8 @@ imageCode: "custom_workout"
         </div>
       {% endfor %}
     </div>
-{% include screenshots1.html %}
-{% include getapp.html %}
+  {% include screenshots1.html %}
+  {% include getapp.html %}
 </div>
 
 
