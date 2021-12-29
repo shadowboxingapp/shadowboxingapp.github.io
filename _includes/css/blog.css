@@ -1,0 +1,187 @@
+/* BLOG */
+
+.blog_title {
+  font-size: 45px;
+  padding: 50px 30px 80px 30px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  text-decoration-color: #f5a600 !important;
+  text-decoration: underline;
+}
+
+.post_header {
+  background-size: cover !important;
+}
+
+.post {
+  padding-bottom: 20px;
+}
+.post h1 {
+  color: #f5a600;
+  text-align: center;
+  padding: 80px 20px;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 1px 1px #fff;
+}
+.post ul {
+  text-align: left;
+}
+.post strong {
+  font-weight: bold;
+}
+.post h2 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  padding: 30px 0px 10px 0px;
+  text-decoration-color: #f5a600 !important;
+  text-decoration: underline;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+.post h3 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  padding: 30px 0px 10px 0px;
+  line-height: 30px;
+}
+
+.post p {
+  text-align: left;
+  font-size: 18px;
+  line-height: 24px;
+  padding-bottom: 20px;
+}
+.post .preview {
+  width: 100%;
+  margin: 20px 0px;
+}
+
+.post a {
+  color: #f5a600;
+  text-decoration: none;
+}
+
+.post a:hover {
+  text-decoration: underline;
+}
+
+.blog_post_home {
+  margin-bottom: 60px;
+}
+
+.blog_post_home p {
+  text-align: justify;
+}
+.blog_post_home h3{
+  padding-bottom: 20px;
+  line-height: 30px;
+  font-size: 22px;
+  text-align: left;
+}
+
+.blog_post_home h3 a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.from_the_blog {
+  padding-bottom: 10px;
+}
+
+.read_more {
+  color: #f5a600;
+  text-decoration: none;
+}
+
+.read_more:hover {
+  text-decoration: underline;
+}
+
+.app_ad {
+  border: 1px dashed #4B4C4D;
+  background-color: #101112;
+  padding-bottom: 10px;
+  color: #dee1e3;
+  margin: 10px;
+}
+.app_ad:hover {
+  border: 1px dashed #f5a600;
+}
+
+.app_ad p {
+  padding: 20px;
+}
+
+.blog_articles {
+  padding: 60px 30px;
+}
+.blog_post_index {
+  padding: 40px 0px;
+}
+.blog_post_index h2 {
+  padding-bottom: 15px;
+  padding-top: 10px;
+  line-height: 30px;
+  font-size: 20px;
+  text-align: left;
+}
+.blog_post_index h2 a {
+  color: #f5a600;
+  text-decoration: none;
+}
+.blog_post_index img {
+  width: 100%;
+}
+.blog_post_index p {
+  text-align: left;
+}
+.blog_post_index_item {
+  margin-bottom: 60px;
+  padding-right: 30px;
+}
+
+.app_icon {
+  width: 100%;
+  border-radius: 10px;
+  margin: 10px auto 30px auto;
+  border: 1px solid #666;
+}
+.app_screenshots {
+  width: 100%;
+}
+.pros {
+  font-weight: bold;
+  color: #00d600;
+}
+.cons {
+  color: #d60000;
+}
+.best_apps ul{
+  padding-bottom: 20px;
+}
+.best_apps {
+  padding-bottom: 60px;
+}
+
+.best_apps h2 a {
+  color: #fff !important;
+}
+
+.app_point_header {
+  font-weight: bold;
+  text-align: left;
+  font-size: 18px;
+}
+.best_apps ul li{
+  text-align: left;
+  list-style-type: none;
+  font-size: 18px;
+}
+
+

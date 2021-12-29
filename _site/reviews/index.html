@@ -120,6 +120,33 @@ p {
   line-height: 20px;
 }
 
+strong {
+  font-weight: bold;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+li {
+ padding: 10px 0px;
+ list-style: square;
+}
+
+/* LAYOUT */
+.dark {
+  background-color: #18191A;
+}
+
+.light {
+  background-color: #FBFBFB;
+  color: #18191A;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: auto;
+}
 
 /* HOMEPAGE */
 .icon {
@@ -151,100 +178,6 @@ p {
   text-shadow: 1px 1px #222;
   text-align: center;
 }
-.download {
-  text-align: center;
-}
-.download a {
-  margin: 30px 20px 20px 20px;
-  display: inline-block;
-}
-.download a img {
-  width: 180px;
-}
-
-.screenshots {
-  margin: 20px;
-  text-align: center;
-  padding-bottom: 20px;
-}
-
-.screenshots img {
-  width: 240px;
-}
-
-.screenshots h2 {
-  color: #fab219;
-  text-transform: uppercase;
-  font-size: 24px;
-  font-weight: bold;
-  padding: 40px 10px 10px 10px;
-}
-.screenshots p {
-  color: #a2a4a6;
-  font-size: 16px;
-  padding-bottom: 20px;
-}
-
-.features {
-  font-size: 20px;
-  padding: 60px 20px;
-}
-
-.features h2 {
-  text-transform: uppercase;
-  color: #4B4C4D;
-  font-size: 25px;
-  padding: 0px 0px 40px 0px;
-}
-.features p {
-  margin-bottom: 20px;
-}
-.wrapper {
-  max-width: 800px;
-  margin: auto;
-}
-
-strong {
-  font-weight: bold;
-}
-
-ul {
-  margin-left: 20px;
-}
-li {
- padding: 10px 0px;
- list-style: square;
-}
-
-.dark {
-  background-color: #18191A;
-}
-
-.light {
-  background-color: #FBFBFB;
-  color: #18191A;
-}
-
-#footer {
-  background-color: #18191A;
-  color: #a2a4a6;
-  padding: 80px 0px 100px 0px;
-  text-align: center;
-  border-top: 1px solid #fab219;
-}
-
-#footer a {
-  display: inline-block;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  color: #fff;
-}
-
-.get-app:hover {
-  color: #fff;
-  transition: 0.5s;
-  text-shadow: none;
-}
 
 .mode_icon {
   width: 30px;
@@ -262,16 +195,6 @@ li {
   font-weight: bold;
   padding-bottom: 10px;
   display: block;
-}
-
-.follow {
-  text-align: center;
-  font-size: 30px;
-  color: #f5a600;
-  padding: 45px 10px 40px 10px;
-  text-transform: uppercase;
-  font-weight: bold;
-  text-shadow: 0px 0px 2px #fab219;
 }
 
 .preset {
@@ -294,6 +217,143 @@ li {
   text-shadow: 0px 0px 2px #000;
 }
 
+/* HELPERS */
+
+.download {
+  text-align: center;
+}
+.download a {
+  margin: 30px 20px 20px 20px;
+  display: inline-block;
+}
+.download a img {
+  width: 180px;
+}
+
+.screenshots {
+  margin: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.stars {
+  padding: 10px;
+}
+
+.screenshots img {
+  width: 240px;
+}
+
+.screenshots h2 {
+  color: #fab219;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 40px 10px 10px 10px;
+}
+.screenshots p {
+  color: #a2a4a6;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+
+/* TITLES */
+
+.orange_header {
+  text-align: center;
+  font-size: 30px;
+  color: #f5a600;
+  padding: 45px 10px 40px 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 0px 0px 2px #fab219;
+}
+
+/* HEADER */
+.header {
+  padding: 20px 20px 25px 20px;
+}
+.header a{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.header a:hover {
+  color: #f5a600;
+}
+
+/* FOOTER */
+
+#footer {
+  background-color: #18191A;
+  color: #a2a4a6;
+  padding: 80px 0px 100px 0px;
+  text-align: center;
+  border-top: 1px solid #fab219;
+}
+
+#footer a {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+
+/* CONTENT PAGE */
+
+.subtitle_text {
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+.all_workouts{
+  padding: 40px 0px;
+}
+.all_workouts .workout {
+  padding: 20px 35px;
+}
+.workout p {
+  margin-top: 10px;
+}
+.workout h2, .workout h3 {
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #fab219;
+}
+.workout p a {
+  display: block;
+  margin-top: 10px;
+}
+.workout .from {
+  color: #ccc;
+  font-style: italic;
+}
+
+.subtitle_blurb {
+  padding: 20px;
+  max-width: 900px;
+  text-align: center;
+  margin: auto;
+}
+
+.large_subtitle {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.content_banner {
+  margin: 40px 0px;
+  width: 800px;
+}
+
+@media (max-width: 800px) {
+  .content_banner {
+    width: 100%;
+  }
+}
+
+      /* BLOG */
 
 .blog_title {
   font-size: 45px;
@@ -357,18 +417,6 @@ li {
   margin: 20px 0px;
 }
 
-.header {
-  padding: 20px 20px 25px 20px;
-}
-.header a{
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 14px;
-}
-.header a:hover {
-  color: #f5a600;
-}
-
 .post a {
   color: #f5a600;
   text-decoration: none;
@@ -400,10 +448,12 @@ li {
 .from_the_blog {
   padding-bottom: 10px;
 }
+
 .read_more {
   color: #f5a600;
   text-decoration: none;
 }
+
 .read_more:hover {
   text-decoration: underline;
 }
@@ -490,61 +540,6 @@ li {
 }
 
 
-
-.subtitle_text {
-  font-size: 15px;
-  margin-bottom: 40px;
-}
-
-.all_workouts{
-  padding: 40px 0px;
-}
-.all_workouts .workout {
-  padding: 20px 35px;
-}
-.workout p {
-  margin-top: 10px;
-}
-.workout h2, .workout h3 {
-  font-weight: bold;
-  margin-bottom: 5px;
-  color: #fab219;
-}
-.workout p a {
-  display: block;
-  margin-top: 10px;
-}
-.workout .from {
-  color: #ccc;
-  font-style: italic;
-}
-
-.subtitle_blurb {
-  padding: 20px;
-  max-width: 900px;
-  text-align: center;
-  margin: auto;
-}
-
-.large_subtitle {
-  font-size: 30px;
-  font-weight: bold;
-}
-
-.stars {
-  padding: 10px;
-}
-
-.content_banner {
-  margin: 40px 0px;
-  width: 800px;
-}
-
-@media (max-width: 800px) {
-  .content_banner {
-    width: 100%;
-  }
-}
 
     </style>
   </head>
@@ -801,19 +796,19 @@ li {
   <div class="col">
     <h2>Pick from many workouts</h2>
     <p>from HIIT to freestyle<p>
-    <img src="/assets/web_screenshot_1.png" alt='Pick from various boxing workouts' />
+    <img src="/assets/screenshots/web_screenshot_1.png" alt='Pick from various boxing workouts' />
   </div>
 
   <div class="col">
     <h2>Follow audio cues</h2>
     <p>just like doing virtual pad work<p>
-    <img src="/assets/web_screenshot_2.png" alt='Virtual padwork app calling out punches'/>
+    <img src="/assets/screenshots/web_screenshot_2.png" alt='Virtual padwork app calling out punches'/>
   </div>
 
   <div class="col">
     <h2>Entirely customizable</h2>
     <p>set the exercises, the intensity...</p>
-    <img src="/assets/web_screenshot_3.png" alt='Customize your boxing workouts with this app' />
+    <img src="/assets/screenshots/web_screenshot_3.png" alt='Customize your boxing workouts with this app' />
   </div>
 </div>
 
