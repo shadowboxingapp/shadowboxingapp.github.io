@@ -19,11 +19,13 @@ strong {
 
 ul {
   margin-left: 20px;
+  margin-bottom: 10px;
 }
 
 li {
  padding: 10px 0px;
  list-style: square;
+ font-size: 18px;
 }
 
 /* LAYOUT */
