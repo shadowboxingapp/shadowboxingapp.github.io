@@ -1,60 +1,74 @@
 - title: "Great app for boxers who want to train anytime, anyplace"
   content: "I use this app whenever i can, wherever i can, I’m not one to usually review apps but this app is a big help for someone who wants to train while also traveling constantly."
   name: "Lionstrike1111"
+  featured: true
 
 - title: "Excellent Digital Coach"
   content: "I live in a rural environment with no access to a boxing gym. This app mixes up the training well and acts as an excellent on-the-go coach."
   name: "puffychipmunk"
+  featured: true
 
 - title: "Great app!"
   content: "Works perfectly for me it’s simple and allows me the freedom to modify my training session, definitely recommend!"
   name: "T-jockey"
+  featured: true
 
 - title: "Great for fitness coordination and stress"
   content: "As a retired military bomb disposal type, have some stress. I bought all the apps for boxing and kickboxing as well as a cheapo heavy bag. This is the best of all the apps if you just want to work out and improve your game. Get it, use it, or stay on the bench."
   name: "peeved shrink"
+  featured: false
 
 - title: Perfect boxing app
   content: Was the exact timer app I was looking for. No more stock iPhone timer! You can tell this was made by someone who actually fights. The shadow boxing workouts are great too!
   name: KKCBB
-
+  featured: true
 
 - title: "Brilliant"
   content: "I’ve been around boxing gyms for a few years and the only bit I’ve never got into is shadow boxing. This app has me hooked though, really great simple tool and I can actually feel my natural rhythm improving. Can’t recommend it enough - whether you are looking for a workout or relax/cool down at the end of a day. Great free content and the subscription price is an absolute bargain. Thank you!"
   name: "@notsicknote"
+  featured: true
 
 - title: "Boxing"
   content: "Amazing app, great way to burn calories, stay in shape and have that mental focus🔥"
   name: "Booking Dot Yeah!"
+  featured: false
 
 - title: "Great App for Beginners "
   content: "I have been using the customized workouts with simple combinations and it has been really enjoyable. Super easy to understand the codes for combinations, even easier when they are called out to you! Loving this app and hoping to progress further with boxing!"
   name: "Ladylove2007"
+  featured: false
 
 - title: "Best app of its kind"
   content: "Very useful to have this if you’ve got a space to work with and your gyms closed."
   name: "bluecrayon123"
+  featured: true
 
 - title: "Simply the best boxing-workout app."
   content: "Found out about this app on reddit, and i can’t simply have enough. It’s easy to use, highly customizable, and clever in it’s workout creation. I did not have to sub to the app to use it fully but decided to do it anyway to support the creator best i could. They listen to feedback and improve very fast, if i could give more than 5 star i definetly would, my striking skills have improved a ton since working out with the app. If you’re not using it in these dark times well.. you’re missing out"
   name: "Sa3vus"
+  featured: false
 
 - title: Brilliant
   content: Amazing app. Only new to boxing but using this app everyday has helped a ton. Burning workouts! Plus the bonus of learning defence (slipping, parry, blocking, rolls)
   name: JDAMOTOX
+  featured: false
 
 - title: Amazing
   content: This app really pushes me and helped me a lot!! Would recommend
   name: Poised Goru
+  featured: false
 
 - title: 5 stars well deserved
   content: I’ve practice thai boxing for now 7 years. I had to move away from the gym due to the lock down. This app is amazing to keep some of the discipline I had at the gym. It is so customisable that one could be addicted to. Developers, keep doing what you do 🔥 It would be nice to have it compatible with Spotify or to include Muay thai music, eye of the tigger or some free content with the same mood 🥊
   name: Soffroz
+  featured: false
 
 - title: "Great!"
   content: "Great app, very motivating. A real sport coach!"
   name: "Sam21709698"
+  featured: false
 
 - title: My new workout routine
   content: Many efficient exercises to choose from that change from the usual home workouts I tried. I knew close to nothing about shadow boxing but this app did a good job walking me through it and made me steadily improve.
   name: gflandre
+  featured: false

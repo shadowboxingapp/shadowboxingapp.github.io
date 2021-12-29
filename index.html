@@ -29,40 +29,10 @@ imageCode: "freestyle"
   <div class="row">
     <div class="col">
       <h2 class="orange_header">
-        Follow along many different boxing exercises
+        See someone using the app
       </h2>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-2 col-sm-1"></div>
-    <div class="col-md-8 col-sm-10">
-     <p class="subtitle_text">
-       You can pick from a lot of boxing exercises and workouts to train at home.
-       For instance you can grab your heavy bag and follow along workouts that will alternate quick 1-2s with strong and heavy punches.
-       You can also just do some freestyle with the app only giving you guidance and ideas.
-       If you like more guidance, you can just follow along as the app calls out punches!
-     <p>
-   </div>
-    <div class="col-md-2 col-sm-1"></div>
-  </div>
-
-  <div class="row">
-    {% for exercise in site.data.exercises %}
-        <div class= "col-md-4 col-sm-6 col-lg-3">
-          <div class="mode">
-            <strong>
-              <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon" alt='Boxing exercises: {{exercise.title}}' />
-              {{ exercise.title }}
-            </strong>
-            {{ exercise.description }}
-          </div>
-        </div>
-    {% endfor %}
-  </div>
-  <div class="row">
-    <div class="col download">
-      <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-        <img src="/assets/download.svg" alt="Get this shadow boxing app" />
+      <a href="https://www.youtube.com/watch?v=8gTxzGUbYII" target="_blank">
+        <img style="margin-top: 0px;" class="content_banner" src="/assets/video_preview.png" alt="Someone training with a boxing app"/>
       </a>
     </div>
   </div>
@@ -103,6 +73,72 @@ imageCode: "freestyle"
       <br/>
       <br/>
       <br/>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid dark from_the_blog">
+  <h2 class="white_header">Verified reviews from the App Store</h2>
+  <div class="row all_workouts">
+    {% assign all_reviews = site.data.reviews | where: "featured", true %}
+    {% for review in all_reviews %}
+      <div class="col-12 col-md-4 workout">
+        <div class="stars">⭐️⭐⭐⭐⭐</div>
+        <h3>{{ review.title }}</h2>
+        <p>
+          {{ review.content }}
+        </p>
+        <p class="from">
+          From {{ review.name }}
+        </p>
+      </div>
+    {% endfor %}
+  </div>
+  <div style="text-align: center; padding-bottom: 20px;">
+    Read more reviews&nbsp;<a href="/reviews">on our site</a>&nbsp;or&nbsp;
+    <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">directly on Apple's store</a>.
+  </div>
+</div>
+
+<div class="container-fluid light">
+  <div class="row">
+    <div class="col">
+      <h2 class="orange_header">
+        Follow along many different boxing exercises
+      </h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-2 col-sm-1"></div>
+    <div class="col-md-8 col-sm-10">
+     <p class="subtitle_text">
+       You can pick from a lot of boxing exercises and workouts to train at home.
+       For instance you can grab your heavy bag and follow along workouts that will alternate quick 1-2s with strong and heavy punches.
+       You can also just do some freestyle with the app only giving you guidance and ideas.
+       If you like more guidance, you can just follow along as the app calls out punches!
+     <p>
+   </div>
+    <div class="col-md-2 col-sm-1"></div>
+  </div>
+
+  <div class="row">
+    {% for exercise in site.data.exercises %}
+        <div class= "col-md-6 col-sm-6 col-lg-4">
+          <div class="mode">
+            <strong>
+              <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon" alt='Boxing exercises: {{exercise.title}}' />
+              {{ exercise.title }}
+            </strong>
+            {{ exercise.description }}
+          </div>
+        </div>
+    {% endfor %}
+  </div>
+  <div class="row">
+    <div class="col download">
+      <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
+        <img src="/assets/download.svg" alt="Get this shadow boxing app" />
+      </a>
     </div>
   </div>
 </div>
