@@ -57,4 +57,4 @@ Desperately clinging on to avoid being stopped, while trying to reserve any last
 
 ## Here's to 2022
 
-2022 will see its fair share of great fight, and I'm not talking about Jake Paul's! If you want to get into boxing, you could consider using an app to help you train. If that's the case, you should go take a look at our [top 5 list of best boxing app of 2022](/best-ios-boxing-apps-in-2022/)!
+[2022 will see its fair share of great fight](/most-anticipated-boxing-matches-2022/), and I'm not talking about Jake Paul's! If you want to get into boxing, you could consider using an app to help you train. If that's the case, you should go take a look at our [top 5 list of best boxing app of 2022](/best-ios-boxing-apps-in-2022/)!
