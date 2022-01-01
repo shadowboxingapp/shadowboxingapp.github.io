@@ -13,7 +13,7 @@ category: boxing matches this year
 
 {% include preview.html %}
 
-## 1/ Tyson Fury WON KO11 Deontay Wilder III
+## 1/ Tyson Fury vs Deontay Wilder III
 
 **T-Mobile Arena, Las Vegas - 9 October 2021**
 
@@ -27,7 +27,7 @@ Fury’s final crushing blow removed Wilder from his senses and sent the Alabama
 
 {% include appad.html %}
 
-## 2/ Terence Crawford WON TKO10 Shawn Porter
+## 2/ Terence Crawford vs Shawn Porter
 
 **Mandalay Bay, Las Vegas - 20 November 2021**
 
@@ -41,7 +41,7 @@ With his contract to Bob Arum’s Top Rank promotional outfit now expired Terenc
 
 Disappointed after being dropped for a second time, Shawn Porter pounded the canvas in frustration as his father Kenny climbed the ring apron to signal the end of his son’s challenge. It was a powerful moment and Porter later announced his retirement from the sport.
 
-## 3/ Oleksandr Usyk WON PTS12 Anthony Joshua
+## 3/ Oleksandr Usyk vs Anthony Joshua
 
 **Tottenham Hotspur Stadium, London - 25 September 2021**
 
