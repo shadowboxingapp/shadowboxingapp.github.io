@@ -1,0 +1,38 @@
+<head>
+  <meta charset="utf-8">
+  <title>
+      {{ page.title }}
+  </title>
+  <meta name="description" content="{{ page.description }}">
+  <meta content='user-scalable=no, width=device-width, initial-scale=1.0' name='viewport'>
+  <meta name="google-site-verification" content="x2EpQdOMz-k9fP8hak9I3COaXhnQ4jNLp2GU4GYQ8jM" />
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@shadowboxingapp">
+  <meta name="twitter:creator" content="@shadowboxingapp">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+
+  {% if page.imageLink %}
+    <meta name="twitter:image" content="https://shadowboxingapp.com/assets/previews/{{page.imageLink}}" />
+    <meta property="og:image" content="https://shadowboxingapp.com/assets/previews/{{page.imageLink}}" />
+  {% else %}
+    <meta name="twitter:image" content="https://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
+    <meta property="og:image" content="https://shadowboxingapp.com/assets/presets/{{page.imageCode}}-large.png" />
+  {% endif %}
+
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+
+  <meta content='app-id=1510911574' name='apple-itunes-app'>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.jpg" />
+
+  <link rel="shortcut icon" href="/assets/favicon.png">
+  <style type="text/css">
+    {% include /css/reset.css %}
+    {% include /css/bootstrap-grid.min.css %}
+    {% include /css/website.css %}
+    {% include /css/blog.css %}
+    {% include /css/shop.css %}
+  </style>
+</head>

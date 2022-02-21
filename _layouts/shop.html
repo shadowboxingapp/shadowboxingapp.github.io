@@ -1,0 +1,42 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body id="shop">
+
+    <div class="shop_wrapper">
+      {% for category in site.data.gear %}
+        <h2>{{ category.name }}</h2>
+        <div class="shop_category">
+            <p>{{ category.blurb }}</p>
+        </div>
+            {% for item in category.items %}
+              <h2>
+                <a href="{{item.link}}">→ {{ item.name }}</a>
+              </h2>
+              <div class="shop_category">
+
+                <a href="{{item.link}}">
+                  <img src="/assets/shop/{{item.image}}" class="shop_item_photo" alt="{{item.name}} - photo" />
+                </a>
+                <p>
+                  {{ item.blurb }}
+                  <br />
+                </p>
+                <a class="shop_get" href="{{item.link}}">Buy on Amazon.</a>
+              </div>
+            {% endfor %}
+        </div>
+      {% endfor %}
+      <br>
+      <br>
+      <br>
+    {% include ga.html %}
+
+  </body>
+</html>
+

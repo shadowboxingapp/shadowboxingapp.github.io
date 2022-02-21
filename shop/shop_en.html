@@ -1,0 +1,35 @@
+---
+layout: shop
+title: Equipment for shadow boxing and punching bag
+description: Equipment for boxing.
+imageCode: "custom_workout"
+---
+
+<div class="container-fluid dark">
+  <h1 class="shop_title">Equipment</h1>
+</div>
+
+<div class="container-fluid dark blog_articles">
+    <div class="row blog_post_index">
+      {% for post in site.posts %}
+        <div class="col-12 col-md-4 col-sm-6 blog_post_index_item">
+          <div class="row">
+            <div class="col-12">
+              <img src="/assets/presets/{{post.imageCode}}-min.png" alt='Boxing article: {{post.title}}' />
+            </div>
+            <div class="col">
+              <h2>
+                <a href="{{ BASE_PATH }}{{ post.url }}">
+                  {{ post.title }}
+                </a>
+              </h2>
+              <p>
+                {{ post.description }}
+              </p>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+</div>
+
