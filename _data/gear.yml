@@ -1,87 +1,162 @@
-- name: "Gloves"
-  blurb: |
-    Obviously if you're only shadow boxing, you do not need a pair of gloves.
-    However, this is best that you train as you'll fight, so having gloves
-    even for shadow can be a good idea. It'll also add weight and make it
-    harder to keep your guard up... and getting used to having one's guard
-    up when tired is very important.
+fr:
+  - name: "Gants"
+    blurb: |
+      Evidemment si c'est juste pour faire du shadow boxing, tu n'as pas besoin
+      d'une paire de gants. Par contre il est mieux de s'entraîner comme on
+      combat, donc avoir des gants même pour du shadow peut être une bonne idée.
+      Cela rajoute du poids et rend le fait de garder ses mains levées difficile par
+      exemple.
 
-  items:
-    - name: "Fairtex"
-      blurb: On the pricier side, but you get Fairtex quality, leather gloves and ergonomic fit.
-      image: "fairtex.jpg"
-      link: https://amzn.to/3BByTCO
-    - name: "Everlast"
-      blurb: This brand has cheaper options and behave better than a lot of cheap gloves, like the ones made by Adidas that should be avoided.
-      link: https://amzn.to/3sPCn0o
-      image: "everlast.jpg"
-    - name: "Venum"
-      blurb: This is not leather but the material has decent resistance, the price is reasonable and Venum provides alternative designs if you're into it.
-      link: https://amzn.to/3H1H6Bv
-      image: "venum.jpg"
+    items:
+      - name: "Fairtex"
+        blurb: Un peu cher, mais avec la qualité Fairtex sur des gants en cuir.
+        image: "fairtex.jpg"
+        link: https://amzn.to/3OmtyV9
+      - name: "Everlast"
+        blurb: Cette marque a des options moins chères qui sont généralement de meilleure qualité que d'autres, comme les gants Addidas.
+        link: https://amzn.to/3QxMhPm
+        image: "everlast.jpg"
+      - name: "Venum"
+        blurb: Ce ne sont pas des gants en cuir mais ils sont toutes de même de bonne qualité.
+        link: https://amzn.to/3QvJAOw
+        image: "venum.jpg"
 
 
-- name: "Wraps"
-  blurb: |
-    If you're hitting anything, you're better have some kind of wrist and joint support.
-    Often underestimated, wraps is a must have if you're starting to hit the bag.
-    They also are a convenient way to absorb sweat so that you don't destroy
-    your gloves after a few intense workouts.
-  items:
-    - name: "Everlast 180 inches"
-      blurb: Long wraps means more support, so we highly recommend getting something above 150 inches. These Everlast pro wraps are good quality even if a bit more expensive.
-      image: "everlast_wrap.jpg"
-      link: https://amzn.to/3BFsFC7
-    - name: "Ring side 180 inches"
-      blurb: You might like this cheaper, slightly more flexible alternative that has more color available.
-      link: https://amzn.to/34Xt8DE
-      image: "ringside.jpg"
-    - name: "Venum side 100 inches"
-      blurb: If you want a cheap solution that still provide some support, this one is for you.
-      link: https://amzn.to/3BCwBU1
-      image: "venum_wrap.jpg"
+  - name: "Bandes"
+    blurb: |
+      Si tu frappe quoi que ce soit, c'est très important d'avoir une solution
+      pour protéger ses poignets, phalanges ainsi que les articulations. C'est indispensable pour le travail au sac,
+      en plus d'être une bonne option pour absorber la transpiration et ne pas trop
+      abimer les gants!
+    items:
+      - name: "Everlast 180"
+        blurb: Utiliser des bandes longues et la meilleure option car cela permet de bien protéger la main.
+        image: "everlast_wrap.jpg"
+        link: https://amzn.to/3Qv912z
+      - name: "Venum"
+        blurb: Alternative moins chères mais tout de même efficace. Disponible en plus petite taille.
+        link: https://amzn.to/3HCAlaV
+        image: "venum_wrap.jpg"
 
-- name: "Jump Ropes"
-  blurb: |
-    The boxer skip is an iconic cardio method for boxers. This is a great way
-    to get your heart pumping quickly, and it can also be a lot of fun.
-    A jump rope is a cheap way to vary your training and is a must have for
-    anyone doing shadow boxing at home.
-  items:
-    - name: Ryher speed skipping rope
-      link: https://amzn.to/3BRWWhb
-      blurb: This rope is great to jump quickly. It's pretty bad for everything else, but it's a lot of fun.
-      image: ryher.jpg
-    - name: SKLZ
-      link: https://amzn.to/3s5OirQ
-      blurb: Multipurpose, cheap and beginner friendly. If you're starting, try this one out.
-      image: sklz.jpg
-    - name: Crossrope get lean set
-      link: https://amzn.to/3h5lBoE
-      blurb: Ok this one is ridiculously expensive, but if you want to go overboard it is a great piece of equipment!
-      image: crossrope.jpg
+  - name: "Jump Ropes"
+    blurb: |
+      La corde à sauter est un accessoire iconique pour les boxeurs. Non seulement
+      c'est une super option pour travailler le cardio, mais c'est aussi très ludique!
+    items:
+      - name: Ryher speed skipping rope
+        link: https://amzn.to/3yccqMN
+        blurb: Cette corde est super pour aller vite... et c'est à peu près tout! Pas un accessoire complet donc, mais très fun.
+        image: ryher.jpg
+      - name: SKLZ
+        link: https://amzn.to/3O724D9
+        blurb: Corde à sauter de base qui peut un peu tout faire. Parfait pour débuter.
+        image: sklz.jpg
+      - name: Crossrope get lean set
+        link: https://amzn.to/3n0Albs
+        blurb: Bieeen trop cher, mais une bonne option pour vraiment se faire plaisir.
+        image: crossrope.jpg
 
-- name: "Pushups"
-  blurb: |
-    If you have problems with your wrists, you can use equipment
-    to make it more bearable.
-  items:
-    - name: Warrior Pushup Bars
-      link: https://amzn.to/36uN94W
-      blurb: Simple and to the point
-      image: warrior.jpg
+  - name: "Headphones"
+    blurb: |
+      Si tu shadow box, tu voudras sans doutes de la musique ainsi que
+      les instructions de l'app directement dans tes oreilles! Voici deux options qui ne tomberont
+      pas de tes oreilles.
+    items:
+      - name: Airpod Pro
+        link: https://amzn.to/3aZDjtW
+        blurb: Après plusieures années cette paire n'est encore jamais tombée pendant une session de shadow.
+        image: airpod.jpg
 
-- name: "Headphones"
-  blurb: |
-    If you're shadow boxing and you are like me, you'll want music as well
-    as the app's directions directly in your ears.
-  items:
-    - name: Airpod Pro
-      link: https://amzn.to/3LLCnHL
-      blurb: After two years shadow boxing with them, they are yet to fall out of my ears. Expensive but totally worth buying if you can afford it.
-      image: airpod.jpg
+      - name: Anker Soundcore
+        link: https://amzn.to/3Os9lgv
+        blurb: Une option plus économique pour ceux qui ne veulent pas dépenser des centaines d'euros pour une paire d'écouteurs.
+        image: anker.jpg
 
-    - name: Anker Soundcore
-      link: https://amzn.to/33EtDBP
-      blurb: Cheap alternative to airpods fitted for sport. Decent option if you don't want to spend hundreds on earbuds.
-      image: anker.jpg
+en:
+  - name: "Gloves"
+    blurb: |
+      Obviously if you're only shadow boxing, you do not need a pair of gloves.
+      However, this is best that you train as you'll fight, so having gloves
+      even for shadow can be a good idea. It'll also add weight and make it
+      harder to keep your guard up... and getting used to having one's guard
+      up when tired is very important.
+
+    items:
+      - name: "Fairtex"
+        blurb: On the pricier side, but you get Fairtex quality, leather gloves and ergonomic fit.
+        image: "fairtex.jpg"
+        link: https://amzn.to/3BByTCO
+      - name: "Everlast"
+        blurb: This brand has cheaper options and behave better than a lot of cheap gloves, like the ones made by Adidas that should be avoided.
+        link: https://amzn.to/3sPCn0o
+        image: "everlast.jpg"
+      - name: "Venum"
+        blurb: This is not leather but the material has decent resistance, the price is reasonable and Venum provides alternative designs if you're into it.
+        link: https://amzn.to/3H1H6Bv
+        image: "venum.jpg"
+
+
+  - name: "Wraps"
+    blurb: |
+      If you're hitting anything, you're better have some kind of wrist and joint support.
+      Often underestimated, wraps is a must have if you're starting to hit the bag.
+      They also are a convenient way to absorb sweat so that you don't destroy
+      your gloves after a few intense workouts.
+    items:
+      - name: "Everlast 180 inches"
+        blurb: Long wraps means more support, so we highly recommend getting something above 150 inches. These Everlast pro wraps are good quality even if a bit more expensive.
+        image: "everlast_wrap.jpg"
+        link: https://amzn.to/3BFsFC7
+      - name: "Ring side 180 inches"
+        blurb: You might like this cheaper, slightly more flexible alternative that has more color available.
+        link: https://amzn.to/34Xt8DE
+        image: "ringside.jpg"
+      - name: "Venum side 100 inches"
+        blurb: If you want a cheap solution that still provide some support, this one is for you.
+        link: https://amzn.to/3BCwBU1
+        image: "venum_wrap.jpg"
+
+  - name: "Jump Ropes"
+    blurb: |
+      The boxer skip is an iconic cardio method for boxers. This is a great way
+      to get your heart pumping quickly, and it can also be a lot of fun.
+      A jump rope is a cheap way to vary your training and is a must have for
+      anyone doing shadow boxing at home.
+    items:
+      - name: Ryher speed skipping rope
+        link: https://amzn.to/3BRWWhb
+        blurb: This rope is great to jump quickly. It's pretty bad for everything else, but it's a lot of fun.
+        image: ryher.jpg
+      - name: SKLZ
+        link: https://amzn.to/3s5OirQ
+        blurb: Multipurpose, cheap and beginner friendly. If you're starting, try this one out.
+        image: sklz.jpg
+      - name: Crossrope get lean set
+        link: https://amzn.to/3h5lBoE
+        blurb: Ok this one is ridiculously expensive, but if you want to go overboard it is a great piece of equipment!
+        image: crossrope.jpg
+
+  - name: "Pushups"
+    blurb: |
+      If you have problems with your wrists, you can use equipment
+      to make it more bearable.
+    items:
+      - name: Warrior Pushup Bars
+        link: https://amzn.to/36uN94W
+        blurb: Simple and to the point
+        image: warrior.jpg
+
+  - name: "Headphones"
+    blurb: |
+      If you're shadow boxing and you are like me, you'll want music as well
+      as the app's directions directly in your ears.
+    items:
+      - name: Airpod Pro
+        link: https://amzn.to/3LLCnHL
+        blurb: After two years shadow boxing with them, they are yet to fall out of my ears. Expensive but totally worth buying if you can afford it.
+        image: airpod.jpg
+
+      - name: Anker Soundcore
+        link: https://amzn.to/33EtDBP
+        blurb: Cheap alternative to airpods fitted for sport. Decent option if you don't want to spend hundreds on earbuds.
+        image: anker.jpg
