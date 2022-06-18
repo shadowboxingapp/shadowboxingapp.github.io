@@ -1,0 +1,21 @@
+
+
+{{ category.blurb }}
+
+{% for item in category.items %}
+  <h2>
+    {{ item.name }} {{ category.name}}
+  </h2>
+  <div>
+    <a href="{{item.link}}">
+      <img src="/assets/shop/{{item.image}}" alt="{{item.name}} for shadow boxing" style="width: 400px; margin: 20px 0px;"/>
+    </a>
+    <br />
+    <p>
+      {{ item.blurb }}
+      <br />
+    <a class="shop_get" href="{{item.link}}">Buy it on Amazon.</a>
+    </p>
+  </div>
+{% endfor %}
+
