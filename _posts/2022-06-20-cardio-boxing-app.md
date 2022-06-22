@@ -22,9 +22,9 @@ The drills at the moment are the following:
 - Squats with 2 punches each repetition
 - Non stop combos ([because combinations are important](/boxing-basic-combos/))
 - Non stop 1 2
-- Raised knees con golpes constantes
+- Raised knees with non-stop punches
 - Jumping jacks
-- Heel taps con golpes constantes
+- Heel taps with non-stop punches
 - Jump squats
 - Non stop 1 2 3 4 5 6
 - Switch stances quickly
