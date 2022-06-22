@@ -3,7 +3,7 @@ title: "New app feature: save your custom workouts"
 imageCode: "easy_pace"
 description: "Brand new feature allowing you to finally save and replay your customly built boxing workouts."
 layout: post
-category: app update
+category: app updates
 includeScreenshots: "yes"
 ---
 
