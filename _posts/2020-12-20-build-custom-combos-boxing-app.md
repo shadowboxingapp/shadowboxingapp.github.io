@@ -16,7 +16,7 @@ A lot of people were asking for it, so we're very happy to announce the  brand n
 
 First go to the custom workout section. There you'll see a custom exercise section: tap the link to add a new one and follow the instructions.
 
-<div style='text-align: center'><img src='/assets/web_screenshot_3.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Custom boxing training app'/></div>
+<div style='text-align: center'><img src='/assets/screenshots/web_screenshot_3.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Custom boxing training app'/></div>
 
 Eventually you'll get to the combo creator keyboard. It might look a bit weird at first, but keep in mind that each key correspond to a particular move:
 
@@ -32,7 +32,7 @@ Eventually you'll get to the combo creator keyboard. It might look a bit weird a
 - S for slip
 - C for cover
 
-<div style='text-align: center'><img src='/assets/web_screenshot_8.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Build boxing combos from your iPhone'/></div>
+<div style='text-align: center'><img src='/assets/screenshots/web_screenshot_8.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Build boxing combos from your iPhone'/></div>
 
 Once you've added a few combinations, go back to your custom workout and start training. The app will call out punches so you can execute the techniques. Think of it like a [virtual pad work boxing session](/pad-work-boxing-reflexes/)!
 
