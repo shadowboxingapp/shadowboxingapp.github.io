@@ -54,9 +54,11 @@ It's hard to stay motivated at home, so seeing your past workouts and comitting 
 
 <div style='text-align: center'><img src='/assets/screenshots/web_screenshot_6.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Track your boxing journey with this boxing app'/></div>
 
-### Great reviews
+### Large Community & Great Reviews
 
 Many boxers, beginners or more experienced, are using the app successfuly. To be convinced, you can take a look at the reviews on the app store or [on this site](/reviews).
+
+<div style='text-align: center'><img src='/assets/banner_reviews.jpg' style='width: 80%;margin: 10px 0px 30px 0px;' alt='People using an app for boxing'/></div>
 
 ### Many different trainings
 
