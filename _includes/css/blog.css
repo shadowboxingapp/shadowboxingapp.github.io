@@ -37,6 +37,7 @@
 }
 .post ul {
   text-align: left;
+  line-height: 28px;
 }
 .post strong {
   font-weight: bold;
