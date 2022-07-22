@@ -181,3 +181,15 @@ boxx:
   cons:
     - Boxing exercises not very technical
     - Focused on fitness and not boxing
+
+precision_striking:
+  link: https://apps.apple.com/us/app/precision-boxing-coach-lite/id715053176
+  title: Precision Striking
+  description: This app allows you to train at home with 27 different combos that are going to be called out by the app.
+  pros:
+    - Good combo variety
+    - Videos from the associated youtube channel
+  cons:
+    - Poor design
+    - Many bugs
+    - Hasn't been updated in a while
