@@ -5,16 +5,15 @@ description: Articles about boxing, jump rope, pad work and everything related t
 imageCode: "custom_workout"
 ---
 
-<div class="container-fluid dark">
+<div class="container-fluid">
   <h1 class="home_title">Shadow boxing blog</h1>
 </div>
-<div class="container-fluid dark blog_articles">
+<div class="container blog_articles">
     <div class="row blog_post_index">
       {% for post in site.posts %}
-        <div class="col-12 col-md-4 col-sm-6 blog_post_index_item">
+        <div class="col-12 col-lg-4 col-md-6 blog_post_index_item">
           <div class="row">
-            <div class="col-12">
-              <img src="/assets/presets/fresh/{{post.imageCode}}.png" alt='Boxing article: {{post.title}}' />
+            <div class="col-12 blog_list_image" style="background: url(/assets/presets/fresh/{{post.imageCode}}.png);">
             </div>
             <div class="col">
               <h2>
