@@ -193,3 +193,48 @@ precision_striking:
     - Poor design
     - Many bugs
     - Hasn't been updated in a while
+
+fightcamp_bag:
+  link: "https://apps.apple.com/us/app/fightcamp-boxing-workouts/id1328562100"
+  title: "Fightcamp"
+  description: "This premium app offers many different high quality videos to practice boxing in front of your bag."
+  pros:
+    - Good videos to follow allong
+    - Tracking punches can be very motivating
+  cons:
+    - Very expensive tracker to buy
+
+sbw_bag:
+  title: "The Shadow Boxing App"
+  description: "This app will call out punches and exercises when you're in front of the bag. It has many workouts made especially for the heavy bag, and all shadow boxing exercises are compatible with a bag."
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  pros:
+    - Many modes and workouts compatible with a bag
+    - Exercises that focus on technique or on cardio
+    - Workouts made to be completed on the bag
+  cons:
+    - Not compatible with Apple Watch
+
+punchlab:
+  title: "Punchlab"
+  description: "This app gives you different workouts that you can do while shadow boxing or on the heavy bag."
+  link: "https://apps.apple.com/app/punchlab-boxing-workouts/id1402134277"
+  pros:
+    - Good english voiceover during the trainings
+    - Full plans including many different workouts
+  cons:
+    - Subscription is expensive
+    - Straps to buy to attach yo your punching bag
+    - Can't use without creating an account
+
+heavybag_pro:
+  title: "Heavybag Pro"
+  description: "This app focused on the heavybag exclusively and will call out punches"
+  link: "https://apps.apple.com/app/apple-store/id1523407500"
+  pros:
+    - Effective combos & directions
+    - Basic 3D videos to showcase the movements
+  cons:
+    - 3D videos can be a bit out of sync
+    - Only combos and not many other boxing exercises
+    - Expensive subscription, and lifetime purchase at 129.99€ at the time of writing
