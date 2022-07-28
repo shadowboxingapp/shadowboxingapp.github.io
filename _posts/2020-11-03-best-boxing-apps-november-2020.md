@@ -9,7 +9,7 @@ imageLink: top_boxing.png
 
 {{ page.description }}
 
-If you want to see an updated version of this list, we've written [a 2022 version accesible here](/best-ios-boxing-apps-in-2022/)!
+If you want to see an updated version of this list, we've written [a 2022 version accessible here](/best-ios-boxing-apps-in-2022/)! If you want something more focused on working out on the heavy bag, we made another selection focused on [the best apps for training on the heavy bag](/best-apps-for-punching-bag/).
 
 {% include preview.html %}
 
