@@ -61,7 +61,7 @@ The rookies also discover how to coordinate the movement of their feet with the 
 
 ## Start training with a punching bag mobile app
 
-If you have a punching bag and would like a companion app to help you focus during training, you can give [Shadow Boxing Workout][4] a try.
+If you have a punching bag and would like a companion app to help you focus during training, you can give [Shadow Boxing Workout][4] a try or look at our list of [the best apps to train with a heavy bag](/best-apps-for-punching-bag/).
 
 This app will give you exercises to practice on the heavy bag. For instance it can call out punches, give you freestyle guidance and more. An exercise available is alternating fast 1-2s for 30 seconds with strong punches for 30 seconds, which is just great on a bag.
 
