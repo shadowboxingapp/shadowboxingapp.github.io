@@ -160,3 +160,29 @@ en:
         link: https://amzn.to/33EtDBP
         blurb: Cheap alternative to airpods fitted for sport. Decent option if you don't want to spend hundreds on earbuds.
         image: anker.jpg
+
+
+  - name: "Heavybags"
+    blurb: |
+      Shadow boxing is great, but you might want to actually hit something other than the air. If this is the case, a heavy bag is a
+      great option if you have the space for it.
+    items:
+      - name: Everlast Power Core Bag
+        link: https://amzn.to/3ziFpxw
+        blurb: This one is a good starter heavy bag as it is not too expensive, doesn't require much setup and allows you to train well. However it will most likely fall if you are heavier and hit with all your strenght.
+        image: everlastbag.jpg
+
+      - name: Ringside 100-pound Powerhide
+        image: ringsidebag.jpg
+        blurb: You will have to hang this one up, but once it's up, it'll do a perfect job. It's good quality, heavy and will last for a while.
+        link: https://amzn.to/3S28aqO
+
+      - name: Everlast Steel Heavy Punching Bag Stand
+        blurb: This stand can be a good option if you want something more stable than a freestanding bag, but can't really drill holes in your ceiling. It will require some heavy weight at the bottom for it to be perfectly effective though.
+        link: https://amzn.to/3Q5N8WK
+        image: bagstand.jpg
+
+      - name: Sfeexun Punching Bag
+        blurb: This one is very cheap because it is unfilled, but it could be a good option as it will ship quickly for less money. You need to have a plan to fill it with
+        image: hollow.jpg
+        link: https://amzn.to/3PKggTA
