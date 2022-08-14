@@ -18,7 +18,7 @@ First go to the custom workout section. There you'll see a custom exercise secti
 
 <div style='text-align: center'><img src='/assets/screenshots/web_screenshot_3.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Custom boxing training app'/></div>
 
-Eventually you'll get to the combo creator keyboard. It might look a bit weird at first, but keep in mind that each key correspond to a particular move:
+Once you've set up things properly, you'll get to the boxing combo creator keyboard. It might look a bit weird at first, but keep in mind that each key correspond to a particular boxing move:
 
 - 1 for jab
 - 2 for cross
@@ -34,7 +34,7 @@ Eventually you'll get to the combo creator keyboard. It might look a bit weird a
 
 <div style='text-align: center'><img src='/assets/screenshots/web_screenshot_8.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Build boxing combos from your iPhone'/></div>
 
-Once you've added a few combinations, go back to your custom workout and start training. The app will call out punches so you can execute the techniques. Think of it like a [virtual pad work boxing session](/pad-work-boxing-reflexes/)!
+Once you've added a few combinations, go back to your custom workout and start training. The app will call out punches so you can execute the techniques. Think of it like a [virtual pad work boxing session](/pad-work-boxing-reflexes/) using your iOS device! You then just need to follow along and throw the right punches as the app says so. To improve the effectiveness of the workout, it's better to not stay static and keep moving around in between combos.
 
 {% include getapp.html %}
 

@@ -8,7 +8,7 @@ category: video review
 
 ---
 
-It's always great to see people try out the app and share their boxing workout video using [the recording featured released recently](/new-simple-combo-punching-bag/). Today you can check out Armo Mema's video review where he explains how the application works and does a demonstration.
+It's always great to see people try out the app and share their boxing workout video using [the recording featured released recently](/new-simple-combo-punching-bag/). Today you can check out Armo Mema's video review where he explains how the application works and does a demonstration. The video itself is now a bit old and the app evolved a lot, but it gives a sense of the kind of fitness exercises you can get done with our mobile app.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PAj6rwaPOsU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin: 20px 0px;"></iframe>
 
