@@ -1,5 +1,5 @@
 ---
-title: "Footwork in boxing"
+title: "The importance of footwork for shadow boxing"
 imageCode: "footwork"
 description: "Good footwork is key for balance and power, and boxers who master this are more successful than others. In this article we'll learn more about this."
 contextualAd: "Work on your footwork at home with this boxing app that will call out movements and punches!"

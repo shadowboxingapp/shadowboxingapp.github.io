@@ -1,5 +1,5 @@
 ---
-title: "Youtube review of the app"
+title: "Youtube review of the shadow boxing app"
 imageCode: "review"
 description: "Want to discover how the app work with a Youtube video? I have good news for you, Armo Mema fitness just released his review and  workout with the app"
 includeScreenshots: "yes"
