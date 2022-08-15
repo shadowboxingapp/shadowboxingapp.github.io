@@ -6,6 +6,7 @@ layout: post
 category: boxing combos
 includeScreenshots: "yes"
 tag: features
+featured: yes
 
 ---
 

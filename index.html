@@ -143,7 +143,7 @@ imageCode: "freestyle"
   </div>
 </div>
 
-<div class="container-fluid dark from_the_blog">
+<div class="container from_the_blog">
   <div class="row">
     <div class="col">
       <h2 class="blog_title" name="blog">
@@ -153,21 +153,35 @@ imageCode: "freestyle"
   </div>
 
   <div class="row ">
-    {% for post in site.posts limit: 6%}
-      <div class="col-md-4 col-sm-12 col-lg-4 blog_post_home">
-          <h3>
-            <a href="{{ BASE_PATH }}{{ post.url }}">
-              {{ post.title }}
-            </a>
-          </h3>
-          <p>
-            {{ post.description }}
-          </p>
-          <p>
-            <br />
-            <a class="read_more" href="{{ BASE_PATH }}{{ post.url }}">→ Read more about {{post.category}}</a>
-          </p>
-      </div>
+    {% for post in site.posts %}
+      {% if post.featured %}
+        <div class="col-md-4 col-sm-12 col-lg-4 blog_post_home">
+            <h3>
+              <a href="{{ BASE_PATH }}{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+            <p>
+              {{ post.description }}
+            </p>
+            <p>
+              <br />
+              <a class="read_more" href="{{ BASE_PATH }}{{ post.url }}">→ Read more about {{post.category}}</a>
+            </p>
+        </div>
+      {% endif %}
     {% endfor %}
+
+    <div class="col-md-4 col-sm-12 col-lg-4 blog_post_home">
+      <h3><a href="/blog/">More boxing articles</a></h3>
+      <p>
+        Discover more about shadow boxing and this mobile app by browsing all the available categories:
+        {% for tag in site.data.tag_details %}
+          <a href="/articles/{{ tag[1].url }}/" class="read_more">{{ tag[1].title }}</a>{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+        .
+        </ul>
+      </p>
+    </div>
   </div>
 </div>

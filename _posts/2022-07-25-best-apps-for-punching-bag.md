@@ -6,6 +6,7 @@ layout: post
 category: heavybag training
 includeScreenshots: "no"
 tag: bag
+featured: yes
 
 ---
 
