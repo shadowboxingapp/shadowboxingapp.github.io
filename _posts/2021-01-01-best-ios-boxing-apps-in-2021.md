@@ -5,6 +5,7 @@ description: "With the gyms closed, a lot of boxers decided to keep training usi
 layout: post
 category: iOS boxing apps
 imageLink: top_boxing.png
+tag: apps
 
 ---
 

@@ -5,6 +5,7 @@ description: "Brand new feature allowing you to finally save and replay your cus
 layout: post
 category: app updates
 includeScreenshots: "no"
+tag: features
 ---
 
 

@@ -6,6 +6,7 @@ contextualAd: "Try out the app today and start training at home, without equipme
 layout: post
 category: this new app version
 includeScreenshots: "yes"
+tag: features
 ---
 
 This week we'll be releasing the version 1.15 of our boxing app for iOS. There are a couple of interesting new things worth highlighting, so let's get into it!

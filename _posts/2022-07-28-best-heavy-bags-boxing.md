@@ -6,6 +6,7 @@ layout: post
 category: boxing equipment
 contextualAd: "Practice boxing anywhere with this mobile app that will call out combos and other actions for you to execute!"
 includeScreenshots: "yes"
+tag: bag
 ---
 
 If you practice boxing, you probably want to hit the bag every once in a while. There are a lot of trainings out there to figure out how to use one, including [mobile apps](/best-apps-for-punching-bag/) that will call out combos to execute, so getting started is not easy. However what bag should you pick?

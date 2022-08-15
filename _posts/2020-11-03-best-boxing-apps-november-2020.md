@@ -5,6 +5,7 @@ description: "There are many boxing apps for mobile phones available, either to 
 layout: post
 category: mobile apps about boxing
 imageLink: top_boxing.png
+tag: apps
 ---
 
 {{ page.description }}

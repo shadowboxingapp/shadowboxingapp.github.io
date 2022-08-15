@@ -6,7 +6,7 @@ layout: post
 category: boxing equipment
 contextualAd: "Practice boxing anywhere with this mobile app that will call out combos and other actions for you to execute!"
 includeScreenshots: "yes"
-
+tag: learnBoxing
 ---
 
 {% for category in site.data.gear.en %}

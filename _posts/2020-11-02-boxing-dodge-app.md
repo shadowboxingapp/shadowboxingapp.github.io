@@ -6,6 +6,7 @@ contextualAd: "Try out the app today and start training at home, without equipme
 layout: post
 category: the 1.14 version
 includeScreenshots: "yes"
+tag: features
 ---
 
 This week in version 1.14 of the [Shadow Boxing app](/), we built a new exercice to [our already long list of workouts](/workouts/) and gave you a simple way to create your own boxing workout. As some more countries enter into lockdown again, [it's important to stay active](/boxing-workout-during-lockdown-at-home/) so we hope that this update will make you want to train!

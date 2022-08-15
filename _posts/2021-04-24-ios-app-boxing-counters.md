@@ -6,7 +6,7 @@ includeScreenshots: "yes"
 contextualAd: "To build up your reflexes and be more effective at counter attacks, you can practice using this iOS boxing app that calls out punches to keep you on your toes."
 layout: post
 category: counter attacks
-
+tag: features
 ---
 
 Counter punching is a crucial strategy to add to your arsenal as a boxer. Throwing the right counter during a fight can stop the round instantly, and even if it doesn't it will make your oponent think twice before attacking you blindly. Natural counter punchers step off, wait for gaps left by more offensive fighters and reel off combinations... so how to improve and get there?

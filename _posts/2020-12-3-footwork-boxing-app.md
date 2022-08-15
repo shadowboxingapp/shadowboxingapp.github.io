@@ -6,6 +6,7 @@ contextualAd: "Work on your footwork at home with this boxing app that will call
 includeScreenshots: "yes"
 layout: post
 category: footwork
+tag: boxing
 
 ---
 

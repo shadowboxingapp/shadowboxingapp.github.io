@@ -5,6 +5,7 @@ description: "Being able to move quickly is key to not getting punched in the fa
 includeScreenshots: "yes"
 layout: post
 category: this new app feature
+tag: features
 ---
 
 We recently released the 1.16 version of [Shadow Boxing App](/), our iOS mobile application for boxing training at home.

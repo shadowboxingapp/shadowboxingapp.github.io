@@ -6,6 +6,7 @@ includeScreenshots: "yes"
 contextualAd: "Practice your counters with this app that calls out punches!"
 layout: post
 category: counters in boxing
+tag: boxing
 ---
 
 Counter punching is an important skillset, perfected by some of the greatest fighters of all time. Natural counter punchers step off, wait for gaps left by more offensive fighters and reel off combinations. The likes of Sugar Ray Leonard and Sugar Ray Robinson spent their careers punishing opponents with spiteful counter punches.

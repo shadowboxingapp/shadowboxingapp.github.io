@@ -5,6 +5,7 @@ description: "In this new iOS release we've added a way for you to create your c
 includeScreenshots: "yes"
 layout: post
 category: custom boxing workouts
+tag: features
 
 ---
 

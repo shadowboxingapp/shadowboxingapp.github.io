@@ -5,7 +5,7 @@ description: "Let's take a deeper look at the recently released footwork feature
 includeScreenshots: "yes"
 layout: post
 category: footwork
-
+tag: features
 
 ---
 

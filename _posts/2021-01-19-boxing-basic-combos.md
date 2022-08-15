@@ -6,6 +6,7 @@ includeScreenshots: "yes"
 contextualAd: "Practice your combos with this boxing app that will call out punches!"
 layout: post
 category: boxing combos
+tag: learnBoxing
 ---
 
 When you watch any top boxer in action, they can throw multiple punches at blinding speed. Despite the apparent randomness of some of these flurries, when you slow the tape down and observe in greater detail, there is much more method to the madness.

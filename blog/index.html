@@ -6,27 +6,38 @@ imageCode: "custom_workout"
 ---
 
 <div class="container-fluid">
-  <h1 class="home_title">Shadow boxing blog</h1>
+  <h1 class="home_title blog_main_title">The Shadow boxing blog</h1>
 </div>
-<div class="container blog_articles">
-    <div class="row blog_post_index">
-      {% for post in site.posts %}
-        <div class="col-12 col-lg-4 col-md-6 blog_post_index_item">
-          <div class="row">
-            <div class="col-12 blog_list_image" style="background: url(/assets/presets/fresh/{{post.imageCode}}.png);">
-            </div>
-            <div class="col">
-              <h2>
-                <a href="{{ BASE_PATH }}{{ post.url }}">
-                  {{ post.title }}
-                </a>
-              </h2>
-              <p>
-                {{ post.description }}
-              </p>
+{{ author.title }}
+
+<div class="container">
+  {% for tag in site.data.tag_details %}
+    <h2 class="blog_category">
+      <a href="/articles/{{ tag[1].url }}/">{{ tag[1].title }}</a>
+    </h2>
+
+    {% assign tag_key = tag[0] %}
+    <div class=" blog_articles">
+      <div class="row blog_post_index">
+        {% for post in site.tags[tag_key]  limit:3 %}
+          <div class="col-12 col-lg-4 col-md-6 blog_post_index_item">
+            <div class="row">
+              <div class="col-12 blog_list_image" style="background: url(/assets/presets/fresh/{{post.imageCode}}.png);">
+              </div>
+              <div class="col">
+                <h3>
+                  <a href="{{ BASE_PATH }}{{ post.url }}">
+                    {{ post.title }}
+                  </a>
+                </h2>
+                <p>
+                  {{ post.description }}
+                </p>
+              </div>
             </div>
           </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
+      </div>
     </div>
+  {% endfor %}
 </div>

@@ -5,7 +5,7 @@ description: "In this new version of the app get ready to discover 10 new drills
 layout: post
 category: new app features
 includeScreenshots: "yes"
-
+tag: features
 ---
 
 I always felt like there wasn't enough cardio exercises in the app, so for the past few months I added a lot of things around [footwork](/boxing-footwork-app/) and [calisthenics](/burpees-in-boxing/) which helped, but it often felt less like boxing and more like any other workout app.

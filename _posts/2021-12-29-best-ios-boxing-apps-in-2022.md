@@ -5,7 +5,7 @@ description: "Training at home is bigger than ever, so here is our list of the b
 layout: post
 category: the best boxing app out there
 imageLink: top_boxing.png
-
+tag: apps
 
 ---
 

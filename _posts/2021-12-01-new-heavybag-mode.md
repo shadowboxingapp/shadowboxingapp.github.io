@@ -6,6 +6,7 @@ contextualAd: "Follow the app directions and punch when it calls out a combinati
 includeScreenshots: "yes"
 layout: post
 category: punching bag exercises
+tag: bag
 
 ---
 

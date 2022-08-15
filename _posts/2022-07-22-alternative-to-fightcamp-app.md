@@ -5,8 +5,7 @@ description: "The FightCamp app is great with its connected hardware, but it can
 layout: post
 category: alternative apps
 includeScreenshots: "no"
-
-
+tag: apps
 ---
 
 The FightCamp app is great, but let's face it: their site have a "financing" section visible directly when you load it. This means it is not for everyone, and you might be looking for an alternative.

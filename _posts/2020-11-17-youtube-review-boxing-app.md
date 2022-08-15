@@ -5,6 +5,7 @@ description: "Want to discover how the app work with a Youtube video? I have goo
 includeScreenshots: "yes"
 layout: post
 category: video review
+tag: apps
 
 ---
 

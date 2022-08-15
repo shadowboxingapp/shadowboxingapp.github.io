@@ -5,7 +5,7 @@ description: "Is it possible to learn how to box from home, purely with a mobile
 layout: post
 category: learning how to box
 includeScreenshots: "yes"
-
+tag: learnBoxing
 
 
 ---

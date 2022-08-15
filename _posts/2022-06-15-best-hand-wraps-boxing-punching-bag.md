@@ -6,7 +6,7 @@ layout: post
 category: boxing gear
 contextualAd: "Try out this free iOS app that provides punching bag and shadow boxing exercises. Follow the app's instructions as it calls out punches!"
 includeScreenshots: "yes"
-
+tag: learnBoxing
 ---
 
 {% for category in site.data.gear.en %}

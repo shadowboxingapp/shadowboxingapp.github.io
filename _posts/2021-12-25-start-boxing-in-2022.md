@@ -4,7 +4,7 @@ imageCode: "tutorial"
 description: "Starting to box is always a great idea as it's the perfect way to get in shape while having fun... so why not make boxing your 2022 new year resolution?"
 layout: post
 category: 2022 new year resolutions
-
+tag: boxing
 ---
 
 There were quite a number of great fights in 2021, some that we even [highlighted on this blog](/best-boxing-matches-2021/)! This of course inspired a lot of people to follow the sport... so the next logical step is to give it a go!

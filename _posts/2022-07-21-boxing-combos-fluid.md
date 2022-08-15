@@ -5,7 +5,7 @@ description: "Examples of combos that just feel right and how they are included 
 layout: post
 category: boxing combos
 includeScreenshots: "yes"
-
+tag: features
 
 ---
 

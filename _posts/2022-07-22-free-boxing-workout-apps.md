@@ -5,7 +5,7 @@ description: "Training at home with a mobile app sounds like a great plan, but w
 layout: post
 category: free boxing apps
 includeScreenshots: "no"
-
+tag: apps
 
 ---
 

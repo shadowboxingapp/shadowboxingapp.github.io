@@ -6,12 +6,13 @@ contextualAd: "Follow boxing workouts and stay motivated by tracking your progre
 includeScreenshots: "yes"
 layout: post
 category: boxing
+tag: boxing
 ---
 
 Lockdown has affected many activities that people often took for granted, especially fitness and exercise. No sport has been exempted from the impacts, including boxing. 
- 
+
 Staying focused and motivated is a key battle in the fight game, where one missed step or slight lapse in concentration can result in a knockout loss or even worse - serious injury. 
- 
+
 {% include preview.html %}
 
 ## The risks of stopping training
@@ -29,7 +30,7 @@ Fighters who blow up in weight between contests will suffer on fight night. Lett
 It is important to stay in shape and remain motivated. Replicate the benefits of [pad work][3], [shadow boxing][1], punch bag sessions and core fitness routines. Keep combinations sharp and on point. Maintain the muscle memory movements of jab-overhand right-left hook combinations. Stick to the regular times of activity, rest and recovery, keeping in line with gym standards.
 
 If a boxer stops throwing accurate, well-timed flurries, stops dodging punches, working on his/her defence or lets fitness drop to such a degree, then they will lose their edge during lockdown and beyond. 
- 
+
 Staying fit and working on technique is vitally important and remaining motivated to do so is the key.
 
 ## Keep on boxing during lockdown with a mobile app

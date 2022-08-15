@@ -6,6 +6,7 @@ contextualAd: "With this boxing workout app, be more focused in your training. T
 includeScreenshots: "yes"
 layout: post
 category: shadow boxing
+tag: boxing
 ---
 
 Shadow boxing is generally known as a warm-up exercise but it is a lot more than that. There are immense benefits of shadow boxing which do not only keep you fit but it makes your technique better. The art of shadow boxing cannot be overlooked as it comes with a lot of secret benefits, so let’s talk about some of these known benefits.

@@ -4,7 +4,7 @@ imageCode: "all_of_it"
 description: "We built a free boxing timer without ads because it was really annoying to find a good one already on the app store!"
 layout: post
 category: boxing timers
-
+tag: apps
 ---
 
 When I built the shadow boxing app, the focus was on the workouts. You could pick from various exercises, define the combos you wanted to practice, [workout with your heavy bag](/new-heavybag-mode/) and so on, and this was supposed to be all I would work on.

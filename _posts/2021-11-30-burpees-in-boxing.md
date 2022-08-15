@@ -6,8 +6,7 @@ includeScreenshots: "yes"
 contextualAd: "To improve both your strenght and technique, consider to start using this boxing app today!"
 layout: post
 category: burpees
-
-
+tag: boxing
 ---
 
 Burpees are not fun, but they are effective at building strenght and explosiveness... meaning they are great for boxers!

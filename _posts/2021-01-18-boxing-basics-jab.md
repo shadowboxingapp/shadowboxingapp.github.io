@@ -5,7 +5,7 @@ description: "The jab is the most basic technique in boxing. It is crucial to le
 includeScreenshots: "yes"
 layout: post
 category: jabs
-
+tag: learnBoxing
 ---
 
 {{ page.description }}

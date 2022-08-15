@@ -5,7 +5,7 @@ description: "Discover the top heavybag apps to train at home, including Fightca
 layout: post
 category: heavybag training
 includeScreenshots: "no"
-
+tag: bag
 
 ---
 

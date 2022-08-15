@@ -6,6 +6,7 @@ contextualAd: "Train at home with this mobile app that calls out punches just li
 layout: post
 includeScreenshots: "yes"
 category: pad work
+tag: boxing
 ---
 
 {{ page.description }}

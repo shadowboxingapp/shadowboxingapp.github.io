@@ -6,7 +6,7 @@ layout: post
 category: 2022 boxing matches
 contextualAd: "This iOS app provides punching bag and shadow boxing exercises. Follow the app's instructions as it calls out punches!"
 includeScreenshots: "yes"
-
+tag: boxingNews
 ---
 
 After [a great 2021](/best-boxing-matches-2021/) that saw matches like Tyson Fury vs Deontay Wilder, 2022 is going to be a great year for boxing viewers as well. We could wait, so we wrote up a list of the most anticipated fights for the year!

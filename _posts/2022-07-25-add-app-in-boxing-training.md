@@ -5,7 +5,7 @@ description: "You already started practicing boxing, but you want to progress ev
 layout: post
 category: training with an app
 includeScreenshots: "no"
-
+tag: learnBoxing
 ---
 
 You already started practicing boxing, but you want to progress even faster. There are multiple reasons why a mobile app on iOS or Android could be right for you even if you are not [a complete beginner](/learning-to-box-with-an-app/)!

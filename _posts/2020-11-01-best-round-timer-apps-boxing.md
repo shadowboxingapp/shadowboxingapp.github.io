@@ -5,6 +5,7 @@ description: "During sparring or training, it's important to keep track of time 
 layout: post
 category: timer apps
 imageLink: top_timer.png
+tag: apps
 ---
 
 {{ page.description }}

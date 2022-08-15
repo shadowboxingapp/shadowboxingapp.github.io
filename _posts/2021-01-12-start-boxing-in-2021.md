@@ -6,8 +6,7 @@ includeScreenshots: "yes"
 layout: post
 contextualAd: "Practice boxing at home with this iOS app that calls out punches and helps you work on your technique."
 category: new year resolutions
-
-
+tag: boxing
 ---
 
 Update: Didn't start in 2021? [Maybe 2022 will be the right time for you](/start-boxing-in-2022/)!

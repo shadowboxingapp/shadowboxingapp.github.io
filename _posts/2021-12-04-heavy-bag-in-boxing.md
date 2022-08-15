@@ -6,7 +6,7 @@ contextualAd: "This iOS app provides punching bag exercises. Follow the app's in
 includeScreenshots: "yes"
 layout: post
 category: using a punching bag
-
+tag: bag
 
 ---
 

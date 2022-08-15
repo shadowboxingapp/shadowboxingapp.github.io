@@ -6,6 +6,7 @@ contextualAd: "Download this boxing app for iOS to help you train on the punchin
 includeScreenshots: "yes"
 layout: post
 category: punching bag
+tag: bag
 ---
 
 Many a times, fighters want to train their punching skills, but have no one to train against. Even if there are people around, punching them could have serious repercussions! So punching bags are considered valuable, if a fighter wants to train in solitude [at home][1] or at the gym.
