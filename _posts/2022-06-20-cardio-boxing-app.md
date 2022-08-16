@@ -29,6 +29,6 @@ The drills at the moment are the following:
 - Non stop 1 2 3 4 5 6
 - Switch stances quickly
 
-As you can tell, there are a few and getting a new group of 3 each time a round start will keep it fresh for quite a while!
+As you can tell, there are a few and getting a new group of 3 each time a round start will keep it fresh for quite a while! If you do them quickly, it can really feel like a [HIIT workout](/benefits-of-hiit/).
 
 {% include getapp.html %}

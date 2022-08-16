@@ -44,7 +44,11 @@ Boxing requires the combination of cardiovascular exercise and movements that ex
 
 ### Cardio Improvement
 
-The rhythmic movement, for defense and offense coupled with the added task of punching a 100 lbs. bag, turns the aerobic exercise to anaerobic. Kneeing and kickboxing improve the body’s cardiovascular function. A boxer’s vascularization of muscles and heart is enhanced, which combats high blood pressure. The explosive nature of exercising with a heavy bag has the lungs reach their peak condition, making them healthier. They have better oxygen circulation in the body, so their heart and lungs function better. All of this leads to increased stamina and endurance.
+The rhythmic movement, for defense and offense coupled with the added task of punching a 100 lbs. bag, turns the aerobic exercise to anaerobic. Kneeing and kickboxing improve the body’s cardiovascular function. A boxer’s vascularization of muscles and heart is enhanced, which combats high blood pressure.
+
+The explosive nature of exercising with a heavy bag has the lungs reach their peak condition, making them healthier. They have better oxygen circulation in the body, so their heart and lungs function better. All of this leads to increased stamina and endurance.
+
+A lot of boxers will also workout using [HIIT boxing workouts](/benefits-of-hiit/) which helps tremendously with building up your cardio.
 
 ## Refining Skills
 

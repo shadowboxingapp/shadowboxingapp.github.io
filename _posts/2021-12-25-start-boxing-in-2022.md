@@ -13,6 +13,6 @@ Now that the holidays are over, it is the prefect moment to loose the extra weig
 
 {% include preview.html %}
 
-There are many ways to start boxing. You can do it with [a punching bag](/punching-bag-app-boxing/) or just do some [shadow boxing](/importance-of-shadow-boxing/) on your own. While the sport is hard to master, it's fairly easy to get started with [basic punches](/boxing-basics-jab/) and [simple combinations](/boxing-basic-combos/). You don't even need boxing gloves for shadow boxing!
+There are many ways to start boxing. You can do it with [a punching bag](/punching-bag-app-boxing/),  just do some [shadow boxing](/importance-of-shadow-boxing/) on your own or focus on [cardio and explosiveness with HIIT exercices](/benefits-of-hiit/). While the sport is hard to master, it's fairly easy to get started with [basic punches](/boxing-basics-jab/) and [simple combinations](/boxing-basic-combos/). You don't even need boxing gloves for shadow boxing!
 
 If you want to make sure to stay motivated through the year, a good option is to join a gym or use an app. If you want to see an overview of options for iOS, you can take a look at [our selection of the top 5 boxing apps for 2022](/best-ios-boxing-apps-in-2022/) and try the ones that you like the most! 
