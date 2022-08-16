@@ -1,7 +1,7 @@
 ---
 title: "The Many Benefits of HIIT Training for Boxing"
 imageCode: "pushups"
-description: "Are you looking for a challenging HIIT workout routine? This guide will show you how to do HIIT training and provides a sample workout routine to get you started."
+description: "Are you looking for a challenging HIIT workout routine to improve your explosiveness in boxing? This guide will show you how to do HIIT training and provides a sample workout routine to get you started."
 layout: post
 category: HIIT workouts
 contextualAd: "Use HIIT principles in your boxing workouts using this mobile app that will help you work on your technique, strenght and cardio."
@@ -93,27 +93,24 @@ If you're looking for a challenging and efficient HIIT workout routine, look no 
 
 To start, warm up with a light jog or dynamic stretching for five to ten minutes. Then, complete the following exercises in order, resting as needed between sets.
 
-1. Jumping Jacks - 20 reps
+- Jumping Jacks - 20 reps
+- Mountain Climbers - 20 reps
+- [Burpees](/burpees-in-boxing/) - 10 reps
+- Russian Twists - 20 reps
+- Plank hold - 30 seconds
+- Jumping Jacks - 20 reps
+- Mountain Climbers - 20 reps
+- Burpees - 10 reps
+- Russian Twists - 20 reps
+- Plank hold - 30 seconds
 
-2. Mountain Climbers - 20 reps
+After completing the circuit, cool down with a light jog, static stretching or some simple [boxing footwork exercises](/footwork-boxing-app/). Remember to stay hydrated throughout your workout!
 
-3. [Burpees](/burpees-in-boxing/) - 10 reps
+## HIIT Boxing Workouts with an App
 
-4. Russian Twists - 20 reps
+Training based on a plan like this one is a good start, but if you want to go further you can train with a mobile app focused on boxing. The [Shadow Boxing App](/) provides many difference HIIT workouts for you to try and is a great way to stay in shape while improving your technique!
 
-5. plank hold - 30 seconds
-
-6. Jumping Jacks - 20 reps
-
-7. Mountain Climbers - 20 reps
-
-8. Burpees - 10 reps
-
-9. Russian Twists - 20 reps
-
-10. plank hold - 30 seconds
-
-After completing the circuit, cool down with a light jog or static stretching. Remember to stay hydrated throughout your workout!
+<div style='text-align: center'><img src='/assets/screenshots/web_screenshot_1.png' style='width: 250px;margin: 10px 0px 30px 0px;' alt='Custom boxing training app'/></div>
 
 ## Final Thoughts
 
