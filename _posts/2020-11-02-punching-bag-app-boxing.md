@@ -77,7 +77,7 @@ It also provides a great opportunity to commit to a training regimen, as it will
 
 {% include getapp.html %}
 
-[1]:	/boxing-workout-during-lockdown-at-home
-[2]:	/importance-of-shadow-boxing
-[3]:	/pad-work-boxing-reflexes
+[1]:	/boxing-workout-during-lockdown-at-home/
+[2]:	/importance-of-shadow-boxing/
+[3]:	/pad-work-boxing-reflexes/
 [4]:	/

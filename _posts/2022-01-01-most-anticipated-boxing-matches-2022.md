@@ -17,7 +17,7 @@ After [a great 2021](/best-boxing-matches-2021/) that saw matches like Tyson Fur
 
 After knocking out Deontay Wilder in Las Vegas for the second time, Tyson Fury conclusively established his dominance over the Alabama banger. Fury also reinforced his position as king of the heavyweights.
 
-To reign undisputed Fury must add the remaining WBO, IBF and WBA belts to his current haul of WBC and Ring Magazine/Lineal Status. Those belts are currently held by Oleksandr Usyk. 
+To reign undisputed Fury must add the remaining WBO, IBF and WBA belts to his current haul of WBC and Ring Magazine/Lineal Status. Those belts are currently held by Oleksandr Usyk.
 
 The Ukrainian southpaw travelled to the UK to defeat hometown favourite Anthony Joshua in September 2021 to scupper the potential for a huge showdown between AJ and Fury on British shores.
 
@@ -29,7 +29,7 @@ For years fans have been desperate for welterweight stars Terence Crawford and E
 
 “Bud” Crawford is a three-weight world champion and former undisputed king at 140 pounds. In late 2019 Spence unified his IBF title with Shawn Porter’s WBC crown after a rip-roaring 12 rounds of action. The following month Errol suffered a catastrophic car accident that threatened to end his boxing career and left him fighting for his life.
 
-Even though he returned late last year to defeat Danny Garcia, the Texan has been understandably battling injuries. If he meets Crawford in 2022, he will need to be in tip-top shape or Crawford will take full advantage. 
+Even though he returned late last year to defeat Danny Garcia, the Texan has been understandably battling injuries. If he meets Crawford in 2022, he will need to be in tip-top shape or Crawford will take full advantage.
 
 {% include appad.html %}
 
@@ -37,9 +37,9 @@ Even though he returned late last year to defeat Danny Garcia, the Texan has bee
 
 Some may laugh at the suggestion of a Khan-Brook contest in 2022 given the fact that both men are clearly past their prime. However, on February 19 these two British rivals will finally settle their long-running feud and throw down in Manchester.
 
-Despite what many may think about the state of the two protagonists, this remains the second biggest all-UK fight behind Tyson Fury and Anthony Joshua. As soon as the tickets went on sale they swiftly disappeared. Khan has achieved more across his 17-year career, but both have held world titles. 
+Despite what many may think about the state of the two protagonists, this remains the second biggest all-UK fight behind Tyson Fury and Anthony Joshua. As soon as the tickets went on sale they swiftly disappeared. Khan has achieved more across his 17-year career, but both have held world titles.
 
-Amir stepped up in 2016 to take on pound-for-pound star Saul ‘Canelo’ Alvarez just months before Brook lost to Canelo’s rival Gennady Golovkin. 
+Amir stepped up in 2016 to take on pound-for-pound star Saul ‘Canelo’ Alvarez just months before Brook lost to Canelo’s rival Gennady Golovkin.
 
 Their respective punch resistance is questionable but if Khan can retain his speed and Brook his punching power then this fight could be intriguing and exciting.
 
@@ -69,4 +69,4 @@ For fitness, any of the usual apps like freelytics will work. However if you are
 
 {% include getapp.html %}
 
-The [many user reviews](/reviews) don't lie, so don't hesitate to give it a try for free!
+The [many user reviews](/reviews/) don't lie, so don't hesitate to give it a try for free!

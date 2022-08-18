@@ -40,4 +40,4 @@ It's a great way to stay in shape while practicing boxing, [even if you are stuc
 {% include getapp.html %}
 
 [1]:	/
-[2]:	/boxing-workout-during-lockdown-at-home
+[2]:	/boxing-workout-during-lockdown-at-home/
