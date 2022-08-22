@@ -6,7 +6,7 @@ contextualAd: "Train at home with this boxing app that includes jump rope drills
 includeScreenshots: "yes"
 layout: post
 category: jump rope
-tag: jumprope
+tag: boxing
 ---
 
 When it comes to fitness training, there are few better ways to get in shape than with an intense boxing workout. Hill runs, sweat-inducing pad workouts, heavy sparring sessions and speed ball work can all help a boxer keep in shape. But for balance and workout purposes the jump rope is an excellent tool in itself.

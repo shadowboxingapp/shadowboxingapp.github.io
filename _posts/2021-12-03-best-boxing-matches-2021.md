@@ -6,7 +6,7 @@ contextualAd: "If you want to go beyond watching boxing, you can start practicin
 includeScreenshots: "yes"
 layout: post
 category: boxing matches this year
-tag: boxingNews
+tag: boxing
 
 ---
 

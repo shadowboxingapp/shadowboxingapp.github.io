@@ -7,7 +7,7 @@ boxing:
     How to use shadow boxing at home to improve your technique and effectiveness?
 
 apps:
-  title: "Boxing Apps"
+  title: "Boxing Mobile Apps"
   url: boxing-apps
   description:
     There are many options out there to practice boxing,
@@ -15,7 +15,7 @@ apps:
     Here are some of the options out there to have great boxing workouts from your mobile device.
 
 features:
-  title: "New Features in the App"
+  title: "New Features in the Shadow Boxing App"
   url: new-app-features
   description:
     The Shadow Boxing App constantly releases new features, from new exercises to new training
@@ -29,26 +29,10 @@ bag:
     There are many benefits, but there are also multiple ways to go about it.
     If you want to workout with a heavy bag and using a mobile app for iOS, you're at the right place!
 
-jumprope:
-  title: "Jumprope for Boxing"
-  url: jumprope-training
-  description:
-    Using a jump rope helps a lot with stamina which is key for boxing.
-    Boxers praticing with a rope is an iconic image, and it is advised that you at
-    least try it out if you want to improve your effectiveness in the ring.
-
 learnBoxing:
-  title: "Learn Boxing"
+  title: "Learn Boxing with an App"
   url: learn-boxing-with-an-app
   description:
     Learning boxing is a journey that anyone can take and succeed at with enough time and dedication.
     You can learn at the gym or at home with a mobile app, with a heavy bag, a jump rope or nothing at all
     there is nothing stopping you from giving this great sport a go!
-
-boxingNews:
-  title: "Boxing News"
-  url: boxing-news
-  description:
-    There are so many things happening in boxing! While we are just a shadow boxing app, we
-    are passionate about our sport and will share some of the news about upcoming boxing fights and
-    other boxing news.
