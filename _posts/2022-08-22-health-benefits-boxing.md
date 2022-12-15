@@ -4,7 +4,7 @@ imageCode: "get_exhausted"
 description: "Boxing is a great way to get in shape and improve your fitness. Here are ten benefits of boxing training that you may not know about."
 layout: post
 category: boxing training
-contextualAd: "Practice boxing at home with this app that will call out punches and guide you through boxing workotus."
+contextualAd: "Practice boxing at home with this app that will call out punches and guide you through boxing workouts."
 includeScreenshots: "yes"
 tag: boxing
 ---
