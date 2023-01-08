@@ -34,9 +34,9 @@ Once the video is on your phone, you can add it to Youtube. To do so, download t
 
 Once this is done, [fill in this form](https://docs.google.com/forms/d/1_W7kuNKx37qlHl6yr_9rzzudhA8SP14QlumByudL_Ac/edit).
 
-We'll get back shortly to you with a coupon you'll be able to redeem [on this page](https://apps.apple.com/redeem/?ctx=offercodes&id=1510911574) giving you access to the monthly subscription for free during 2 months.
+We'll get back shortly to you with a coupon you'll be able to redeem [on this page](https://apps.apple.com/redeem/?ctx=offercodes&id=1510911574) giving you access to the monthly subscription for free during 3 months.
 
 ## Any questions?
 
-If this is not clear, please reach out at shadowboxingworkout@gmail.com and we'll do our best to assist!
+If this is not clear or if you encounter any issues, please reach out at shadowboxingworkout@gmail.com and we'll do our best to assist!
 
