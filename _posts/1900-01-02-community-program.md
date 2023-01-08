@@ -14,7 +14,7 @@ This program is limited in time and can be discountinued at any time, so if you 
 
 Anyone above the legal majority of their country can participate. Participation is limited at one time per person. 
 
-You also have to agree to have the video used by the Shadow Boxing App for educational and promotional usage, included but not limited to the app itself, the app's youtube channel, blog or instagram page. You can already see some people who participated in the past [on our Youtube Channel](https://www.youtube.com/@shadowboxingworkout1467/videos).
+**You also have to agree to have the video used by the Shadow Boxing App for educational and promotional usage**, included but not limited to the app itself, the app's youtube channel, blog or instagram page. You can already see some people who participated in the past [on our Youtube Channel](https://www.youtube.com/@shadowboxingworkout1467/videos).
 
 ## Participating
 
@@ -34,7 +34,7 @@ Once the video is on your phone, you can add it to Youtube. To do so, download t
 
 Once this is done, [fill in this form](https://docs.google.com/forms/d/1_W7kuNKx37qlHl6yr_9rzzudhA8SP14QlumByudL_Ac/edit).
 
-We'll get back shortly to you with a coupon you'll be able to redeem [on this page](https://apps.apple.com/redeem/?ctx=offercodes&id=1510911574) giving you access to the monthly subscription for free during 3 months.
+We'll get back shortly to you with a coupon you'll be able to redeem [on this page](https://apps.apple.com/redeem/?ctx=offercodes&id=1510911574) giving you access to the monthly subscription for free during 3 months. Note that the code will expire June 1st 2023.
 
 ## Any questions?
 
