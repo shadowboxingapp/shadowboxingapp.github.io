@@ -1,12 +1,5 @@
 {
   "live": "true",
   "communityprogram": "stopped",
-  "messages": [
-    {
-      "version": "all",
-      "fr": "Bonjour",
-      "en": "Hello",
-      "es": "Hola"
-    }
-  ]
+  "messages": []
 }
