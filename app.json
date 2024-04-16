@@ -4,7 +4,9 @@
   "messages": [
     {
       "version": "all",
-      "fr": "Bonjour"
+      "fr": "Bonjour",
+      "en": "Hello",
+      "es": "Hola"
     }
   ]
 }
