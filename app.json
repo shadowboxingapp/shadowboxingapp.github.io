@@ -1,5 +1,9 @@
 {
   "live": "true",
   "communityprogram": "stopped",
-  "messages": []
+  "messages": [
+    {
+      "version": "all",
+      "fr": "Bonjour"
+  ]
 }
