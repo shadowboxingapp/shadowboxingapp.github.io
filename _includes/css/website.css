@@ -124,7 +124,7 @@ li {
   display: inline-block;
 }
 .download a img {
-  width: 180px;
+  height: 60px;
 }
 
 .screenshots {
