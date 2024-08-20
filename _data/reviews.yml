@@ -26,7 +26,7 @@
 - title: "Brilliant"
   content: "I’ve been around boxing gyms for a few years and the only bit I’ve never got into is shadow boxing. This app has me hooked though, really great simple tool and I can actually feel my natural rhythm improving. Can’t recommend it enough - whether you are looking for a workout or relax/cool down at the end of a day. Great free content and the subscription price is an absolute bargain. Thank you!"
   name: "@notsicknote"
-  featured: true
+  featured: false
 
 - title: "Boxing"
   content: "Amazing app, great way to burn calories, stay in shape and have that mental focus🔥"
@@ -71,4 +71,29 @@
 - title: My new workout routine
   content: Many efficient exercises to choose from that change from the usual home workouts I tried. I knew close to nothing about shadow boxing but this app did a good job walking me through it and made me steadily improve.
   name: gflandre
+  featured: false
+
+- title: Built by a boxer
+  content: Amazing app, never review an app before , but this by far is the best for anybody who wants to learn or polish their boxing skills. 11/10 recommend
+  name: hps5314
+  featured: true
+
+- title: Love this app
+  content: Been using it now for almost a year and it’s been very good for me if you want to get fit doing something fun this is the one
+  name: QED28
+  featured: false
+
+- title: Great for beginners
+  content: Although you have to pay for most of the apps videos (cheap monthly payment) the free ones are all beginner friendly and help ease you into the routine.
+  name: nickname124
+  featured: false
+
+- title: Rekindled my love of boxing
+  content: Good fun! And great to have cardio that takes it easy on my leg muscles.
+  name: ChillZone22
+  featured: false
+
+- title: Great for at home training and workouts
+  content: Love using this app when I can’t make it to the gym. I really appreciate that you can listen to your own music while training
+  name: Ant_S13
   featured: false
