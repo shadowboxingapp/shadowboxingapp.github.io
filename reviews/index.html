@@ -6,7 +6,7 @@ imageCode: "custom_workout"
 ---
 
 <div class="container-fluid dark">
-  <h1 class="home_title">Reviews of the shadow boxing app</h1>
+  <h1 class="home_title">Reviews of The Shadow Boxing App</h1>
   <p class="subtitle_blurb">
     We know that it's hard to commit to an app when training. There are a lot of them out there, each with their specificities.
     This is why we offer completely free trainings so you can get a sense of how the app works and if it'll fit
@@ -45,14 +45,11 @@ imageCode: "custom_workout"
 {% include getapp.html %}
 </div>
 
-<div class="container-fluid dark">
-  <h2 class="white_header">From the press and review sites</h2>
-  <p class="subtitle_blurb">
-    Some publications gave our app a try and gave their feedback.
-  </p>
+<div class="container-fluid light">
+  <h2 class="orange_header">From the press and review sites</h2>
 </div>
 
-<div class="container-fluid dark all_workouts">
+<div class="container-fluid light all_workouts" style="padding-bottom: 40px;">
     <div class="row">
       {% for review in site.data.pro_reviews %}
         <div class="col-12 col-md-4 workout">
@@ -66,6 +63,10 @@ imageCode: "custom_workout"
         </div>
       {% endfor %}
     </div>
+</div>
+<div class="container-fluid dark">
+  <h2 class="white_header">Care to give it a try?</h2>
+
   {% include screenshots1.html %}
   {% include getapp.html %}
 </div>

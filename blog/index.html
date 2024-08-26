@@ -5,39 +5,44 @@ description: Articles about boxing, jump rope, pad work and everything related t
 imageCode: "custom_workout"
 ---
 
-<div class="container-fluid">
-  <h1 class="home_title blog_main_title">The Shadow boxing blog</h1>
+<div class="container-fluid dark" style="padding-bottom: 20px;">
+  <h1 class="home_title blog_main_title">The Shadow Boxing Blog</h1>
+  <p>
+    Welcome to the blog where you can learn about updates to our iOS app,
+    get insights into the world of boxing or discover new boxing workouts!
+  </p>
 </div>
-{{ author.title }}
 
-<div class="container">
-  {% for tag in site.data.tag_details %}
-    <h2 class="blog_category">
-      <a href="/articles/{{ tag[1].url }}/">{{ tag[1].title }}</a>
-    </h2>
+<div class="container-fluid dark">
+  <div class="container">
+    {% for tag in site.data.tag_details %}
+      <h2 class="blog_category">
+        <a href="/articles/{{ tag[1].url }}/">{{ tag[1].title }}</a>
+      </h2>
 
-    {% assign tag_key = tag[0] %}
-    <div class=" blog_articles">
-      <div class="row blog_post_index">
-        {% for post in site.tags[tag_key]  limit:3 %}
-          <div class="col-12 col-lg-4 col-md-6 blog_post_index_item">
-            <div class="row">
-              <div class="col-12 blog_list_image" style="background: url(/assets/presets/fresh/{{post.imageCode}}.png);">
-              </div>
-              <div class="col">
-                <h3>
-                  <a href="{{ BASE_PATH }}{{ post.url }}">
-                    {{ post.title }}
-                  </a>
-                </h2>
-                <p>
-                  {{ post.description }}
-                </p>
+      {% assign tag_key = tag[0] %}
+      <div class=" blog_articles">
+        <div class="row blog_post_index">
+          {% for post in site.tags[tag_key]  limit:3 %}
+            <div class="col-12 col-lg-4 col-md-6 blog_post_index_item">
+              <div class="row">
+                <div class="col-12 blog_list_image" style="background: url(/assets/presets/fresh/{{post.imageCode}}.png);">
+                </div>
+                <div class="col">
+                  <h3>
+                    <a href="{{ BASE_PATH }}{{ post.url }}">
+                      {{ post.title }}
+                    </a>
+                  </h2>
+                  <p>
+                    {{ post.description }}
+                  </p>
+                </div>
               </div>
             </div>
-          </div>
-        {% endfor %}
+          {% endfor %}
+        </div>
       </div>
-    </div>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>

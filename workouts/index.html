@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shadow Boxing Workouts | Exercises available on the iOS app
+title: Shadow Boxing Workouts | Boxing exercises available on the iOS app
 description: The Shadow Boxing App has many different modes and exercises to pick from. The best way to discover them is to download the app, but here is a preview!
 imageCode: "custom_workout"
 ---
@@ -8,40 +8,43 @@ imageCode: "custom_workout"
 <div class="container-fluid dark">
   <h1 class="home_title">Available Boxing Workouts</h1>
   <p class="subtitle_blurb">
-    The <a href="/">Shadow Boxing App</a> has many different modes, workouts and exercises to pick from, and we are adding new ones all the time.
-    They range from freestyle work to punching bag exercises, but also virtual pad work or footwork drills. There really is something for every type of boxer.
-    The best way to discover them is to <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">download the app</a>, but here is a preview!
+    The <a href="/">Shadow Boxing App</a> has many different workouts and exercises to pick from,
+    and we are adding new ones all the time.
+    They range from freestyle work to punching bag exercises, but also virtual pad work or footwork drills.
+    There really is something for every type of boxer at every level of experience.
+    The best way to discover them is to <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">download the app</a>,
+    but here is a preview of what's in there!
   </p>
-  {% include screenshots1.html %}
 </div>
 <div class="container-fluid dark all_workouts">
-  <h2 class="large_subtitle" style="margin-bottom: 20px">Boxing workouts available in the iOS app</h2>
+  <h2 class="orange_header" style="margin-bottom: 20px">Some of our boxing workouts available in the iOS app</h2>
     <div class="row">
-      {% for mode in site.data.workouts %}
-        <div class="col-6 col-md-4 workout">
-          <h3>{{ mode.title }}</h3>
-          <p>
-            {{ mode.description }}
-            {% if mode.link %}
-              <a href="{{ mode.link }}">{{ mode.link_title }}</a>
-            {% endif %}
-          </p>
-        </div>
-      {% endfor %}
+         <ul class="workout_list">
+          {% for mode in site.data.workouts %}
+            <li>
+              <strong>{{ mode.title }}:</strong>
+              {{ mode.description }}
+            </li>
+          {% endfor %}
+          <li><strong>... and many more:</strong>We are adding new exercises regularly so that training with the app never get old.</li>
+        </ul>
     </div>
 </div>
 
 <div class="container-fluid dark all_workouts">
-  <h2 class="large_subtitle">That's a lot!</h2>
+  <h2 class="orange_header">That's a lot!</h2>
   <p class="subtitle_blurb">
-    It might seem like a lot of available options... because it's the case! However don't worry,
+    It might seem like a lot of available options... because it's the case!
+    <br>
+    <br>
+    However don't worry,
     you can take it one step at a time and learn how to use our boxing app one step at a time.
     You can trust <a href="/reviews/">our thousands of users' reviews</a> on the app store and download
     the app today to see for yourself how it works!
   </p>
 
   {% include getapp.html %}
-  {% include screenshots2.html %}
+  {% include screenshots1.html %}
 </div>
 
 

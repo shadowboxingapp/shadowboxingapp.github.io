@@ -22,17 +22,9 @@
   code: "punchingBag"
   description: "alternates non-stop fast punches and powerful combos to build explosiveness."
 
-- title: "Active recovery"
-  code: "activeRecovery"
-  description: "allows you to slow down while throwing simple punches with defensive movements."
-
 - title: "Dodge"
   code: "dodge"
   description: "focuses on reaction speed, slipping and countering with simple punches."
-
-- title: "Tutorial"
-  code: "tutorial"
-  description: "to learn about the app and boxing. It's accessible via the workout tab."
 
 - title: "Defense"
   code: "defense"

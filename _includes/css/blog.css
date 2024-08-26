@@ -9,6 +9,8 @@
   font-weight: bold;
   text-decoration-color: #f5a600 !important;
   text-decoration: underline;
+  letter-spacing: 1px;
+  line-height: 55px;
 }
 
 .post_header {
@@ -157,8 +159,13 @@ blockquote em {
 .blog_category a{
   display: block;
   font-size: 28px;
-  margin-top: 30px;
+  padding-top: 30px;
   color: #f5a600;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #333;
 }
 
 .blog_category_description {
@@ -172,7 +179,7 @@ blockquote em {
   padding: 20px 0px;
 }
 .blog_post_index {
-  padding: 40px 0px;
+  padding: 20px 0px;
 }
 .blog_post_index h3 {
   padding-bottom: 15px;
@@ -193,7 +200,7 @@ blockquote em {
   text-align: left;
 }
 .blog_post_index_item {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   padding-right: 30px;
 }
 

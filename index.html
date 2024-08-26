@@ -1,7 +1,7 @@
 ---
 layout: default
-description: Improve your boxing skills from anywhere with this app for iPhone that calls out punches, give guidance during freestyle and works perfectly with a punching bag.
-title: Shadow Boxing App | Training, workouts & punching bag at home
+description: Learn and practice boxing rom anywhere with this app for iPhone that calls out punches, give guidance during freestyle and works perfectly with a punching bag.
+title: Shadow Boxing App | Workouts, punching bag, learn boxing
 imageCode: "freestyle"
 ---
 
@@ -10,19 +10,20 @@ imageCode: "freestyle"
     <div class="col">
       <h1 class="home_title">
         <img src='assets/iconFull.jpg' class='icon' alt='Shadow boxing workout app for iOS'/>
-        Shadow Boxing App
+        The Shadow Boxing App
       </h1>
     </div>
   </div>
 
   <div class="row">
     <div class="col">
-      <p id="subtitle">Practice boxing anywhere without gear with our virtual coach.</p>
+      <p id="subtitle">Practice and learn boxing with our virtual coach.</p>
     </div>
   </div>
 
   {% include getapp.html %}
   {% include screenshots1.html %}
+
 </div>
 
 <div class="container-fluid light">
@@ -54,7 +55,7 @@ imageCode: "freestyle"
   <div class="row">
     {% for preset in site.data.presets %}
         <div class= "col-md-4 col-sm-6 col-lg-3">
-          <div class="preset" style="background: url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
+          <div class="preset" style="background: linear-gradient(rgba(30, 30, 30, 0.7),rgba(0, 0, 0, 0.7)),url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
             <span class='highlighted'>
               {{ preset.title }}
             </span>
@@ -62,10 +63,11 @@ imageCode: "freestyle"
           </div>
         </div>
     {% endfor %}
-    <div class="col-md-4 col-sm-6 col-lg-3 download">
+    <div class="col-md-4 col-sm-6 col-lg-3 download" style="line-height: 25px;">
       <br/>
       <br/>
-      See <a href="/workouts/" style="color: #000; display: inline; padding: 0px; margin: 0px;">more boxing workouts</a> or try them out by downloading this shadow boxing training app for iPhone
+      Discover <a href="/workouts/" style="color: #000; display: inline; padding: 0px; margin: 0px;">more boxing workouts</a>
+      or try them out by downloading this shadow boxing training app for iPhone
       <br />
       <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
         <img src="/assets/download.svg" alt="Download boxing app on the app store" />
@@ -78,7 +80,17 @@ imageCode: "freestyle"
 </div>
 
 <div class="container-fluid dark from_the_blog">
-  <h2 class="white_header">Verified reviews from the App Store</h2>
+  <h2 class="white_header">
+    Loved by boxers!
+  </h2>
+
+  <div class="row" >
+    <div class="col-12 col-md-12" style="padding: 20px 0px; text-align: center;">
+      <div style="font-size: 40px; letter-spacing: 10px;">⭐️⭐⭐⭐⭐</div>
+      <br>
+      <em style="color:#a2a4a6">4.9/5 from 6000+ verified reviews!</em>
+    </div>
+  </div>
   <div class="row all_workouts">
     {% assign all_reviews = site.data.reviews | where: "featured", true %}
     {% for review in all_reviews %}
@@ -94,7 +106,7 @@ imageCode: "freestyle"
       </div>
     {% endfor %}
   </div>
-  <div style="text-align: center; padding: 50px 20px 40px 20px;">
+  <div style="text-align: center; padding: 50px 20px 40px 20px; line-height: 20px;">
     Read more reviews&nbsp;<a href="/reviews/">on our site</a>&nbsp;or&nbsp;
     <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">directly on Apple's store</a>.
   </div>
@@ -104,7 +116,7 @@ imageCode: "freestyle"
   <div class="row">
     <div class="col">
       <h2 class="orange_header">
-        Follow along many different boxing exercises
+        Pick from many different boxing exercises
       </h2>
     </div>
   </div>
@@ -137,7 +149,7 @@ imageCode: "freestyle"
   {% include getapp.html %}
 </div>
 
-<div class="container from_the_blog">
+<div class="container-fluid from_the_blog dark">
   <div class="row">
     <div class="col">
       <h2 class="blog_title" name="blog">

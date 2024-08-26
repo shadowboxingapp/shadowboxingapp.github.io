@@ -1,43 +1,19 @@
-- title: "FREESTYLE"
-  description: "Box for 6 rounds of 3 minutes with a coach giving you audio directions."
-  code: "freestyle"
-
 - title: "20 MINUTES HIIT"
-  description: "High intensity training to build explosive power & increase stamina"
+  description: "High intensity training to build power, increase stamina and get you in shape for a fight!"
   code: "20_minutes_hiit"
 
 - title: "VIRTUAL PAD WORK"
-  description: "Simple combos to execute when called as well as some freestyle"
+  description: "Simple combos to execute when called that gets more complex as the round goes."
   code: "pad_work"
 
-- title: "INSANITY"
-  description: "Warm up and get ready for 25 minutes of non-stop action"
-  code: "insanity"
-
 - title: "PUNCHING BAG"
-  description: "Work on the bag with various exercises & some freestyle"
+  description: "Work on the bag with various exercises focused on improving your explosiveness and power."
   code: "punching_bag_mix"
 
-- title: "PUSHUPS"
-  description: "Quickly alternate between shadow boxing freestyle and pushups"
-  code: "pushups"
-
 - title: "DEFENSE"
-  description: "Work on dodging incoming attacks and countering"
+  description: "Work on dodging and countering to improve your technique and reflexes."
   code: "defense"
 
-- title: "7 MINUTES CHALLENGE"
-  description: "Follow commands and get your heart pumping even without much time."
-  code: "seven"
-
-- title: "JUMPROPE"
-  description: "30 minutes workout with simple jumprope exercices"
-  code: "jumprope"
-
-- title: "DODGE"
-  description: "Focus on reaction speed. It's simple, just don't get hit!"
-  code: "dodge"
-
-- title:	CIRCUIT TRAINING
-  description:	Quickly go through a lot of different exercises
+- title:	"CIRCUIT TRAINING"
+  description:	"Quickly go through a lot of different exercises to improve your cardio"
   code: "circuit"
