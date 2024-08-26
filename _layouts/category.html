@@ -14,16 +14,16 @@ layout: default
   <div class=" blog_articles">
     <div class="row blog_post_index">
       {% for post in site.tags[page.category] %}
-        <div class="col-12 col-lg-4 col-md-6 blog_post_index_item">
+        <div class="col-12 col-lg-4 col-md-6 blog_post_index_item" style="margin-bottom: 40px;">
           <div class="row">
-            <div class="col-12 blog_list_image" style="background: url(/assets/presets/fresh/{{post.imageCode}}.png);">
-            </div>
-            <div class="col">
+            <div class="col-12 blog_list_image" style="background: linear-gradient(rgba(30, 30, 30, 0.7),rgba(0, 0, 0, 0.7)),url(/assets/presets/fresh/{{post.imageCode}}.png);">
               <h3>
                 <a href="{{ BASE_PATH }}{{ post.url }}">
                   {{ post.title }}
                 </a>
-              </h2>
+              </h3>
+            </div>
+            <div class="col">
               <p>
                 {{ post.description }}
               </p>
