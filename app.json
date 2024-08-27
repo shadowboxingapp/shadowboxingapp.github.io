@@ -1,5 +1,6 @@
 {
   "live": "true",
   "communityprogram": "stopped",
-  "messages": []
+  "messages": [],
+  "bookingsOpened": "true"
 }
