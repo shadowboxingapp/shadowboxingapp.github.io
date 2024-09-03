@@ -235,6 +235,77 @@ heavybag_pro:
     - Effective combos & directions
     - Basic 3D videos to showcase the movements
   cons:
-    - 3D videos can be a bit out of sync
+    - 3D videos can be practice out of sync
     - Only combos and not many other boxing exercises
     - Expensive subscription, and lifetime purchase at 129.99€ at the time of writing
+
+sbw_2024:
+  title: "The Shadow Boxing App"
+  description: "The app has been great for years at providing amazing boxing workouts. It will call out movements and punches, run you through drills, improve your technique, cardio and more. The big news in 2024 is that it now provides full tutorial videos and beginner workouts to learn boxing, which was lacking in the past!"
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  pros:
+    - Many exercises and workout for boxing
+    - Workouts specifically made for the punching bag
+    - Complete learning path to learn boxing
+    - Made for boxing, so everything is really tailored to practice the sport
+    - A lot of free content, including a timer
+  cons:
+    - Not compatible with Apple Watch
+
+fightcamp_2024:
+  link: "https://apps.apple.com/us/app/fightcamp-boxing-workouts/id1328562100"
+  title: "Fightcamp"
+  description: "This app uses punch tracker hardware to keep track of how many punches you are throwing, which is quite fun to use when it works. It will also provide quality video to workout in front of your TV."
+  pros:
+    - Quality videos
+    - Great experience using a TV
+    - Being able to track punches is fun
+  cons:
+    - Expensive tracker to buy
+
+kickboxing:
+  link: "https://apps.apple.com/us/app/kickboxing-fitness-training/id1412506875"
+  title: "Kickboxing Fitness Training"
+  description: "While not exactly for boxing, this app is interesting for those who want to expand their arsenal to kick boxing."
+  pros:
+    - Workout plans
+    - Some boxing workouts
+  cons:
+    - Not made specifically for boxing
+
+boxx_2024:
+  link: https://boxxldn.com/pages/our-app
+  title: Boxx
+  description: This app is a great option if you want to improve your fitness and cardio. It includes some boxing exercises, however it's good to keep in mind that it's for boxercice and not really technical boxing.
+  pros:
+    - Many fitness exercises (including Pilates & more)
+    - Quality videos
+    - Nice looking app
+  cons:
+    - Boxing exercises are more cardio than technical
+    - Focused on fitness and not boxing
+
+coach:
+  link: https://apps.apple.com/us/app/boxing-coach-workout-timer/id1308556493
+  title: Boxing Coach Workout Timer
+  description: You can easily manage your training schedule with this app and track your progress.
+  pros:
+    - Simple user interface
+    - Dark mode
+    - Nice looking boxing timer
+  cons:
+    - No tutorial videos
+    - Limited amount of workouts
+
+
+precision:
+  link: https://apps.apple.com/us/app/precision-boxing-coach-lite/id715053176
+  title: Precision Boxing Coach
+  description: The virtual coach will call out punches for you to throw. This app is effective and offers some customisation, but looks a bit outdated and hasn't been updated for a while.
+  pros:
+    - Low price point
+    - Good technical combos
+  cons:
+    - Lack of updates
+    - Low amount of workouts
+    - Outdated design
