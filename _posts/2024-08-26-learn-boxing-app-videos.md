@@ -6,6 +6,7 @@ layout: post
 category: how to learn boxing
 tag: learnBoxing
 contextualAd: "Learn boxing with an iOS app featuring quality tutorial videos and easy to understand workouts!"
+featured: true
 ---
 
 We've recently released brand new tutorial videos, and it is now completely possible to learn the basics of boxing using the app.
