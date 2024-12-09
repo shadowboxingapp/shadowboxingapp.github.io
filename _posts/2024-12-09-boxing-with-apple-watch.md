@@ -6,7 +6,6 @@ layout: post
 category: boxing training with a watch
 includeScreenshots: "no"
 tag: learnBoxing
-featured: yes
 contextualAd: "The Shadow Boxing App is perfect to train anywhere and provides a free Watch app"
 
 ---
