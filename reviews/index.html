@@ -1,24 +1,26 @@
 ---
-layout: default
+layout: v2
 title: Shadow Boxing Workouts | Read reviews about the app
 description: If you are on the fence about starting to use the app for boxing, you can take a look at these real user reviews!
 imageCode: "custom_workout"
 ---
 
-<div class="container-fluid dark">
-  <h1 class="home_title">Reviews of The Shadow Boxing App</h1>
-  <p class="subtitle_blurb">
-    We know that it's hard to commit to an app when training. There are a lot of them out there, each with their specificities.
-    This is why we offer completely free trainings so you can get a sense of how the app works and if it'll fit
-    the way you want to train. Another way to get more insights is reading what people are saying about the app,
-    so keep scrolling and discover what users and publications said about the shadow boxing app!
-  </p>
+<div class="blogTitle">
+  <div class="container">
+    <h1>Reviews of The Shadow Boxing App</h1>
+    <p>
+      We know that it's hard to commit to an app when training. There are a lot of them out there, each with their specificities.
+      This is why we offer completely free trainings so you can get a sense of how the app works and if it'll fit
+      the way you want to train. Another way to get more insights is reading what people are saying about the app,
+      so keep scrolling and discover what users and publications said about the shadow boxing app!
+    </p>
+  </div>
 </div>
 
-<div class="container-fluid dark">
-  <h2 class="orange_header"> From boxers using the app</h2>
-  <img class="content_banner" src="/assets/banner_reviews.jpg" alt="People using an iOS app for shadow boxing"/>
-  <p class="subtitle_blurb">
+<div class="container allReviews">
+  <h2> From boxers using the app</h2>
+  <img class="reviewsBanner" src="/assets/banner_reviews.jpg" alt="People using an iOS app for shadow boxing"/>
+  <p class="subtitle">
     If you are on the fence about starting to use the app for boxing, you can take a look at these
     <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">real user reviews from the app store</a>.
     We think that our best advocates are the boxers that use the app every week to train and get better.
@@ -27,32 +29,32 @@ imageCode: "custom_workout"
   </p>
 </div>
 
-<div class="container-fluid dark all_workouts">
-    <div class="row">
-      {% for review in site.data.reviews %}
-        <div class="col-12 col-md-4 workout">
-          <div class="stars">⭐️⭐⭐⭐⭐</div>
-          <h3>{{ review.title }}</h2>
-          <p>
-            {{ review.content }}
-          </p>
-          <p class="from">
-            From {{ review.name }}
-          </p>
-        </div>
-      {% endfor %}
-    </div>
-{% include getapp.html %}
+<div class="reviews">
+  <div class="container">
+      <div class="row">
+        {% for review in site.data.reviews %}
+          <div class="col-12 col-md-4 workout">
+            <div class="stars">★★★★★</div>
+            <h3>{{ review.title }}</h2>
+            <p>
+              {{ review.content }}
+            </p>
+            <p class="from">
+              From {{ review.name }}
+            </p>
+          </div>
+        {% endfor %}
+      </div>
+  {% include getapp.html %}
+  </div>
 </div>
 
-<div class="container-fluid light">
-  <h2 class="orange_header">From the press and review sites</h2>
-</div>
+<div class="container pressReviews">
+  <h2>From the press and review sites</h2>
 
-<div class="container-fluid light all_workouts" style="padding-bottom: 40px;">
     <div class="row">
       {% for review in site.data.pro_reviews %}
-        <div class="col-12 col-md-4 workout">
+        <div class="col-12 col-md-4">
           <h3>{{ review.title }}</h2>
           <p>
             {{ review.content }}
@@ -64,11 +66,13 @@ imageCode: "custom_workout"
       {% endfor %}
     </div>
 </div>
-<div class="container-fluid dark">
-  <h2 class="white_header">Care to give it a try?</h2>
 
-  {% include screenshots1.html %}
-  {% include getapp.html %}
+{% include awards.html %}
+
+<div class="container pressReviews">
+  <h2>From Youtubers</h2>
+
+  <a href='https://youtu.be/qcadlxFJm4s?si=4J9PxPl-rtRoOJwC&t=377' target="_blank">
+    <img src="/assets/v2/meni.png" style="width: 70%;" alt="Review from Youtuber" />
+  </a>
 </div>
-
-

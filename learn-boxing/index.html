@@ -1,0 +1,131 @@
+---
+layout: v2
+title: Learn boxing with an app
+description:
+imageCode: "custom_workout"
+---
+
+<div class="blogTitle">
+  <div class="container">
+    <h1>Learn boxing with an app</h1>
+    <p>
+      The Shadow Boxing App works great for both experienced and beginner boxers.
+      If you don't have access to a gym, can't afford it or you just want to try at home before
+      joining, learning boxing with an app is possible!
+    </p>
+
+    {% include getapp.html %}
+
+  </div>
+</div>
+
+<div class="container screenshots">
+
+  <div class="row">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenJourneyBeginner.png" alt='' style="width: 80%;" />
+    </div>
+    <div class="col">
+      <h2>Training plans</h2>
+      <p>
+        Start your boxing journey and follow training plans over a few days or a few weeks to learn boxing
+        or improve in a particular area.
+      </p>
+    </div>
+  </div>
+
+  <div class="row divider">
+
+    <div class="col">
+      <h2>Videos to discover the techniques</h2>
+      <p>
+        The app has many bite size videos to discover the techniques required to complete the various workouts.
+        See the techniques demonstrated by a professional boxing coach and apply them in your next training!
+      </p>
+    </div>
+
+    <div class="col screenWrapper divider">
+      <img src="/assets/v2/webscreenVideos.png" alt='' style="width: 240px" />
+    </div>
+  </div>
+
+  <div class="row divider">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenHelp.png" alt='' style="width: 80%" />
+    </div>
+    <div class="col">
+      <h2>Detailed help</h2>
+      <p>
+        You'll also find a list of techniques, detailed descriptions and references
+        to other videos from known boxing experts.
+      </p>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="reviews">
+  <div class="container">
+    <h2>They are learning with us</h2>
+    <p class="reviewsIntro">Don't take our word for it. Here are a few App Store <a href="/reviews/">reviews</a> talking about the learning experience!</p>
+    <div class="row">
+      {% assign all_reviews = site.data.reviews | where: "learning", true %}
+      {% for review in all_reviews %}
+        <div class="col-12 col-md-4 workout">
+          <div class="stars">★★★★★</div>
+          <h3>{{ review.title }}</h2>
+          <p>
+            {{ review.content }}
+          </p>
+          <p class="from">
+            From {{ review.name }}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="container screenshots">
+
+  <div class="row">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenMirror.png" alt='' style="width: 240px;" />
+    </div>
+    <div class="col">
+      <h2>Record yourself</h2>
+      <p>
+        Making sure to keep proper form when learning and not getting into bad habbits is tricky.
+        This is why we have a mirror mode that doubles as a recording feature, so that you can make sure
+        your jab is always right.
+      </p>
+    </div>
+  </div>
+
+  <div class="row divider">
+
+    <div class="col">
+      <h2>Track your progress</h2>
+      <p>
+        Learning a new sport can be hard. To stay on track and motivated, follow your
+        progress directly in the app or by using our Apple Health integration.
+      </p>
+    </div>
+
+    <div class="col screenWrapper ">
+      <img src="/assets/v2/webscreenProgress.png" alt='' style="width: 240px" />
+    </div>
+  </div>
+</div>
+
+<div class="convinced">
+  <div class="container">
+    <h2>Try it for free!</h2>
+    <p>
+      Even the free version of the app offers some videos and beginner
+      friendly workouts. There is no reason to start learning how to box today!
+    </p>
+    {% include getapp.html %}
+  </div>
+</div>

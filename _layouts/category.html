@@ -1,32 +1,38 @@
 ---
-layout: default
+layout: v2
 ---
 
-{% for tag in site.data.tag_details %}
-  {%if tag[0] == page.category %}
-    <h1 class="home_title blog_main_title">{{ tag[1].title }}</h1>
-    <p class="blog_category_description">{{ tag[1].description }}</p>
-  {%endif%}
-{% endfor %}
+<div class="blogTitle">
+  <div class="container">
+    {% for tag in site.data.tag_details %}
+      {%if tag[0] == page.category %}
+        <h1 class="home_title blog_main_title">{{ tag[1].title }}</h1>
+        <p>{{ tag[1].description }}</p>
+      {%endif%}
+    {% endfor %}
+  </div>
+</div>
 
 
-<div class="container">
-  <div class=" blog_articles">
+<div class="container" >
+  <div class=" blog_articles" style="margin: 64px 0px;">
     <div class="row blog_post_index">
       {% for post in site.tags[page.category] %}
-        <div class="col-12 col-lg-4 col-md-6 blog_post_index_item" style="margin-bottom: 40px;">
+        <div class="col-12 col-lg-4 col-md-6 ">
           <div class="row">
-            <div class="col-12 blog_list_image" style="background: linear-gradient(rgba(30, 30, 30, 0.7),rgba(0, 0, 0, 0.7)),url(/assets/presets/fresh/{{post.imageCode}}.png);">
-              <h3>
-                <a href="{{ BASE_PATH }}{{ post.url }}">
-                  {{ post.title }}
-                </a>
-              </h3>
-            </div>
-            <div class="col">
-              <p>
-                {{ post.description }}
-              </p>
+            <div class= "blog_post_index_item">
+              <div class="col-12 blog_list_image" style="background:url(/assets/presets/fresh/{{post.imageCode}}.png);">
+              </div>
+              <div class="col">
+                <h3>
+                  <a href="{{ BASE_PATH }}{{ post.url }}">
+                    {{ post.title }}
+                  </a>
+                </h3>
+                <p>
+                  {{ post.description }}
+                </p>
+              </div>
             </div>
           </div>
         </div>

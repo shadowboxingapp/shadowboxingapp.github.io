@@ -1,0 +1,532 @@
+body {
+  color: #18191A;
+  font-size: 18px;
+  font-family: -apple-system, "Helvetica Neue", sans-serif;
+}
+
+strong {
+  font-weight: 700;
+}
+
+a {
+  color: #18191A;
+}
+
+.intro {
+  background-color: #18191A;
+  color: #fff;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FAB219;
+}
+
+.headerIcon {
+  width: 40px;
+  border-radius: 10px;
+  float: left;
+}
+.logo {
+  font-size: 24px;
+  padding: 32px 16px 16px 16px;
+  text-align: left;
+}
+.logoWrapper {
+  padding-bottom: 24px;
+}
+
+.logoWrapper a {
+  color: #fff;
+}
+.logo span {
+  padding-left: 24px;
+  font-weight: 400;
+  padding-top: 8px;
+  display: inline-block;
+}
+
+h1 {
+  font-size: 64px;
+  line-height: 64px;
+  font-weight: 700;
+  padding: 64px 0px;
+  text-align: center;
+}
+
+.intro p {
+  color: #bbb;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.download {
+  text-align: center;
+  padding: 32px 0px;
+}
+
+.download a {
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+}
+.download a img {
+  height: 50px;
+}
+
+.homehero {
+  width: 900px;
+  margin: 32px auto 64px auto;
+}
+
+.screenshots a {
+  text-decoration: underline;
+}
+
+h2 {
+
+}
+
+.socialProof {
+  background: #FAB219;
+  padding: 32px 0px;
+  text-align: center;
+}
+
+.socialProof *{
+  color: #18191A;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+.stars {
+  letter-spacing: 5px;
+  font-size: 32px;
+}
+
+.socialProof a:hover{
+  text-decoration: none;
+  color: #18191A;
+}
+.socialProof a {
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+  padding-bottom: 24px;
+}
+
+.screenshots p {
+  color: #666;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.screenshots .row {
+  margin-top: 64px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.screenshotsDark {
+  background-color: #18191A;
+  padding: 1px 0px 32px 0px;
+}
+.screenshotsDark p {
+  color: #aaa;
+}
+
+.screenshotsDark h2 {
+  color: #fff;
+}
+.reviews {
+  background-color: #18191A;
+  color: #fff;
+  padding-top: 32px;
+  text-align: center;
+  margin-top: 32px;
+}
+.reviews .stars {
+  color: #FAB219;
+  font-size: 24px;
+  padding-bottom: 12px;
+}
+.reviews .row {
+  padding-top: 32px;
+  line-height: 24px;
+  font-size: 18px;
+}
+.reviews h3 {
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+
+.from {
+  color: #aaa;
+  padding-bottom: 32px;
+  padding-top: 12px;
+}
+
+.reviews p {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.divider {
+  border-top: 1px solid #eee;
+  padding-top: 64px;
+}
+
+.darkDivider {
+  border-top: 1px solid #666;
+  padding-top: 64px;
+}
+
+.moreReviews {
+  padding: 64px 0px;
+}
+.moreReviews {
+  color: #aaa;
+}
+.moreReviews a {
+  color: #aaa;
+  text-decoration: underline;
+}
+
+.awards {
+  background-color: #18191A;
+  color: #fff;
+  margin-top: 64px;
+}
+
+.awards img {
+  width: 40px;
+}
+
+.award {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 32px 0px;
+}
+
+.screenWrapper {
+  text-align: center;
+}
+
+.faq {
+  padding: 64px 0px;
+  line-height: 24px;
+}
+
+.faq h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #333;
+  padding-top: 24px;
+}
+.faq p {
+  color: #666;
+  padding-top: 12px;
+}
+
+h4 a {
+  display: block;
+}
+
+.blog {
+  padding-top: 64px;
+}
+.blogArticle {
+  padding: 24px;
+  border: 1px solid #eee;
+  margin: 10px;
+  background-color: #fff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  min-height: 250px;
+}
+
+.blogArticle a {
+  font-weight: 700;
+  text-decoration: underline;
+  padding-bottom: 12px;
+}
+
+.blogArticle p {
+  line-height: 24px;
+}
+
+.footer {
+  background-color: #18191A;
+  text-align: center;
+  padding: 64px 0px;
+  line-height: 32px;
+  margin-top: 32px;
+}
+
+.footer * {
+  color: #aaa !important;
+}
+
+.footer a {
+  text-decoration: underline;
+}
+
+.footer a:hover {
+  color: #FAB219 !important;
+}
+
+.post p {
+  line-height: 24px;
+}
+.post h2 {
+  padding: 24px 0px;
+}
+
+.post h3 {
+  padding: 12px 0px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+ul {
+  padding: 24px 0px 24px 12px;
+}
+
+li {
+  padding: 12px 0px 0px 12px;
+  list-style-type: square;
+}
+
+.blogTitle {
+  background-color: #18191A;
+  color: #fff;
+}
+
+.blogTitle p {
+  width: 80%;
+  color: #aaa;
+  margin: auto;
+  font-size: 18px;
+  line-height: 24px;
+  padding-bottom: 64px;
+}
+.blogTitle a {
+  color: #fff;
+}
+
+.blog_list_image {
+  height: 230px;
+  background-size: cover;
+  background-repeat: no-repeat !important;
+  background-size: 100% !important;
+}
+
+.blog_post_index_item {
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  line-height: 24px;
+}
+
+.blog_category {
+  padding-top: 64px;
+}
+
+.blog_post_index h3 {
+  font-weight: 700;
+  padding: 24px 0px;
+}
+
+.blog_post_index p {
+  padding-bottom: 24px;
+}
+
+.singlePost {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 64px 0px;
+}
+
+.singlePost p {
+  padding: 12px 0px;
+}
+
+.singlePost h2 {
+  padding-top: 24px;
+}
+
+.singlePost h3 {
+  display: block;
+  font-weight: 700;
+  font-size: 22px;
+  padding-top: 32px;
+}
+
+.singlePost a {
+  text-decoration: underline;
+}
+
+.app_ad {
+  border: 1px solid #ddd;
+  background-color: #eee;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin: 24px 64px;
+}
+
+.preview {
+  margin: 32px auto;
+  text-align: center;
+}
+.preview img {
+  width: 100%;
+}
+
+
+.reviewsBanner {
+  width: 80%;
+}
+
+.allReviews {
+  padding-top: 64px;
+  text-align: center;
+}
+
+.allReviews .subtitle {
+  color: #666;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 24px 0px;
+}
+
+.pressReviews {
+  padding-top: 64px;
+}
+
+.pressReviews h3 {
+  font-weight: 700;
+  padding-bottom: 24px;
+}
+
+.pressReviews p {
+  line-height: 24px;
+  padding-bottom: 24px;
+}
+
+.pressReviews .from {
+  color: #666;
+}
+
+.best_apps .app_icon{
+  width: 100px;
+  border-radius: 10px;
+}
+
+.app_screenshots {
+  width: 80%;
+  margin: 24px auto 64px auto;
+}
+
+.smallerContainer {
+  max-width: 800px;
+  margin: 64px auto;
+}
+
+.app_point_header {
+  font-weight: 700;
+}
+.prosIcon {
+  color: #00d600;
+  display: inline-block;
+  padding-right: 8px;
+}
+
+.consIcon {
+  color: #d60000;
+  display: inline-block;
+  padding-right: 8px;
+}
+
+.best_apps li {
+  list-style: none;
+}
+
+.workouts {
+  padding: 64px 0px 0px 0px;
+  font-size: 18px;
+}
+
+.workouts li strong {
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.journeys {
+  background-color: #18191A;
+  color: #fff;
+  padding: 64px 0px;
+  font-size: 18px;
+}
+
+.journeys img {
+  width: 100%;
+}
+
+.journeys h3 {
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+
+.journeys p {
+  line-height: 24px;
+}
+
+.journeyDetails {
+  color: #aaa;
+  padding-bottom: 32px;
+}
+.workoutsScreenshots {
+  text-align: center;
+}
+.workoutsScreenshots img{
+  width: 80%;
+}
+
+.android p {
+  padding-top: 32px;
+  line-height: 24px;
+}
+
+.android a {
+  text-decoration: underline;
+}
+
+.reviewsIntro {
+  color: #aaa;
+}
+
+.reviewsIntro a {
+  color: #fff;
+}
+
+.convinced {
+  background-color: #18191A;
+  color: #fff;
+  padding: 64px 0px;
+  margin-bottom: -31px;
+  margin-top: 64px;
+}

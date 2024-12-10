@@ -1,39 +1,70 @@
 ---
-layout: default
+layout: v2
 title: Shadow Boxing Workouts | Boxing exercises available on the iOS app
 description: The Shadow Boxing App has many different modes and exercises to pick from. The best way to discover them is to download the app, but here is a preview!
 imageCode: "custom_workout"
 ---
 
-<div class="container-fluid dark">
-  <h1 class="home_title">Available Boxing Workouts</h1>
-  <p class="subtitle_blurb">
-    The <a href="/">Shadow Boxing App</a> has many different workouts and exercises to pick from,
-    and we are adding new ones all the time.
-    They range from freestyle work to punching bag exercises, but also virtual pad work or footwork drills.
-    There really is something for every type of boxer at every level of experience.
-    The best way to discover them is to <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">download the app</a>,
-    but here is a preview of what's in there!
-  </p>
+<div class="blogTitle">
+  <div class="container">
+    <h1>Available Boxing Workouts</h1>
+    <p>
+      The <a href="/">Shadow Boxing App</a> has many different workouts and exercises to pick from,
+      and we are adding new ones all the time.
+      They range from freestyle work to punching bag exercises, but also virtual pad work or footwork drills.
+      There really is something for every type of boxer at every level of experience.
+      The best way to discover them is to <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">download the app</a>,
+      but here is a preview of what's in there!
+    </p>
+
+    <div class="workoutsScreenshots">
+      <img src="/assets/v2/webscreenManyWorkouts.png" alt="Many workouts are available" />
+    </div>
+
+    {% include getapp.html %}
+  </div>
 </div>
-<div class="container-fluid dark all_workouts">
-  <h2 class="orange_header" style="margin-bottom: 20px">Some of our boxing workouts available in the iOS app</h2>
+
+<div class="container workouts">
+  <h2>Some of our boxing workouts available in the iOS app</h2>
     <div class="row">
          <ul class="workout_list">
           {% for mode in site.data.workouts %}
             <li>
-              <strong>{{ mode.title }}:</strong>
+              <strong>{{ mode.title | capitalize }}:</strong>
               {{ mode.description }}
             </li>
           {% endfor %}
-          <li><strong>... and many more:</strong>We are adding new exercises regularly so that training with the app never get old.</li>
+          <li><strong>... and many more!</strong> We are adding new exercises regularly so that training with the app never get old.</li>
         </ul>
     </div>
 </div>
 
-<div class="container-fluid dark all_workouts">
-  <h2 class="orange_header">That's a lot!</h2>
-  <p class="subtitle_blurb">
+<div class="journeys">
+  <div class="container">
+    <h2>Boxing journeys</h2>
+    <p class="journeyDetails">
+      The app also features plans to practice a particular aspect of boxing.
+      They are a mix of videos and workouts all around a single theme.
+    </p>
+
+    <div class="row">
+      {% for j in site.data.journeys %}
+        <div class= "col-2">
+          <img src="/assets/v2/journeys/journey_{{j.code}}.png" />
+        </div>
+        <div class= "col-4" style="padding-bottom: 64px;">
+          <h3>{{ j.title | capitalize }}</h3>
+          <p>{{ j.description }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="container workouts">
+  <h2>That's a lot!</h2>
+  <p>
     It might seem like a lot of available options... because it's the case!
     <br>
     <br>
@@ -44,7 +75,6 @@ imageCode: "custom_workout"
   </p>
 
   {% include getapp.html %}
-  {% include screenshots1.html %}
 </div>
 
 

@@ -1,193 +1,238 @@
 ---
-layout: default
+layout: v2
 description: Learn and practice boxing from anywhere with this app for iPhone that calls out punches, give guidance during freestyle and works perfectly with a punching bag.
 title: Shadow Boxing App | Workouts, punching bag, learn boxing
 imageCode: "freestyle"
 ---
 
-<div class="container-fluid dark">
-  <div class="row">
-    <div class="col">
-      <h1 class="home_title">
-        <img src='assets/iconFull.jpg' class='icon' alt='Shadow boxing workout app for iOS'/>
-        The Shadow Boxing App
-      </h1>
-    </div>
-  </div>
+<div class=" intro">
+  <div class="container">
+    <h1>Your Virtual Boxing Coach</h1>
+    <p>
+    Practice and learn boxing anywhere with a range of workouts and tutorial videos.
+    <br />
+    Improve your technique, become stronger, have fun with or without equipment.
+    </p>
 
-  <div class="row">
-    <div class="col">
-      <p id="subtitle">Practice and learn boxing with our virtual coach.</p>
-    </div>
-  </div>
+    {% include getapp.html %}
 
-  {% include getapp.html %}
-  {% include screenshots1.html %}
-
-</div>
-
-<div class="container-fluid light">
-  <div class="row">
-    <div class="col">
-      <h2 class="orange_header">
-        See someone using the app
-      </h2>
-      <a href="https://www.youtube.com/watch?v=gHiHeUECLeU" target="_blank">
-        <img style="margin-top: 0px;" class="content_banner" src="/assets/video_preview_2.png" alt="Someone training with a boxing app"/>
-      </a>
-    </div>
+    <a href="https://youtu.be/gHiHeUECLeU?si=EbbF75LChX44LWjz&t=9" target="_blank">
+      <img class="homehero" src="/assets/video_preview_2.png" alt="Someone training with a boxing app" height=500>
+    </a>
   </div>
 </div>
 
-<div class="container-fluid dark">
-  {% include screenshots2.html %}
+<div class="socialProof">
+  <div class="container">
+    <div class="starsWrapper">
+      <span class="stars">★★★★★</span> 4.9 / 5
+    </div>
+    from <a href="/reviews/">6500+ reviews</a> on the App Store
+  </div>
 </div>
 
-<div class="container-fluid light">
+<div class="container screenshots">
   <div class="row">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreen1.png" alt='Pick from various boxing workouts' style="width: 80%" />
+    </div>
     <div class="col">
-      <h2 class="orange_header">
-        Pick from interesting boxing workouts
-      </h2>
-    </div>
-  </div>
-
-  <div class="row">
-    {% for preset in site.data.presets %}
-        <div class= "col-md-4 col-sm-6 col-lg-3">
-          <div class="preset" style="background: linear-gradient(rgba(30, 30, 30, 0.7),rgba(0, 0, 0, 0.7)),url('/assets/presets/{{preset.code}}-min.png');background-size:cover;">
-            <span class='highlighted'>
-              {{ preset.title }}
-            </span>
-            <p> {{ preset.description }}</p>
-          </div>
-        </div>
-    {% endfor %}
-    <div class="col-md-4 col-sm-6 col-lg-3 download" style="line-height: 25px;">
-      <br/>
-      <br/>
-      Discover <a href="/workouts/" style="color: #000; display: inline; padding: 0px; margin: 0px;">more boxing workouts</a>
-      or try them out by downloading this shadow boxing training app for iPhone
-      <br />
-      <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">
-        <img src="/assets/download.svg" alt="Download boxing app on the app store" />
-      </a>
-      <br/>
-      <br/>
-      <br/>
-    </div>
-  </div>
-</div>
-
-<div class="container-fluid dark from_the_blog">
-  <h2 class="white_header">
-    Loved by boxers!
-  </h2>
-
-  <div class="row" >
-    <div class="col-12 col-md-12" style="padding: 20px 0px; text-align: center;">
-      <div style="font-size: 40px; letter-spacing: 10px;">⭐️⭐⭐⭐⭐</div>
-      <br>
-      <em style="color:#a2a4a6">4.9/5 from 6000+ verified reviews!</em>
-    </div>
-  </div>
-  <div class="row all_workouts">
-    {% assign all_reviews = site.data.reviews | where: "featured", true %}
-    {% for review in all_reviews %}
-      <div class="col-12 col-md-4 workout">
-        <div class="stars">⭐️⭐⭐⭐⭐</div>
-        <h3>{{ review.title }}</h2>
-        <p>
-          {{ review.content }}
-        </p>
-        <p class="from">
-          From {{ review.name }}
-        </p>
-      </div>
-    {% endfor %}
-  </div>
-  <div style="text-align: center; padding: 50px 20px 40px 20px; line-height: 20px;">
-    Read more reviews&nbsp;<a href="/reviews/">on our site</a>&nbsp;or&nbsp;
-    <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">directly on Apple's store</a>.
-  </div>
-</div>
-
-<div class="container-fluid light">
-  <div class="row">
-    <div class="col">
-      <h2 class="orange_header">
-        Pick from many different boxing exercises
-      </h2>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-2 col-sm-1"></div>
-    <div class="col-md-8 col-sm-10">
-     <p class="subtitle_text">
-       You can pick from a lot of boxing exercises and workouts to train at home.
-       For instance you can grab your heavy bag and follow along workouts that will alternate quick 1-2s with strong and heavy punches.
-       You can also just do some freestyle with the app only giving you guidance and ideas.
-       If you like more guidance, you can just follow along as the app calls out punches!
-     <p>
-   </div>
-    <div class="col-md-2 col-sm-1"></div>
-  </div>
-
-  <div class="row">
-    {% for exercise in site.data.exercises %}
-        <div class= "col-md-6 col-sm-6 col-lg-4">
-          <div class="mode">
-            <strong>
-              <img src="/assets/modes/mode_{{exercise.code}}.png" class="mode_icon" alt='Boxing exercises: {{exercise.title}}' />
-              {{ exercise.title }}
-            </strong>
-            {{ exercise.description }}
-          </div>
-        </div>
-    {% endfor %}
-  </div>
-  {% include getapp.html %}
-</div>
-
-<div class="container-fluid from_the_blog dark">
-  <div class="row">
-    <div class="col">
-      <h2 class="blog_title" name="blog">
-        From the blog
-      </h2>
-    </div>
-  </div>
-
-  <div class="row ">
-    {% for post in site.posts %}
-      {% if post.featured %}
-        <div class="col-md-4 col-sm-12 col-lg-4 blog_post_home">
-            <h3>
-              <a href="{{ BASE_PATH }}{{ post.url }}">
-                {{ post.title }}
-              </a>
-            </h3>
-            <p>
-              {{ post.description }}
-            </p>
-            <p>
-              <br />
-              <a class="read_more" href="{{ BASE_PATH }}{{ post.url }}">→ Read more about {{post.category}}</a>
-            </p>
-        </div>
-      {% endif %}
-    {% endfor %}
-
-    <div class="col-md-4 col-sm-12 col-lg-4 blog_post_home">
-      <h3><a href="/blog/">More boxing articles</a></h3>
+      <h2>Many boxing workouts</h2>
       <p>
-        Discover more about shadow boxing and this mobile app by browsing all the available categories:
-        {% for tag in site.data.tag_details %}
-          <a href="/articles/{{ tag[1].url }}/" class="read_more">{{ tag[1].title }}</a>{% unless forloop.last %},{% endunless %}
-        {% endfor %}
-        .
-        </ul>
+        Punching bag, HIIT, pad work, drills, footwork, defenses... no matter your experience you'll find something that fits you.
+        Each workout is generated on the spot to keep things fresh.
+        <br />
+        <br />
+        Discover some of <a href="/workouts/">the available workouts here</a>.
+      </p>
+    </div>
+  </div>
+  <div class="row divider">
+    <div class="col">
+      <h2>Listen to your coach</h2>
+      <p>
+        Follow audio cues and get the experience of training with a coach at home!
+        The app will call out actions to perform like punches, defenses, movements and more.
+        <br>
+        <br>
+        To learn more, <a href="https://www.youtube.com/watch?v=Vpf96GPMeSs">you can watch this intro video</a>.
+      </p>
+    </div>
+
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreen3.png" alt='Virtual padwork app calling out punches' style="width: 220px;"/>
+    </div>
+  </div>
+  <div class="row divider">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreen2.png" alt='Start learning boxing with an app' style="width: 80%"/>
+    </div>
+    <div class="col">
+      <h2>Learn Boxing</h2>
+      <p>
+        Discover boxing with precise tutorial videos and simple workouts, or improve your skills with advanced and technical training plans.
+        If you've never boxed, we'll get you throwing combos in less than 30 minutes. You're more experienced? We also have you covered with more technical plans.
+
+        <br>
+        <br>
+        Discover how to <a href="/learn-boxing/">learn boxing with an app</a>.
+
       </p>
     </div>
   </div>
 </div>
+
+<div class="reviews">
+  <div class="container">
+    <h2>Loved by Boxers all over the World!</h2>
+    <div class="row">
+      {% assign all_reviews = site.data.reviews | where: "featured", true %}
+      {% for review in all_reviews %}
+        <div class="col-12 col-md-4 workout">
+          <div class="stars">★★★★★</div>
+          <h3>{{ review.title }}</h2>
+          <p>
+            {{ review.content }}
+          </p>
+          <p class="from">
+            From {{ review.name }}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="moreReviews">
+    Don't take our word for it, read more reviews <a href="/reviews/">on our site</a> or
+    <a href="https://apps.apple.com/app/shadow-boxing-workout/id1510911574">directly on Apple's store</a>.
+  </div>
+</div>
+<div class="container screenshots">
+  <div class="row">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenCustom.png" alt='Customize your boxing experience' style="width: 80%" />
+    </div>
+    <div class="col">
+      <h2>Make it your own</h2>
+      <p>
+        Use of the powerful personnalisation features of the app. Everything can be adjusted
+        to match your boxing and fitness levels - from the type of exercises to their intensity.
+        <br>
+        <br>
+        You can also create your own exercices with the Combo Creator, define your prefered calisthenics routines, set warmup
+        periods and more.
+      </p>
+    </div>
+  </div>
+  <div class="row divider">
+    <div class="col">
+      <h2>Set your objectives, reach your goals</h2>
+      <p>
+      Define your objectives, keep up your workout streak, follow recommendations and reach your boxing goals!
+      <br />
+      <br />
+      Follow your progress using Apple Health and our boxing-specific insights.
+      </p>
+    </div>
+
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenProgress.png" alt='Boxing progress' style="width: 220px;"/>
+    </div>
+  </div>
+</div>
+
+{% include awards.html %}
+
+<div class="container faq">
+  <h2>Frequently Asked Questions</h2>
+
+  {% for qa in site.data.faq %}
+    <div class="question">
+      <h3>{{ qa.q }}</h2>
+      <p>
+        {{ qa.a }}
+      </p>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="screenshots screenshotsDark">
+ <div class="container">
+  <div class="row">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenTimer.png" alt='Boxing interval timer' style="width: 250px;" />
+    </div>
+    <div class="col">
+      <h2>Free boxing round timer</h2>
+      <p>
+      If you want a simple yet effective boxing timer for free and without ads, we've got you covered on
+      iPhone, iPad and Apple Watch.
+        Set the number of rounds, their duration, the rest period and start!
+        <br />
+        <br />
+        You can also use pre-made
+        timers using rules from boxing, MMA, Muay Thai and more.
+      </p>
+    </div>
+  </div>
+
+  <div class="row darkDivider">
+    <div class="col">
+      <h2>Punching bag workouts</h2>
+      <p>
+        While all exercises work without gear, some are optimized for the heavy bag.
+        Alternate fast punches with power strikes, improve your cardio and make using the bag much more fun!
+      </p>
+    </div>
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenBag.png" alt='Boxing app on the punching bag' style="width: 80%;" />
+    </div>
+  </div>
+
+  <div class="row darkDivider">
+    <div class="col screenWrapper">
+      <img src="/assets/v2/webscreenMirror.png" alt='Use the boxing app like a mirror' style="width: 240px;" />
+    </div>
+    <div class="col">
+      <h2>Mirror mode</h2>
+      <p>
+        Use mirror mode to check if your form is correct. You can also record yourself directly in the app to review the footage later.
+      </p>
+    </div>
+
+  </div>
+
+ </div>
+</div>
+
+<div class="container blog">
+ <h2>From the Blog</h2>
+
+ <div class="row">
+   {% for post in site.posts %}
+     {% if post.featured %}
+       <div class="col-md-4">
+         <div class= "blogArticle">
+           <h4>
+             <a href="{{ BASE_PATH }}{{ post.url }}">
+              {{ post.title }}
+             </a>
+           </h4>
+           <p>{{ post.description }}</p>
+         </div>
+       </div>
+     {% endif %}
+   {% endfor %}
+
+ <div class="col-md-4">
+   <div class="blogArticle">
+     <p>
+       Discover more about shadow boxing and this mobile app by browsing all the available categories:
+       {% for tag in site.data.tag_details %}
+         <a href="/articles/{{ tag[1].url }}/" class="read_more">{{ tag[1].title }}</a>{% unless forloop.last %},{% endunless %}
+       {% endfor %}
+       .
+     </p>
+   </div>
+ </div>
+</div>
+

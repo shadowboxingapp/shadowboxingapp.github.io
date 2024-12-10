@@ -1,5 +1,5 @@
-- title: "Great app for boxers who want to train anytime, anyplace"
-  content: "I use this app whenever i can, wherever i can, I’m not one to usually review apps but this app is a big help for someone who wants to train while also traveling constantly."
+- title: "Great app for boxers..."
+  content: "...who want to train anytime, anyplace! I’m not one to usually review apps but this app is a big help for someone who wants to train while also traveling constantly."
   name: "Lionstrike1111"
   featured: true
 
@@ -43,29 +43,30 @@
   name: "bluecrayon123"
   featured: true
 
-- title: "Simply the best boxing-workout app."
-  content: "Found out about this app on reddit, and i can’t simply have enough. It’s easy to use, highly customizable, and clever in it’s workout creation. I did not have to sub to the app to use it fully but decided to do it anyway to support the creator best i could. They listen to feedback and improve very fast, if i could give more than 5 star i definetly would, my striking skills have improved a ton since working out with the app. If you’re not using it in these dark times well.. you’re missing out"
-  name: "Sa3vus"
-  featured: false
-
 - title: Brilliant
-  content: Amazing app. Only new to boxing but using this app everyday has helped a ton. Burning workouts! Plus the bonus of learning defence (slipping, parry, blocking, rolls)
+  content: Amazing app. Only new to boxing but using this app everyday has helped a ton. Burning workouts! Plus the bonus of learning defense (slipping, parry, blocking, rolls)
   name: JDAMOTOX
   featured: false
+  learning: true
 
 - title: Amazing
   content: This app really pushes me and helped me a lot!! Would recommend
   name: Poised Goru
   featured: false
 
-- title: 5 stars well deserved
-  content: I’ve practice thai boxing for now 7 years. I had to move away from the gym due to the lock down. This app is amazing to keep some of the discipline I had at the gym. It is so customisable that one could be addicted to. Developers, keep doing what you do 🔥 It would be nice to have it compatible with Spotify or to include Muay thai music, eye of the tigger or some free content with the same mood 🥊
-  name: Soffroz
-  featured: false
-
 - title: "Great!"
   content: "Great app, very motivating. A real sport coach!"
   name: "Sam21709698"
+  featured: false
+
+- title: "Simply the best boxing-workout app."
+  content: "Found out about this app on reddit, and i can’t simply have enough. It’s easy to use, highly customizable, and clever in it’s workout creation. I did not have to sub to the app to use it fully but decided to do it anyway to support the creator best i could. They listen to feedback and improve very fast, if i could give more than 5 star i definetly would, my striking skills have improved a ton since working out with the app. If you’re not using it in these dark times well.. you’re missing out"
+  name: "Sa3vus"
+  featured: false
+
+- title: 5 stars well deserved
+  content: I’ve practice thai boxing for now 7 years. I had to move away from the gym due to the lock down. This app is amazing to keep some of the discipline I had at the gym. It is so customisable that one could be addicted to. Developers, keep doing what you do 🔥 It would be nice to have it compatible with Spotify or to include Muay thai music, eye of the tigger or some free content with the same mood 🥊
+  name: Soffroz
   featured: false
 
 - title: My new workout routine
@@ -77,6 +78,7 @@
   content: Amazing app! I never reviewed an app before, but this by far is the best for anybody who wants to learn or polish their boxing skills. 11/10, would recommend.
   name: hps5314
   featured: true
+  learning: true
 
 - title: Love this app
   content: Been using it now for almost a year and it’s been very good for me if you want to get fit doing something fun this is the one
@@ -97,3 +99,8 @@
   content: Love using this app when I can’t make it to the gym. I really appreciate that you can listen to your own music while training
   name: Ant_S13
   featured: false
+
+- title: Great even for a complete beginner
+  content: I am learning how to box thanks to this app. I’m a beginner and the instructions are clear, the videos are informative and I am building fitness as I learn. Great app!
+  name: Selina
+  learning: true

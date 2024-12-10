@@ -1,26 +1,14 @@
 ---
-layout: default
+layout: v2
 ---
 
-<div class="post dark">
-  <div class="container-fluid post_header">
+<div class="blogTitle">
+  <div class="container">
       <h1>{{ page.title }}</h1>
   </div>
-  <div class="container dark">
-    <div class="row">
-      <div class="col-md-2"></div>
-      <div class="col-md-8">
-        {{ content }}
-      </div>
-      <div class="col-md-2"></div>
-    </div>
+</div>
+<div class="container">
+  <div class="singlePost smallerContainer">
+      {{ content }}
   </div>
 </div>
-
-{% if page.includeScreenshots == "yes" %}
-  <div class="container-fluid dark">
-    {% include screenshots1.html %}
-    {% include getapp.html %}
-  </div>
-{% endif %}
-
