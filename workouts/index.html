@@ -46,14 +46,15 @@ imageCode: "custom_workout"
     <p class="journeyDetails">
       The app also features plans to practice a particular aspect of boxing.
       They are a mix of videos and workouts all around a single theme.
+      Here are a few of the many boxing plans available in the app:
     </p>
 
     <div class="row">
       {% for j in site.data.journeys %}
-        <div class= "col-2">
+        <div class= "col-md-2">
           <img src="/assets/v2/journeys/journey_{{j.code}}.png" />
         </div>
-        <div class= "col-4" style="padding-bottom: 64px;">
+        <div class= "col-md-4" style="padding-bottom: 64px;">
           <h3>{{ j.title | capitalize }}</h3>
           <p>{{ j.description }}</p>
         </div>

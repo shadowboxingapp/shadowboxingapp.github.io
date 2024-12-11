@@ -429,8 +429,16 @@ li {
   padding-bottom: 24px;
 }
 
+.individualPressReview {
+  padding: 24px;
+  border: 1px solid #eee;
+  background-color: #fff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin-top: 32px;
+}
 .pressReviews .from {
   color: #666;
+  padding-bottom: 0px;
 }
 
 .best_apps .app_icon{
@@ -468,7 +476,7 @@ li {
 }
 
 .workouts {
-  padding: 64px 0px 0px 0px;
+  padding: 64px 32px 0px 32px;
   font-size: 18px;
 }
 
@@ -482,15 +490,18 @@ li {
   color: #fff;
   padding: 64px 0px;
   font-size: 18px;
+  margin-top: 32px;
 }
 
 .journeys img {
   width: 100%;
+  padding-top: 12px;
 }
 
 .journeys h3 {
   font-weight: 700;
   padding-bottom: 12px;
+  padding-top: 12px;
 }
 
 .journeys p {
@@ -531,4 +542,12 @@ li {
   padding: 64px 0px;
   margin-bottom: -31px;
   margin-top: 64px;
+}
+
+.youtubers img{
+  margin-bottom: 32px;
+}
+
+.youtubers {
+  padding-top: 64px;
 }

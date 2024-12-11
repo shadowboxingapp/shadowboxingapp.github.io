@@ -55,13 +55,15 @@ imageCode: "custom_workout"
     <div class="row">
       {% for review in site.data.pro_reviews %}
         <div class="col-12 col-md-4">
-          <h3>{{ review.title }}</h2>
-          <p>
-            {{ review.content }}
-          </p>
-          <p class="from">
-            <a href="{{review.link}}">{{ review.name }}</a>
-          </p>
+          <div class="individualPressReview">
+            <h3>{{ review.title }}</h2>
+            <p>
+              "{{ review.content }}"
+            </p>
+            <p class="from">
+              - <a href="{{review.link}}">{{ review.name }}</a>
+            </p>
+          </div>
         </div>
       {% endfor %}
     </div>
@@ -69,10 +71,19 @@ imageCode: "custom_workout"
 
 {% include awards.html %}
 
-<div class="container pressReviews">
+<div class="container youtubers">
   <h2>From Youtubers</h2>
 
-  <a href='https://youtu.be/qcadlxFJm4s?si=4J9PxPl-rtRoOJwC&t=377' target="_blank">
-    <img src="/assets/v2/meni.png" style="width: 70%;" alt="Review from Youtuber" />
-  </a>
+  <div class="row">
+    <div class="col-md-6">
+      <a href='https://youtu.be/qcadlxFJm4s?si=4J9PxPl-rtRoOJwC&t=377' target="_blank">
+        <img src="/assets/v2/meni.png" style="width: 100%;" alt="Review from Youtuber" />
+      </a>
+    </div>
+    <div class="col-md-6">
+      <a href='https://youtu.be/pXDWIcBAGNQ?si=gAtQ3_IhnWFNuvgz&t=182' target="_blank">
+        <img src="/assets/v2/fightMinds.png" style="width: 100%;" alt="Review from Youtuber" />
+      </a>
+    </div>
+  </div>
 </div>
