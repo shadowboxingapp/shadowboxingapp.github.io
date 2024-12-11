@@ -126,6 +126,7 @@ h2 {
   color: #666;
   font-size: 20px;
   line-height: 32px;
+  padding: 32px 0px;
 }
 
 .screenshots .row {
@@ -149,7 +150,7 @@ h2 {
 .reviews {
   background-color: #18191A;
   color: #fff;
-  padding-top: 32px;
+  padding-top: 64px;
   text-align: center;
   margin-top: 32px;
 }
@@ -222,10 +223,11 @@ h2 {
 
 .screenWrapper {
   text-align: center;
+  padding: 32px 0px;
 }
 
 .faq {
-  padding: 64px 0px;
+  padding: 64px 16px;
   line-height: 24px;
 }
 
