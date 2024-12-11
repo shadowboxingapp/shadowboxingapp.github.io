@@ -309,3 +309,89 @@ precision:
     - Lack of updates
     - Low amount of workouts
     - Outdated design
+
+sbw_2025:
+  title: "The Shadow Boxing App"
+  description: "The Shadow Boxing App has been a go-to for years, offering top-notch boxing workouts. It guides you through drills, calls out combinations, and enhances your technique, cardio, and more. It also features full tutorial videos and beginner-friendly workouts. Boxing journeys are also a nice addition to follow a clear training plan."
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  pros:
+    - Extensive variety of boxing exercises and workouts
+    - Comprehensive tutorials to master boxing fundamentals
+    - Specifically tailored for boxing enthusiasts
+    - Dedicated routines designed for the punching bag
+    - Generous free features, including a versatile timer on phone and Watch
+  cons:
+    - No kickboxing features
+
+fightcamp_2025:
+  link: "https://apps.apple.com/us/app/fightcamp-boxing-workouts/id1328562100"
+  title: "Fightcamp"
+  description: "Fightcamp combines engaging video workouts with punch-tracking hardware to monitor your activity. While the tracker can be exciting when it functions well, the app’s high-quality videos make it ideal for home workouts in front of your TV."
+  pros:
+    - High-quality instructional videos
+    - Fun to see some boxing personnalities use the app
+    - Seamless experience when used with a TV
+    - Punch tracking adds an interactive and fun element
+  cons:
+    - The required punch tracker is quite expensive
+    - This is clearly a premium option so might not be accessible to most
+
+kickboxing_2025:
+  link: "https://apps.apple.com/us/app/kickboxing-fitness-training/id1412506875"
+  title: "Kickboxing Fitness Training"
+  description: "While primarily focused on kickboxing, this app provides an interesting option for those looking to diversify their training with kickboxing techniques and some boxing-inspired workouts."
+  pros:
+    - Structured workout plans
+    - Includes a selection of boxing workouts
+  cons:
+    - Not specifically designed for boxing-focused training
+    - 3D visuals can be hit or miss
+
+boxx_2025:
+  link: https://boxxldn.com/pages/our-app
+  title: Boxx
+  description: "Boxx is a great choice for those aiming to improve overall fitness and cardio. Although it includes some boxing routines, the focus leans more towards boxercise and general fitness rather than technical boxing skills."
+  pros:
+    - High-quality video content
+    - Wide range of fitness exercises, including Pilates and more
+    - Visually appealing and user-friendly app design
+  cons:
+    - Boxing routines are more cardio-focused than technical
+    - Emphasis on general fitness rather than boxing techniques
+
+coach_2025:
+  link: https://apps.apple.com/us/app/boxing-coach-workout-timer/id1308556493
+  title: Boxing Coach Workout Timer
+  description: "This app helps you easily organize your training sessions and monitor your progress, offering a simple yet effective boxing timer and tools for scheduling workouts."
+  pros:
+    - Intuitive and easy-to-use interface
+    - Clean, well-designed boxing timer
+    - Includes dark mode for comfortable use
+  cons:
+    - Lacks tutorial videos for guidance
+    - Limited selection of pre-made workouts
+
+precision_2025:
+  link: https://apps.apple.com/us/app/precision-boxing-coach-lite/id715053176
+  title: Precision Boxing Coach
+  description: "Precision Boxing Coach offers a virtual trainer that calls out punch combinations to help refine your skills. While effective and customizable, the app’s design feels outdated and has not seen significant updates recently."
+  pros:
+    - Offers well-structured technical combinations
+    - Affordable price point
+  cons:
+    - Minimal updates over time
+    - Limited number of available workouts
+    - Outdated user interface design
+
+punchlab_2025:
+  link: https://apps.apple.com/us/app/punchlab-home-boxing-workouts/id1402134277
+  title: Punchlab
+  description: Many boxing workouts you can complete at home with friendly coaches.
+  pros:
+    - Coaches with personnality
+    - Clean and colorful design
+    - Casts to TV
+  cons:
+    - Sometimes not technical enough for more experienced boxers
+    - Trackers to buy to get the full experience
+    - Punch trackers are not always reporting the correct values

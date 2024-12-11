@@ -6,7 +6,6 @@ layout: post
 category: the best boxing apps
 imageLink: top_boxing.png
 tag: apps
-featured: yes
 
 
 ---
