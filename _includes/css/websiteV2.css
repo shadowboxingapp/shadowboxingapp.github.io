@@ -551,3 +551,27 @@ li {
 .youtubers {
   padding-top: 64px;
 }
+
+.community {
+  background-color: #18191A;
+  color: #fff;
+  padding: 64px 0px;
+}
+.community p {
+  color: #aaa;
+}
+
+.previewVideos img{
+  width: 80%;
+  margin: 24px;
+  border-radius: 15px;
+}
+
+.lastGetApp {
+  padding-top: 64px;
+}
+
+.lastGetApp p {
+  color: #666;
+  padding: 12px 0px;
+}
