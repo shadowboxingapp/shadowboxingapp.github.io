@@ -223,25 +223,24 @@ imageCode: "freestyle"
      {% endif %}
    {% endfor %}
 
- <div class="col-md-4">
-   <div class="blogArticle">
-     <p>
-       Discover more about shadow boxing and this mobile app by browsing all the available categories:
-       {% for tag in site.data.tag_details %}
-         <a href="/articles/{{ tag[1].url }}/" class="read_more">{{ tag[1].title }}</a>{% unless forloop.last %},{% endunless %}
-       {% endfor %}
-       .
-     </p>
+   <div class="col-md-4">
+     <div class="blogArticle">
+       <p>
+         Discover more about shadow boxing and this mobile app by browsing all the available categories:
+         {% for tag in site.data.tag_details %}
+           <a href="/articles/{{ tag[1].url }}/" class="read_more">{{ tag[1].title }}</a>{% unless forloop.last %},{% endunless %}
+         {% endfor %}
+         .
+       </p>
+     </div>
    </div>
- </div>
+  </div>
 </div>
-</div>
-
 
 <div class="community">
   <div class="container">
-    <h2>Community</h2>
-    <p> Check out those workouts from our awesome community members!</p>
+    <h2>Dicover the community</h2>
+    <p> Check out those in-app workouts videos from our awesome community members!</p>
 
     <div class="previewVideos row">
       <div class="col-md-3">

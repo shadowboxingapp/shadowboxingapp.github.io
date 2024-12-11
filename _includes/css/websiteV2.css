@@ -247,7 +247,7 @@ h4 a {
 }
 
 .blog {
-  padding-top: 64px;
+  padding: 64px 0px;
 }
 .blogArticle {
   padding: 24px;
