@@ -575,3 +575,11 @@ li {
   color: #666;
   padding: 12px 0px;
 }
+
+blockquote {
+  background-color: #fff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 12px;
+  border: 1px solid #eee;
+  margin: 12px;
+}
