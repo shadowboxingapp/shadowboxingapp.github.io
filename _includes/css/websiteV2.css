@@ -247,7 +247,7 @@ h4 a {
 }
 
 .blog {
-  padding: 64px 0px;
+  padding: 64px 16px;
 }
 .blogArticle {
   padding: 24px;
@@ -561,10 +561,14 @@ li {
   color: #aaa;
 }
 
+.previewVideos {
+  text-align: center;
+}
 .previewVideos img{
   width: 80%;
   margin: 24px;
   border-radius: 15px;
+  max-width: 180px;
 }
 
 .lastGetApp {
