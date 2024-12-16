@@ -1,6 +1,6 @@
 ---
 title: "How Boxing Apps Help You Crush Your Goals"
-imageCode: "bag_cardio"
+imageCode: "crunches"
 description: "Discover how boxing apps boost your fitness goals with personalized plans, real-time feedback, and gamified challenges. Train anytime, anywhere, and crush your progress!"
 layout: post
 tag: learnBoxing
