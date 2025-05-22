@@ -376,6 +376,14 @@ li {
   padding-top: 32px;
 }
 
+.singlePost h4 {
+  display: block;
+  font-weight: 600;
+  font-size: 20px;
+  padding-top: 24px;
+  padding-bottom: 16px;
+}
+
 .singlePost a {
   text-decoration: underline;
 }
