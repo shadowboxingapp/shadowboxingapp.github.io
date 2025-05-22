@@ -4,7 +4,7 @@ imageCode: "repeat"
 description: "Discover the power of reactive shadow boxing—a dynamic training method where you respond to real-time cues to sharpen reflexes, boost fight IQ, and simulate real in-ring pressure."
 layout: post
 tag: learnBoxing
-
+featured: yes
 
 ---
 

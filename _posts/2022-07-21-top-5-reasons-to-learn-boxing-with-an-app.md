@@ -7,7 +7,6 @@ category: boxing with a mobile app
 contextualAd: "Try out this free iOS app that provides punching bag and shadow boxing exercises. Follow the app's instructions as it calls out punches!"
 includeScreenshots: "no"
 tag: apps
-featured: yes
 ---
 
 Boxing is quite trendy right now, so many people are picking up the sport and start training. Some of those people are using apps to practice at home or even [to learn how to box](/learning-to-box-with-an-app/), so why is that?
