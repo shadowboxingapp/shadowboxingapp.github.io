@@ -1,7 +1,7 @@
 ---
 title: "The Power of a Virtual Boxing Coach"
 imageCode: "pad_work"
-description: ""
+description: "Having a virtual boxing coach, meaning an app, in your corner can be very helpful for many reasons."
 layout: post
 tag: apps
 ---
