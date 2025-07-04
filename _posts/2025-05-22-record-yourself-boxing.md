@@ -4,7 +4,6 @@ imageCode: "bag_cardio"
 description: "Recording your shadow boxing sessions is one of the fastest ways to spot mistakes, track progress, and improve your technique."
 layout: post
 tag: learnBoxing
-featured: yes
 
 
 ---

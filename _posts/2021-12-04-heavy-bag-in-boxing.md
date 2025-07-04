@@ -7,7 +7,6 @@ includeScreenshots: "yes"
 layout: post
 category: using a punching bag
 tag: bag
-featured: yes
 
 ---
 
