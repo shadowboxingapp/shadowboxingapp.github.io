@@ -1,4 +1,8 @@
 <div class="preview">
-  <img src="/assets/presets/fresh/{{page.imageCode}}-large.png" alt='Boxing blog article' />
+  {% if page.imageCode != nil %}
+    <img src="/assets/presets/fresh/{{page.imageCode}}-large.png" alt='Boxing blog article' />
+  {% else %}
+    <img src="/assets/p/p-{{page.p}}-large.jpg" alt='Boxing app blog article' />
+  {% endif %}
 </div>
 
