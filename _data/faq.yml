@@ -20,3 +20,9 @@
 
 - q: Are there ads in the app?
   a: No, we want to keep the experience ad-free.
+
+- q: Does the app work offline?
+  a: All workouts function with no internet connection!
+
+- q: Does it integrate with Apple Health?
+  a: Of course! The app has advanced stats directly available, but if you prefer Apple Health this data is also sent there.
