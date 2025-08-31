@@ -27,16 +27,16 @@ It’s like bringing your boxing coach on the plane with you.
 
 ## Train Anywhere in the World
 
-Whether you’re backpacking through Europe, on a business trip in Asia, or relaxing at a beach resort, you can keep your training consistent. The app makes it simple to [learn boxing]() on the go or stick to your regular program without interruption.
+Whether you’re backpacking through Europe, on a business trip in Asia, or relaxing at a beach resort, you can keep your training consistent. The app makes it simple to [learn boxing](/learn-boxing/) on the go or stick to your regular program without interruption.
 
 Even if you’re in a country where data is expensive, or you’ve switched your phone to airplane mode, your workouts are still right there waiting for you.
 
-Travelers consistently mention in their [reviews]() how much they value the offline feature. No stress about WiFi connections, no extra roaming charges—just pure focus on training.
+Travelers consistently mention in their [reviews](/reviews/) how much they value the offline feature. No stress about WiFi connections, no extra roaming charges—just pure focus on training.
 
 ## Your Travel-Friendly Coach
 
 Fitness shouldn’t stop just because you’re on the road. The Shadow Boxing App ensures you can keep up your training routine without internet, no matter where your travels take you.
 
-Ready to stay sharp on the move? Download the [Shadow Boxing App]() and pack your boxing coach in your pocket.
+Ready to stay sharp on the move? Download the [Shadow Boxing App](/) and pack your boxing coach in your pocket.
 
 {% include getapp.html %}
