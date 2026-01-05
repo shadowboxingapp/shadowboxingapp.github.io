@@ -1,6 +1,6 @@
 ---
 title: "Top Jumprope Apps of 2026"
-description: ""
+description: "What are the best app for jumping rope this year? Discover the list of our favorites!"
 p: "jumpropeApps2026"
 layout: post
 tag: apps
