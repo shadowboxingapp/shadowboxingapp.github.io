@@ -456,8 +456,9 @@ li {
 }
 
 .app_screenshots {
-  width: 80%;
+  width: 90%;
   margin: 24px auto 64px auto;
+  border-radius: 10px;
 }
 
 .smallerContainer {

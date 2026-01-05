@@ -4,7 +4,6 @@ imageCode: "learnPad"
 description: "Here is our top list of boxing apps for iOS to practice boxing this year."
 layout: post
 tag: apps
-featured: yes
 ---
 
 Starting boxing with an app in 2025 is the perfect way to embrace the sport's timeless benefits while leveraging cutting-edge technology. Whether you're aiming to boost your fitness, relieve stress, or master new skills, boxing apps offer tailored workouts and the convenience of training anytime, anywhere. 

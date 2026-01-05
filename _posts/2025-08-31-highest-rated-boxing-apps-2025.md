@@ -139,3 +139,5 @@ Note that Android reviews were marked as 4.0 but didn't show any actual written 
 | [Shadow Boxing Workout Partner](https://play.google.com/store/apps/details?id=shadowboxing.app&hl=en) | 4.3    | Calls out combos for shadowboxing, keeping workouts engaging and unpredictable. |
 | PunchLab                                                     | 4.3    | Boxing app with guided workouts, punch tracking, and plans; hardware required for full use. |
 | Boxx+                                                        | 4.2    | Fitness app with boxing, cardio, yoga, and strength workouts; offers punch tracking add-ons. |
+
+If you're reading this in 2026 and want a review based on more qualitative metrics, you probably want to check out our article on [the best boxing apps of 2026](/best-boxing-apps-2026/) instead!

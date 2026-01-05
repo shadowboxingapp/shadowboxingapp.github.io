@@ -78,3 +78,5 @@ With the new jump rope exercises now built into [The Shadow Boxing App](/), you 
 Jump in, pick a rope workout, and feel the difference from your first session.
 
 {% include getapp.html %}
+
+If you're looking for more generic jump rope apps, you can check our [best jump rope apps in 2026](/best-jumprope-apps-2026). 

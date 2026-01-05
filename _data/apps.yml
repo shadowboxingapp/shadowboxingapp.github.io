@@ -395,3 +395,248 @@ punchlab_2025:
     - Sometimes not technical enough for more experienced boxers
     - Trackers to buy to get the full experience
     - Punch trackers are not always reporting the correct values
+
+
+punchlab_2026:
+  link: https://apps.apple.com/us/app/punchlab-home-boxing-workouts/id1402134277
+  title: Punchlab
+  description: |
+    Friendly coaches and audio workouts for all levels.
+    However, there has visibly been no significant updates for the past year, with only bug fixes
+    and performances improvements according to the app's history.
+  pros:
+    - Focus on the coaches' personnalities
+    - Colorful design
+    - Some fun workouts of varying difficulties
+  cons:
+    - Sometimes not technical enough for more experienced boxers
+    - Need to buy hardware to get the full experience
+    - Punch trackers can be inacurate according to reviews
+    - Lack of significant updates for the past year
+    - Free content has seemingly been removed
+
+precision_2026:
+  link: https://apps.apple.com/us/app/precision-boxing-coach-lite/id715053176
+  title: Precision Boxing Coach
+  description: |
+    By now this is an old school app that many people used in the past, but it still does the trick by calling out effective combos. However it starts to show its age.
+  pros:
+    - Well designed combinations
+    - Very affordable
+  cons:
+    - The app is basically unmaintained, with no updates since 2023
+    - Low number of available workouts
+    - Very dated design
+
+coach_2026:
+  link: https://apps.apple.com/us/app/boxing-coach-workout-timer/id1308556493
+  title: Boxing Coach Workout Timer
+  description: Simple yet effective workout timer made for boxing.
+  pros:
+    - Intuitive and easy-to-use interface
+    - Clean boxing timer with dark mode
+  cons:
+    - Not many preset workouts
+    - No video tutorials or content to learn boxing
+
+
+boxx_2026:
+  link: https://boxxldn.com/pages/our-app
+  title: Boxx
+  description: Boxx is ideal for improving fitness and cardio, with boxing-inspired sessions that focus more on boxercise than on technical boxing training.
+  pros:
+    - High-quality video sessions
+    - Broad selection of workouts, including Pilates and other disciplines
+    - Clean, attractive, and intuitive app interface
+  cons:
+    - Boxing workouts focus more on cardio than on skill development
+    - Greater emphasis on overall fitness than on boxing-specific techniques
+
+kickboxing_2026:
+  link: "https://apps.apple.com/us/app/kickboxing-fitness-training/id1412506875"
+  title: "Kickboxing Fitness Training"
+  description: |
+    Although its main focus is kickboxing, the app offers a solid alternative for users who
+    want to broaden their training with kickboxing techniques alongside some boxing-inspired sessions.
+  pros:
+    - Well-structured training programs
+    - Offers a limited range of boxing workouts
+  cons:
+    - Not built with pure boxing training in mind
+    - 3D visuals may feel inconsistent depending on the user
+
+crossrope_2026:
+  title: "Crossrope"
+  link: "https://apps.apple.com/app/crossrope/id996680141"
+  description: |
+    This year we wanted to feature a jump rope app, as it is a great addition to any boxing workout.
+    While [some boxing apps](/) already feature jump rope training as part of their boxing programs, crossrope is entirely
+    focused on jump rope and has interesting features like the jump count tracker.
+  pros:
+    - Lots of different trainings
+    - Very pleasant and simple design
+    - Videos to accompany you during your workouts
+  cons:
+    - Not focused on boxing
+    - Needs specialised and expensive hardware to get the full experience
+
+fightcamp_2026:
+  link: "https://apps.apple.com/us/app/fightcamp-boxing-workouts/id1328562100"
+  title: "Fightcamp"
+  description: |
+    Fightcamp combines video-based workouts with punch-tracking hardware to monitor training activity.
+    The tracker can add some engagement when it works reliably, and the app’s video content
+    is well adapted for home workouts on a TV.
+  pros:
+    - Well-produced instructional video sessions
+    - Features appearances from recognizable boxing personalities
+    - Works well in a living-room, TV-based setup
+    - Good quality punching bags
+
+  cons:
+    - The punch-tracking hardware can get expensive
+    - Positioned as a premium product, which may limit accessibility
+    - Punch tracking reliability can vary depending on setup and conditions
+    - Limited flexibility if you prefer training without external equipment
+    - Not many workouts focused on footwork
+
+
+sbw_2026:
+  title: "The Shadow Boxing App"
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  description: |
+    Not only this was the [highest-rated boxing app of 2025](/highest-rated-boxing-apps-2025/), this is the best app
+    to get into boxing with an app.
+
+    The Shadow Boxing App has been a long-standing option for boxing-focused training, offering a wide range of structured workouts.
+
+    The app guides users through drills, calls out punch combinations, and supports improvements in technique, conditioning, and cardio.
+    It also includes full tutorial videos, beginner-friendly sessions, and structured boxing journeys to follow a clear training path.
+  pros:
+    - Designed specifically for boxing training
+    - Wide variety of boxing-specific exercises and workouts
+    - In-depth tutorials covering boxing fundamentals
+    - Dedicated routines for punching bag workouts
+    - New programs using jump rope for boxing were added in 2025
+    - All tutorial videos and many workouts are free
+    - Active development, with new features every weeks
+    - Bodyweight and cardio exercises can be added for a more complete workout
+  cons:
+    - Kickboxing feature is still in beta
+
+timerplus_2026:
+  title: "Timer Plus"
+  link: "https://apps.apple.com/app/timer-plus-workouts-timer/id1279716547"
+  description: |
+    Timer Plus has been a very reliable and effective timer for boxing. Its simple an highly visible design makes it an essential
+    for any boxing gym.
+  pros:
+    - Huge display you can see from afar
+    - Compatible with Tabata & HIIT
+  cons:
+    - Small bug where the timer stops for no reason
+    - No workouts, this is really just a timer
+
+heavybag_pro_2026:
+  title: "Heavybag Pro"
+  description: |
+    Designed specifically for heavy bag workouts, the app guides users by calling out punches and combinations.
+  link: "https://apps.apple.com/app/apple-store/id1523407500"
+  pros:
+    - Effective combos for intense workouts
+    - Basic 3D videos to showcase the movements
+    - Simple yet effective free round timer
+    - Warmups, strength training and cooldowns are all available
+  cons:
+    - 3D videos do not always showcase proper technique
+    - Only combos and not many other boxing exercises like footwork
+    - Design feels outdated
+    - No solutions to learn boxing with the app
+
+jumprope_crossrope:
+  title: "Jump Rope Training | Crossrope"
+  link: "https://apps.apple.com/us/app/jump-rope-training-crossrope/id996680141"
+  description: "A guided jump rope + bodyweight training app with a large workout library and regular challenges; it also supports jump counting when paired with Crossrope’s connected handles (AMP)."
+  pros:
+    - "Large library of guided jump rope workouts"
+    - "Mixes jump rope with strength/bodyweight sessions"
+    - "Works with Crossrope AMP for jump counting and targets"
+  cons:
+    - "Some features are tied to Crossrope hardware/ecosystem"
+    - "May feel less useful if you only want a simple counter"
+
+jumprope_yaoyao:
+  title: "YaoYao - Jump Rope"
+  link: "https://apps.apple.com/us/app/yaoyao-jump-rope/id1179393901"
+  description: "A jump rope tracking app built around smartwatch motion sensors, focused on counting jumps and logging sessions without needing a dedicated jump rope device."
+  pros:
+    - "Jump counting and workout tracking on Apple Watch"
+    - "Designed specifically for jump rope sessions"
+    - "Good fit if you want tracking without buying a smart rope"
+  cons:
+    - "Best experience depends on wearing compatible devices"
+    - "Primarily tracking-focused (less structured coaching than workout-first apps)"
+
+jumprope_smartrope:
+  title: "SmartRope"
+  link: "https://apps.apple.com/us/app/smartrope/id1434035222"
+  description: "A companion app for Tangram Factory’s Smart Rope products, built around real-time tracking and workout stats when connected to compatible SmartRope models."
+  pros:
+    - "Real-time stats and session tracking when connected"
+    - "Designed to work with multiple SmartRope models"
+    - "Good option if you already own (or plan to buy) a SmartRope"
+  cons:
+    - "Requires compatible SmartRope hardware for full functionality"
+    - "Not compatible with the older Smart Gym app (migration can be annoying)"
+
+jumprope_jumpropefit:
+  title: "Jump Rope Fit"
+  link: "https://apps.apple.com/us/app/jump-rope-fit/id1489454593"
+  description: "An Apple Watch-focused jump rope tracker that counts jumps and records common workout metrics directly from your wrist."
+  pros:
+    - "Apple Watch-centric tracking (jumps, time, workout stats)"
+    - "Uses an automated detection approach for jump counting"
+    - "Simple setup for watch-based workouts"
+  cons:
+    - "Primarily useful if you train with an Apple Watch"
+    - "More of a tracker than a coached workout program"
+
+jumprope_justjump:
+  title: "JustJump — Jump Rope Trainer"
+  link: "https://apps.apple.com/us/app/justjump-jump-rope-trainer/id1164589365"
+  description: "A jump rope training app centered on daily workouts plus a large catalog of skills and combos to build coordination and variety."
+  pros:
+    - "Daily workout structure to keep training consistent"
+    - "Large catalog of jump rope skills and combos"
+    - "More skill-oriented than simple timer/counter apps"
+  cons:
+    - "May be overwhelming if you only want basic intervals"
+    - "Skill libraries can vary in usefulness depending on your level"
+
+jumprope_elitejumps:
+  title: "Elite Jumps"
+  link: "https://apps.apple.com/us/app/elite-jumps/id6479618734"
+  description: "A jump rope skill-development app with structured progressions, setup guidance, and community/coaching elements (often built around their training ecosystem)."
+  pros:
+    - "Progression-based learning for beginner-to-advanced skills"
+    - "Includes setup/sizing guidance to get started correctly"
+    - "Community and coaching components"
+  cons:
+    - "Some features are tied to subscriptions"
+    - "May feel brand/ecosystem-driven depending on what you want"
+
+jumprope_sbw:
+  title: "The Shadow Boxing App"
+  link: "https://apps.apple.com/app/shadow-boxing-workout/id1510911574"
+  description: |
+    Surprisingly, this boxing-focused training app includes structured jump rope routines as part of its conditioning and footwork training.
+    This makes for a complete and fun alternative to other jump rope apps!
+  pros:
+    - "Includes dedicated jump rope programs tailored for boxing"
+    - "Combines jump rope with footwork, conditioning, and boxing drills"
+    - "Guided workouts with clear audio cues and structure"
+    - "Suitable for beginners learning jump rope basics for boxing"
+    - "Designed as part of a broader boxing training system"
+  cons:
+    - "Not a standalone jump rope app"
+    - "Jump rope content is integrated within boxing workouts rather than isolated"
