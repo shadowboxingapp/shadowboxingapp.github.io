@@ -8,7 +8,7 @@ featured: yes
 
 ---
 
-Shadow boxing is one of the most iconic and essential elements in the world of boxing. You’ve seen it before—perhaps a fighter moving rhythmically in front of a mirror, throwing punches at the air, their feet gliding across the floor with precision and poise. But don’t be fooled by its simplicity. Shadow boxing is not just a warm-up; it’s a technical, mental, and physical tool that shapes champions.
+Shadow boxing is one of the most iconic and essential elements in the world of boxing. You’ve seen it before! Perhaps a fighter moving rhythmically in front of a mirror, throwing punches at the air, their feet gliding across the floor with precision and poise. But don’t be fooled by its simplicity. Shadow boxing is not just a warm-up; it’s a technical, mental, and physical tool that shapes champions.
 
 {% include preview.html %}
 
@@ -20,7 +20,7 @@ But this isn’t just random movement. Good shadow boxing mimics real fight scen
 
 ## Why Shadow Boxing Matters
 
-Here’s why every serious boxer—and combat athlete in general—includes shadow boxing in their routine:
+Here’s why every serious boxer, and combat athlete in general, includes shadow boxing in their routine:
 
 ### 1. **Technique Refinement**
 
