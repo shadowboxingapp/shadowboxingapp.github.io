@@ -5,7 +5,6 @@ description: "Here’s how you can level up your boxing game by creating and mas
 layout: post
 tag: features
 contextualAd: "Try out the app now for free. You can create your own combos or use existing boxing workouts for all levels, from beginners to experts."
-featured: yes
 
 ---
 

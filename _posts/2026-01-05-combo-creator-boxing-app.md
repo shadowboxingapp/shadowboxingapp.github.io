@@ -4,7 +4,7 @@ description: "Find out how to use the combo generator to create the perfect boxi
 p: "customCombos"
 layout: post
 tag: features
-
+featured: true
 
 
 ---

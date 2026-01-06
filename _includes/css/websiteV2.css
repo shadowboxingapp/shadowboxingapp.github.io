@@ -302,7 +302,7 @@ h4 a {
   font-weight: 700;
 }
 
-ul {
+ul, ol {
   padding: 24px 0px 24px 12px;
 }
 
