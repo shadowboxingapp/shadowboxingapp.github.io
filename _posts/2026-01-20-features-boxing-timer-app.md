@@ -1,6 +1,6 @@
 ---
 title: "The Best Free iOS Boxing Timer"
-description: "The Shadow Boxing App has a great free timer."
+description: "The Shadow Boxing App has a great free timer for boxing, MMA and more."
 p: "timerScreen"
 layout: post
 tag: features
