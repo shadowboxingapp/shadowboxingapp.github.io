@@ -1,6 +1,6 @@
 ---
 title: "Best Heavy Bags for Boxing at Home"
-imageCode: "punching_bag_speed_freestyle"
+imageCode: "punching_bag_rounds"
 description: "Discover our selection of heavy bag to punch at and get a great technical and cardio training."
 layout: post
 category: boxing equipment
