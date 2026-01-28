@@ -50,7 +50,7 @@ It helps you:
 - Keep technique sharp with guided punch sequences
 - Never get bored or struggle to find out what to do
 - Stay focused on your goals with stats and streaks to keep up
-- Mix in [learning how to box](/learn-boxing) so your heavy bag sessions improve skill, not just stamina
+- Mix in [learning how to box](/learn-boxing/) so your heavy bag sessions improve skill, not just stamina
 
 {% include getapp.html %}
 

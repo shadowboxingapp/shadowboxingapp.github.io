@@ -23,7 +23,7 @@ Every boxer is unique, and your training should be too. With [The Shadow Boxing 
 
 ## Full Technique Catalogue
 
-The Shadow Boxing App includes a complete catalogue of boxing techniques to [learn boxing](/learn-boxing) or to improve.
+The Shadow Boxing App includes a complete catalogue of boxing techniques to [learn boxing](/learn-boxing/) or to improve.
 
 From the basic jab, cross, hook, and uppercut to defensive moves and advanced combinations, you have everything you need to train correctly. Each technique is explained clearly, so you can improve both form and execution.
 
